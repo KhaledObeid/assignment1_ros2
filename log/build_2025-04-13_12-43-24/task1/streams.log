@@ -1,0 +1,40 @@
+[0.501s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[1.174s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[8.314s] In file included from [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:2[m[K:
+[8.314s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:58:37:[m[K [01;31m[Kerror: [m[Kthe type ‘[01m[Kconst rclcpp::Duration[m[K’ of ‘[01m[Kconstexpr[m[K’ variable ‘[01m[Ktask1::BumpGoNode1::SCAN_TIMEOUT[m[K’ is not literal
+[8.314s]    58 |   static constexpr rclcpp::Duration [01;31m[KSCAN_TIMEOUT[m[K = rclcpp::Duration::from_seconds(0.5);
+[8.314s]       |                                     [01;31m[K^~~~~~~~~~~~[m[K
+[8.314s] In file included from [01m[K/opt/ros/foxy/include/rclcpp/qos.hpp:20[m[K,
+[8.315s]                  from [01m[K/opt/ros/foxy/include/rclcpp/node_interfaces/node_graph_interface.hpp:31[m[K,
+[8.315s]                  from [01m[K/opt/ros/foxy/include/rclcpp/client.hpp:34[m[K,
+[8.315s]                  from [01m[K/opt/ros/foxy/include/rclcpp/callback_group.hpp:23[m[K,
+[8.320s]                  from [01m[K/opt/ros/foxy/include/rclcpp/any_executable.hpp:20[m[K,
+[8.320s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategy.hpp:24[m[K,
+[8.320s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategies.hpp:18[m[K,
+[8.320s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor_options.hpp:20[m[K,
+[8.320s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor.hpp:33[m[K,
+[8.321s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors/multi_threaded_executor.hpp:26[m[K,
+[8.321s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors.hpp:21[m[K,
+[8.321s]                  from [01m[K/opt/ros/foxy/include/rclcpp/rclcpp.hpp:146[m[K,
+[8.321s]                  from [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:4[m[K,
+[8.321s]                  from [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:2[m[K:
+[8.322s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:26:21:[m[K [01;36m[Knote: [m[K‘[01m[Krclcpp::Duration[m[K’ is not literal because:
+[8.323s]    26 | class RCLCPP_PUBLIC [01;36m[KDuration[m[K
+[8.323s]       |                     [01;36m[K^~~~~~~~[m[K
+[8.324s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:26:21:[m[K [01;36m[Knote: [m[K  ‘[01m[Krclcpp::Duration[m[K’ has a non-trivial destructor
+[8.324s] In file included from [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:2[m[K:
+[8.324s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:58:37:[m[K [01;31m[Kerror: [m[Kin-class initialization of static data member ‘[01m[Kconst rclcpp::Duration task1::BumpGoNode1::SCAN_TIMEOUT[m[K’ of non-literal type
+[8.325s]    58 |   static constexpr rclcpp::Duration [01;31m[KSCAN_TIMEOUT[m[K = rclcpp::Duration::from_seconds(0.5);
+[8.325s]       |                                     [01;31m[K^~~~~~~~~~~~[m[K
+[8.325s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:59:37:[m[K [01;31m[Kerror: [m[Kthe type ‘[01m[Kconst rclcpp::Duration[m[K’ of ‘[01m[Kconstexpr[m[K’ variable ‘[01m[Ktask1::BumpGoNode1::BACKING_TIME[m[K’ is not literal
+[8.325s]    59 |   static constexpr rclcpp::Duration [01;31m[KBACKING_TIME[m[K = rclcpp::Duration::from_seconds(1.0);
+[8.325s]       |                                     [01;31m[K^~~~~~~~~~~~[m[K
+[8.325s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:59:37:[m[K [01;31m[Kerror: [m[Kin-class initialization of static data member ‘[01m[Kconst rclcpp::Duration task1::BumpGoNode1::BACKING_TIME[m[K’ of non-literal type
+[8.325s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:60:37:[m[K [01;31m[Kerror: [m[Kthe type ‘[01m[Kconst rclcpp::Duration[m[K’ of ‘[01m[Kconstexpr[m[K’ variable ‘[01m[Ktask1::BumpGoNode1::TURNING_TIME[m[K’ is not literal
+[8.326s]    60 |   static constexpr rclcpp::Duration [01;31m[KTURNING_TIME[m[K = rclcpp::Duration::from_seconds(2.0);
+[8.326s]       |                                     [01;31m[K^~~~~~~~~~~~[m[K
+[8.326s] [01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:60:37:[m[K [01;31m[Kerror: [m[Kin-class initialization of static data member ‘[01m[Kconst rclcpp::Duration task1::BumpGoNode1::TURNING_TIME[m[K’ of non-literal type
+[9.672s] make[2]: *** [CMakeFiles/node.dir/build.make:63: CMakeFiles/node.dir/src/task1_main.cpp.o] Error 1
+[9.681s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[9.681s] make: *** [Makefile:141: all] Error 2
+[10.433s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7

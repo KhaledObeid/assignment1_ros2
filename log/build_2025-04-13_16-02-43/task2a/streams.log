@@ -1,0 +1,13 @@
+[0.442s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[0.899s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[7.858s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:[m[K In member function ‘[01m[Kvoid task2a::BumpGoNode2a::control_cycle()[m[K’:
+[7.859s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:63:47:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+[7.859s]    63 |         turn_duration_ = target_turn_angle_ / [01;31m[KSPEED_ANGULAR[m[K;
+[7.859s]       |                                               [01;31m[K^~~~~~~~~~~~~[m[K
+[7.972s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:79:45:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+[7.972s]    79 |       out_vel.angular.z = turn_direction_ * [01;31m[KSPEED_ANGULAR[m[K;
+[7.972s]       |                                             [01;31m[K^~~~~~~~~~~~~[m[K
+[15.132s] make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o] Error 1
+[15.132s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[15.211s] make: *** [Makefile:141: all] Error 2
+[15.211s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7

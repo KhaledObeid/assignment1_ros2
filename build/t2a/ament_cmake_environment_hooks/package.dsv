@@ -1,0 +1,4 @@
+source;share/t2a/local_setup.bash
+source;share/t2a/local_setup.dsv
+source;share/t2a/local_setup.sh
+source;share/t2a/local_setup.zsh

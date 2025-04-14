@@ -1,0 +1,82 @@
+[0.133s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp
+[7.559s] -- The C compiler identification is GNU 9.4.0
+[7.560s] -- The CXX compiler identification is GNU 9.4.0
+[7.560s] -- Check for working C compiler: /usr/bin/cc
+[7.561s] -- Check for working C compiler: /usr/bin/cc -- works
+[7.561s] -- Detecting C compiler ABI info
+[7.561s] -- Detecting C compiler ABI info - done
+[7.561s] -- Detecting C compile features
+[7.562s] -- Detecting C compile features - done
+[7.562s] -- Check for working CXX compiler: /usr/bin/c++
+[7.562s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[7.562s] -- Detecting CXX compiler ABI info
+[7.562s] -- Detecting CXX compiler ABI info - done
+[7.563s] -- Detecting CXX compile features
+[7.563s] -- Detecting CXX compile features - done
+[7.563s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[7.563s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[7.563s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.564s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[7.564s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[7.564s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.564s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[7.564s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[7.565s] -- Found FastRTPS: /opt/ros/foxy/include  
+[7.565s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.565s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[7.565s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.565s] -- Looking for pthread.h
+[7.862s] -- Looking for pthread.h - found
+[7.862s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.195s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[8.196s] -- Looking for pthread_create in pthreads
+[8.568s] -- Looking for pthread_create in pthreads - not found
+[8.568s] -- Looking for pthread_create in pthread
+[9.032s] -- Looking for pthread_create in pthread - found
+[9.050s] -- Found Threads: TRUE  
+[9.657s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[9.898s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[10.354s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.358s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.359s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_cpp/include
+[10.359s] -- Configured cppcheck exclude dirs and/or files: 
+[10.360s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.361s] -- Configured cpplint exclude dirs and/or files: 
+[10.395s] -- Added test 'flake8' to check Python code syntax and style conventions
+[10.396s] -- Added test 'lint_cmake' to check CMake code style
+[10.396s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[10.396s] -- Added test 'uncrustify' to check C / C++ code style
+[10.396s] -- Configured uncrustify additional arguments: 
+[10.412s] -- Added test 'xmllint' to check XML markup files
+[10.428s] -- Configuring done
+[10.472s] -- Generating done
+[10.511s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp
+[10.575s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp
+[10.599s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp -- -j7 -l7
+[10.893s] [35m[1mScanning dependencies of target bumpgo[0m
+[11.190s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/br2_fsm_bumpgo_cpp/BumpGoNode.cpp.o[0m
+[25.777s] [ 66%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o[0m
+[31.735s] [100%] [32m[1mLinking CXX executable bumpgo[0m
+[32.811s] [100%] Built target bumpgo
+[33.012s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp -- -j7 -l7
+[33.014s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp
+[33.197s] -- Install configuration: ""
+[33.198s] -- Execute custom install script
+[33.199s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/lib/br2_fsm_bumpgo_cpp/bumpgo
+[33.208s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/launch/bump_and_go.launch.py
+[33.261s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/package_run_dependencies/br2_fsm_bumpgo_cpp
+[33.382s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/parent_prefix_path/br2_fsm_bumpgo_cpp
+[33.395s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/ament_prefix_path.sh
+[33.415s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/ament_prefix_path.dsv
+[33.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/path.sh
+[33.473s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/path.dsv
+[33.509s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.bash
+[33.544s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.sh
+[33.599s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.zsh
+[33.643s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.dsv
+[33.996s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/package.dsv
+[34.050s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/packages/br2_fsm_bumpgo_cpp
+[34.091s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/cmake/br2_fsm_bumpgo_cppConfig.cmake
+[34.172s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/cmake/br2_fsm_bumpgo_cppConfig-version.cmake
+[34.204s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/package.xml
+[34.290s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_cpp

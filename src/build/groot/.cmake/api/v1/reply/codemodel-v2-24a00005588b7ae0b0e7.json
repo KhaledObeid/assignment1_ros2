@@ -1,0 +1,217 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5,
+						8,
+						11
+					]
+				},
+				{
+					"build" : "QtNodeEditor",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QtNodeEditor",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "groot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5,
+						8,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QtNodeEditor",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "GrootTest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Groot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Groot-42ef0015242c24db760c.json",
+					"name" : "Groot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Groot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Groot_autogen-9d47b59a5d192b90db88.json",
+					"name" : "Groot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QtNodeEditor::@b8987db7195ba95c5f5a",
+					"jsonFile" : "target-QtNodeEditor-3cec3a223553d1f4edf9.json",
+					"name" : "QtNodeEditor",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QtNodeEditor_autogen::@b8987db7195ba95c5f5a",
+					"jsonFile" : "target-QtNodeEditor_autogen-01b5bfbc718da3cb7e4c.json",
+					"name" : "QtNodeEditor_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "behavior_tree_editor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behavior_tree_editor-1e6565315bdb8ca580a2.json",
+					"name" : "behavior_tree_editor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "behavior_tree_editor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behavior_tree_editor_autogen-203818ba69bd70b348c7.json",
+					"name" : "behavior_tree_editor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "editor_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-editor_test-513ed87100f084f2c47c.json",
+					"name" : "editor_test",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "editor_test_autogen::@36f028580bb02cc8272a",
+					"jsonFile" : "target-editor_test_autogen-873b69efd6cba8bc647b.json",
+					"name" : "editor_test_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "groot_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-groot_uninstall-cd5ef03fe5e2999b5666.json",
+					"name" : "groot_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "replay_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-replay_test-e67939c518532b2126d9.json",
+					"name" : "replay_test",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "replay_test_autogen::@36f028580bb02cc8272a",
+					"jsonFile" : "target-replay_test_autogen-f56ebbc8907a25a98345.json",
+					"name" : "replay_test_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-762e4f50d19ad14d158d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khaledob/bookros2_ws/src/build/groot",
+		"source" : "/home/khaledob/bookros2_ws/src/ThirdParty/Groot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

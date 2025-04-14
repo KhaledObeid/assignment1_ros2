@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/build/br2_vff_avoidance/ament_cmake_environment_hooks/local_setup.sh

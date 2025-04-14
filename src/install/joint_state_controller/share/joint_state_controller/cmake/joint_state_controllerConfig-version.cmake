@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/joint_state_controller/ament_cmake_core/joint_state_controllerConfig-version.cmake

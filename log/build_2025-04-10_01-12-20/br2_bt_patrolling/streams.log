@@ -1,0 +1,143 @@
+[0.076s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/br2_bt_patrolling
+[0.447s] -- The C compiler identification is GNU 9.4.0
+[0.551s] -- The CXX compiler identification is GNU 9.4.0
+[0.562s] -- Check for working C compiler: /usr/bin/cc
+[0.885s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.889s] -- Detecting C compiler ABI info
+[1.125s] -- Detecting C compiler ABI info - done
+[1.161s] -- Detecting C compile features
+[1.164s] -- Detecting C compile features - done
+[1.171s] -- Check for working CXX compiler: /usr/bin/c++
+[1.403s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.408s] -- Detecting CXX compiler ABI info
+[1.709s] -- Detecting CXX compiler ABI info - done
+[1.746s] -- Detecting CXX compile features
+[1.748s] -- Detecting CXX compile features - done
+[1.752s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.814s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.819s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.295s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.331s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.392s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.401s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.674s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.793s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.957s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.115s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.120s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.123s] -- Looking for pthread.h
+[3.362s] -- Looking for pthread.h - found
+[3.363s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.778s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.778s] -- Looking for pthread_create in pthreads
+[3.989s] -- Looking for pthread_create in pthreads - not found
+[3.989s] -- Looking for pthread_create in pthread
+[4.202s] -- Looking for pthread_create in pthread - found
+[4.204s] -- Found Threads: TRUE  
+[4.502s] -- Found rclcpp_lifecycle: 2.4.3 (/opt/ros/foxy/share/rclcpp_lifecycle/cmake)
+[4.558s] -- Found rclcpp_action: 2.4.3 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[4.675s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[4.809s] -- Found nav2_msgs: 0.4.7 (/opt/ros/foxy/share/nav2_msgs/cmake)
+[5.386s] -- Found ament_index_cpp: 1.1.0 (/opt/ros/foxy/share/ament_index_cpp/cmake)
+[5.396s] -- Found ZMQ: /usr/lib/x86_64-linux-gnu/libzmq.so  
+[5.396s] -- ZeroMQ found.
+[5.438s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.616s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.625s] -- Check if compiler accepts -pthread
+[5.773s] -- Check if compiler accepts -pthread - yes
+[5.791s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.792s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.795s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling/include
+[5.795s] -- Configured cppcheck exclude dirs and/or files: 
+[5.797s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.797s] -- Configured cpplint exclude dirs and/or files: 
+[5.797s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.798s] -- Added test 'lint_cmake' to check CMake code style
+[5.801s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.801s] -- Added test 'uncrustify' to check C / C++ code style
+[5.801s] -- Configured uncrustify additional arguments: 
+[5.802s] -- Added test 'xmllint' to check XML markup files
+[5.813s] -- Configuring done
+[6.031s] -- Generating done
+[6.116s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/br2_bt_patrolling
+[6.146s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/br2_bt_patrolling
+[6.148s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_patrolling -- -j4 -l4
+[6.340s] [35m[1mScanning dependencies of target br2_recharge_bt_node[0m
+[6.434s] [  5%] [32mBuilding CXX object CMakeFiles/br2_recharge_bt_node.dir/src/br2_bt_patrolling/Recharge.cpp.o[0m
+[10.244s] [ 10%] [32m[1mLinking CXX shared library libbr2_recharge_bt_node.so[0m
+[10.632s] [ 10%] Built target br2_recharge_bt_node
+[10.666s] [35m[1mScanning dependencies of target br2_move_bt_node[0m
+[10.759s] [ 15%] [32mBuilding CXX object CMakeFiles/br2_move_bt_node.dir/src/br2_bt_patrolling/Move.cpp.o[0m
+[19.305s] [ 20%] [32m[1mLinking CXX shared library libbr2_move_bt_node.so[0m
+[19.714s] [ 20%] Built target br2_move_bt_node
+[19.732s] [35m[1mScanning dependencies of target br2_get_waypoint_bt_node[0m
+[19.811s] [ 25%] [32mBuilding CXX object CMakeFiles/br2_get_waypoint_bt_node.dir/src/br2_bt_patrolling/GetWaypoint.cpp.o[0m
+[25.334s] [ 30%] [32m[1mLinking CXX shared library libbr2_get_waypoint_bt_node.so[0m
+[25.616s] [ 30%] Built target br2_get_waypoint_bt_node
+[25.653s] [35m[1mScanning dependencies of target br2_track_objects_bt_node[0m
+[25.765s] [ 35%] [32mBuilding CXX object CMakeFiles/br2_track_objects_bt_node.dir/src/br2_bt_patrolling/TrackObjects.cpp.o[0m
+[33.136s] [ 40%] [32m[1mLinking CXX shared library libbr2_track_objects_bt_node.so[0m
+[33.497s] [ 40%] Built target br2_track_objects_bt_node
+[33.529s] [35m[1mScanning dependencies of target br2_patrol_bt_node[0m
+[33.594s] [ 45%] [32mBuilding CXX object CMakeFiles/br2_patrol_bt_node.dir/src/br2_bt_patrolling/Patrol.cpp.o[0m
+[40.043s] [ 50%] [32m[1mLinking CXX shared library libbr2_patrol_bt_node.so[0m
+[40.418s] [ 50%] Built target br2_patrol_bt_node
+[40.435s] [35m[1mScanning dependencies of target gtest[0m
+[40.464s] [ 55%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[46.433s] [ 60%] [32m[1mLinking CXX static library libgtest.a[0m
+[46.564s] [ 60%] Built target gtest
+[46.581s] [35m[1mScanning dependencies of target gtest_main[0m
+[46.604s] [ 65%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[48.600s] [ 70%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[48.659s] [ 70%] Built target gtest_main
+[49.037s] [35m[1mScanning dependencies of target patrolling_main[0m
+[49.093s] [ 75%] [32mBuilding CXX object CMakeFiles/patrolling_main.dir/src/patrolling_main.cpp.o[0m
+[54.662s] [ 80%] [32m[1mLinking CXX executable patrolling_main[0m
+[54.991s] [ 80%] Built target patrolling_main
+[55.012s] [35m[1mScanning dependencies of target bt_action_test[0m
+[55.093s] [ 85%] [32mBuilding CXX object tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o[0m
+[73.404s] [ 90%] [32m[1mLinking CXX executable bt_action_test[0m
+[74.617s] [ 90%] Built target bt_action_test
+[74.636s] [35m[1mScanning dependencies of target br2_battery_checker_bt_node[0m
+[74.696s] [ 95%] [32mBuilding CXX object CMakeFiles/br2_battery_checker_bt_node.dir/src/br2_bt_patrolling/BatteryChecker.cpp.o[0m
+[85.074s] [100%] [32m[1mLinking CXX shared library libbr2_battery_checker_bt_node.so[0m
+[85.897s] [100%] Built target br2_battery_checker_bt_node
+[85.929s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_patrolling -- -j4 -l4
+[85.937s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_patrolling
+[85.955s] -- Install configuration: "Debug"
+[85.956s] -- Execute custom install script
+[85.957s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_recharge_bt_node.so
+[85.993s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_patrol_bt_node.so
+[86.045s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_move_bt_node.so
+[86.081s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_get_waypoint_bt_node.so
+[86.108s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_battery_checker_bt_node.so
+[86.153s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_track_objects_bt_node.so
+[86.168s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/br2_bt_patrolling/patrolling_main
+[86.183s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/BatteryChecker.hpp
+[86.197s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/GetWaypoint.hpp
+[86.214s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Move.hpp
+[86.229s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Patrol.hpp
+[86.245s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Recharge.hpp
+[86.259s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/TrackObjects.hpp
+[86.273s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTActionNode.hpp
+[86.289s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTLifecycleCtrlNode.hpp
+[86.306s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/behavior_tree_xml/patrolling.xml
+[86.320s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/launch/patrolling.launch.py
+[86.336s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/package_run_dependencies/br2_bt_patrolling
+[86.368s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/parent_prefix_path/br2_bt_patrolling
+[86.393s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.sh
+[86.413s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.dsv
+[86.429s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.sh
+[86.447s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.dsv
+[86.464s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.bash
+[86.496s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.sh
+[86.510s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.zsh
+[86.526s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.dsv
+[86.542s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.dsv
+[86.563s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/packages/br2_bt_patrolling
+[86.582s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_include_directories-extras.cmake
+[86.597s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_dependencies-extras.cmake
+[86.631s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig.cmake
+[86.646s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig-version.cmake
+[86.660s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.xml
+[86.690s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_patrolling

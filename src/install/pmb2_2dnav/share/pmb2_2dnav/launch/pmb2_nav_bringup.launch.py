@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_2dnav/launch/pmb2_nav_bringup.launch.py

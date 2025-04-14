@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable node[0m
+[100%] Built target node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/lib/task1/node
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/launch/my_launch_file
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/package_run_dependencies/task1
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/parent_prefix_path/task1
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/packages/task1
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.xml

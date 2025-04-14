@@ -1,0 +1,50 @@
+[0.133s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_navigation
+[1.042s] -- The C compiler identification is GNU 9.4.0
+[1.043s] -- The CXX compiler identification is GNU 9.4.0
+[1.043s] -- Check for working C compiler: /usr/bin/cc
+[1.444s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.446s] -- Detecting C compiler ABI info
+[2.352s] -- Detecting C compiler ABI info - done
+[2.393s] -- Detecting C compile features
+[2.394s] -- Detecting C compile features - done
+[2.465s] -- Check for working CXX compiler: /usr/bin/c++
+[3.292s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.293s] -- Detecting CXX compiler ABI info
+[3.856s] -- Detecting CXX compiler ABI info - done
+[3.917s] -- Detecting CXX compile features
+[3.924s] -- Detecting CXX compile features - done
+[3.925s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[4.026s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.026s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.845s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.018s] -- Configuring done
+[5.028s] -- Generating done
+[5.029s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/br2_navigation
+[5.106s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_navigation
+[5.134s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_navigation -- -j7 -l7
+[13.968s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_navigation -- -j7 -l7
+[13.991s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_navigation
+[20.023s] -- Install configuration: ""
+[20.024s] -- Execute custom install script
+[20.047s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/launch/navigation_launch.py
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/launch/tiago_navigation.launch.py
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/params/mapper_params_online_async.yaml
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/params/tiago_nav_params.yaml
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/maps/home.pgm
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/maps/home.yaml
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/ament_index/resource_index/package_run_dependencies/br2_navigation
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/ament_index/resource_index/parent_prefix_path/br2_navigation
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.sh
+[20.048s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.dsv
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/environment/path.sh
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/environment/path.dsv
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/local_setup.bash
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/local_setup.sh
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/local_setup.zsh
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/local_setup.dsv
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/package.dsv
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/ament_index/resource_index/packages/br2_navigation
+[20.049s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig.cmake
+[20.050s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig-version.cmake
+[20.050s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_navigation/share/br2_navigation/package.xml
+[20.063s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_navigation

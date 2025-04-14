@@ -1,0 +1,1 @@
+joint_state_publisher_gui:launch:launch_pal:launch_ros:pmb2_controller_configuration:xacro

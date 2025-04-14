@@ -1,0 +1,43 @@
+[0.632s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_bumpgo -- -j7 -l7
+[0.982s] [ 11%] Built target br2_back_bt_node
+[1.052s] [ 22%] Built target br2_turn_bt_node
+[1.052s] [ 33%] Built target bt_bumpgo
+[1.053s] [ 44%] Built target gtest
+[1.053s] [ 55%] Built target br2_forward_bt_node
+[1.076s] [ 66%] Built target bt_forward
+[1.124s] [ 77%] Built target br2_is_obstacle_bt_node
+[1.295s] [ 88%] Built target gtest_main
+[1.475s] [100%] Built target bt_action_test
+[2.286s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_bumpgo -- -j7 -l7
+[2.335s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_bumpgo
+[2.339s] -- Install configuration: ""
+[2.345s] -- Execute custom install script
+[2.346s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_forward_bt_node.so
+[2.346s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_back_bt_node.so
+[2.346s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_turn_bt_node.so
+[2.346s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_is_obstacle_bt_node.so
+[2.346s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/br2_bt_bumpgo/bt_bumpgo
+[2.347s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Back.hpp
+[2.347s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Forward.hpp
+[2.347s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/IsObstacle.hpp
+[2.348s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Turn.hpp
+[2.348s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/behavior_tree_xml/bumpgo.xml
+[2.348s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/lib/br2_bt_bumpgo/bt_forward
+[2.349s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/package_run_dependencies/br2_bt_bumpgo
+[2.349s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/parent_prefix_path/br2_bt_bumpgo
+[2.349s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/ament_prefix_path.sh
+[2.350s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/ament_prefix_path.dsv
+[2.351s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/path.sh
+[2.351s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/path.dsv
+[2.351s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.bash
+[2.352s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.sh
+[2.352s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.zsh
+[2.352s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.dsv
+[2.352s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/package.dsv
+[2.360s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/packages/br2_bt_bumpgo
+[2.361s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.362s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.362s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/br2_bt_bumpgoConfig.cmake
+[2.365s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/br2_bt_bumpgoConfig-version.cmake
+[2.366s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/package.xml
+[2.782s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_bumpgo

@@ -1,0 +1,69 @@
+[0.092s] Invoking command in '/home/khaledob/bookros2_ws/src/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/Groot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/groot
+[0.792s] -- The C compiler identification is GNU 9.4.0
+[1.041s] -- The CXX compiler identification is GNU 9.4.0
+[1.072s] -- Check for working C compiler: /usr/bin/cc
+[1.535s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.538s] -- Detecting C compiler ABI info
+[1.927s] -- Detecting C compiler ABI info - done
+[1.994s] -- Detecting C compile features
+[1.994s] -- Detecting C compile features - done
+[2.000s] -- Check for working CXX compiler: /usr/bin/c++
+[2.415s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.418s] -- Detecting CXX compiler ABI info
+[2.987s] -- Detecting CXX compiler ABI info - done
+[3.036s] -- Detecting CXX compile features
+[3.064s] -- Detecting CXX compile features - done
+[3.325s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.326s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.004s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.132s] -- Found ament_index_cpp: 1.1.0 (/opt/ros/foxy/share/ament_index_cpp/cmake)
+[4.132s] -- ---------------------
+[4.132s] -- Compiling with AMENT.
+[4.132s] -- ---------------------
+[4.277s] -- Found ZMQ: /usr/lib/x86_64-linux-gnu/libzmq.so  
+[4.277s] -- ZeroMQ found.
+[4.494s] -- Configuring done
+[5.400s] -- Generating done
+[5.435s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/groot
+[5.453s] Invoked command in '/home/khaledob/bookros2_ws/src/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/Groot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/groot
+[5.479s] Invoking command in '/home/khaledob/bookros2_ws/src/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/groot -- -j7 -l7
+[6.120s] [35m[1mScanning dependencies of target QtNodeEditor_autogen[0m
+[6.120s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[6.255s] [  1%] Built target QtNodeEditor_autogen
+[6.303s] [  2%] [34m[1mGenerating include/nodes/internal/moc_memory.cpp[0m
+[6.459s] [  3%] [34m[1mGenerating include/nodes/internal/moc_ConnectionState.cpp[0m
+[8.156s] [  4%] [34m[1mGenerating include/nodes/internal/moc_ConnectionStyle.cpp[0m
+[8.620s] [  4%] [34m[1mGenerating include/nodes/internal/moc_DataModelRegistry.cpp[0m
+[8.958s] [  5%] [34m[1mGenerating include/nodes/internal/moc_Export.cpp[0m
+[9.141s] [  6%] [34m[1mGenerating include/nodes/internal/moc_FlowScene.cpp[0m
+[9.370s] [  7%] [34m[1mGenerating include/nodes/internal/moc_FlowView.cpp[0m
+[9.653s] [  7%] [34m[1mGenerating include/nodes/internal/moc_FlowViewStyle.cpp[0m
+[9.890s] [  8%] [34m[1mGenerating include/nodes/internal/moc_Node.cpp[0m
+[11.007s] [  9%] [34m[1mGenerating include/nodes/internal/moc_NodeData.cpp[0m
+[11.516s] [  9%] [34m[1mGenerating include/nodes/internal/moc_NodeDataModel.cpp[0m
+[11.762s] [ 10%] [34m[1mGenerating include/nodes/internal/moc_NodeGeometry.cpp[0m
+[11.892s] [ 11%] [34m[1mGenerating include/nodes/internal/moc_NodeGraphicsObject.cpp[0m
+[12.148s] [ 12%] [34m[1mGenerating include/nodes/internal/moc_NodePainterDelegate.cpp[0m
+[12.436s] [ 12%] [34m[1mGenerating include/nodes/internal/moc_NodeState.cpp[0m
+[12.636s] [ 13%] [34m[1mGenerating include/nodes/internal/moc_NodeStyle.cpp[0m
+[13.054s] [ 14%] [34m[1mGenerating include/nodes/internal/moc_OperatingSystem.cpp[0m
+[13.935s] [ 14%] [34m[1mGenerating include/nodes/internal/moc_PortType.cpp[0m
+[14.214s] [ 15%] [34m[1mGenerating include/nodes/internal/moc_QStringStdHash.cpp[0m
+[14.399s] [ 16%] [34m[1mGenerating include/nodes/internal/moc_QUuidStdHash.cpp[0m
+[14.591s] [ 17%] [34m[1mGenerating include/nodes/internal/moc_Serializable.cpp[0m
+[14.671s] [ 17%] [34m[1mGenerating include/nodes/internal/moc_Style.cpp[0m
+[14.811s] [ 18%] [34m[1mGenerating include/nodes/internal/moc_TypeConverter.cpp[0m
+[14.919s] [ 18%] [34m[1mGenerating include/nodes/internal/moc_ConnectionGraphicsObject.cpp[0m
+[15.182s] [ 19%] [34m[1mGenerating include/nodes/internal/moc_ConnectionGeometry.cpp[0m
+[15.315s] [ 20%] [34m[1mGenerating include/nodes/internal/moc_Connection.cpp[0m
+[15.817s] [ 21%] [34m[1mGenerating include/nodes/internal/moc_Compiler.cpp[0m
+[17.496s] [ 21%] [34m[1mGenerating qrc_resources.cpp[0m
+[17.608s] [35m[1mScanning dependencies of target QtNodeEditor[0m
+[20.001s] [ 21%] [32mBuilding CXX object QtNodeEditor/CMakeFiles/QtNodeEditor.dir/QtNodeEditor_autogen/mocs_compilation.cpp.o[0m
+[20.076s] [ 22%] [32mBuilding CXX object QtNodeEditor/CMakeFiles/QtNodeEditor.dir/src/ConnectionState.cpp.o[0m
+[24.747s] [ 22%] [32mBuilding CXX object QtNodeEditor/CMakeFiles/QtNodeEditor.dir/src/ConnectionStyle.cpp.o[0m
+[27.406s] [ 23%] [32mBuilding CXX object QtNodeEditor/CMakeFiles/QtNodeEditor.dir/src/DataModelRegistry.cpp.o[0m
+[31.831s] [ 24%] [32mBuilding CXX object QtNodeEditor/CMakeFiles/QtNodeEditor.dir/src/FlowScene.cpp.o[0m
+[34.940s] make[2]: *** [QtNodeEditor/CMakeFiles/QtNodeEditor.dir/build.make:295: QtNodeEditor/CMakeFiles/QtNodeEditor.dir/src/FlowScene.cpp.o] Interrupt
+[34.941s] make[1]: *** [CMakeFiles/Makefile2:293: QtNodeEditor/CMakeFiles/QtNodeEditor.dir/all] Interrupt
+[34.941s] make: *** [Makefile:141: all] Interrupt

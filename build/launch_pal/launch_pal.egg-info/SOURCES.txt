@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+launch_pal/__init__.py
+launch_pal/arg_utils.py
+launch_pal/include_utils.py
+launch_pal/param_utils.py
+launch_pal.egg-info/PKG-INFO
+launch_pal.egg-info/SOURCES.txt
+launch_pal.egg-info/dependency_links.txt
+launch_pal.egg-info/entry_points.txt
+launch_pal.egg-info/requires.txt
+launch_pal.egg-info/top_level.txt
+launch_pal.egg-info/zip-safe
+resource/launch_pal

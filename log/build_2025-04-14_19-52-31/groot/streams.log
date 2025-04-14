@@ -1,0 +1,43 @@
+[0.271s] Invoking command in '/home/khaledob/bookros2_ws/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/groot -- -j7 -l7
+[0.390s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[0.495s] [  1%] Built target QtNodeEditor_autogen
+[0.662s] [ 57%] Built target QtNodeEditor
+[0.765s] [ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[0.806s] [ 58%] Built target behavior_tree_editor_autogen
+[0.936s] [ 74%] Built target behavior_tree_editor
+[1.001s] [ 75%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[1.007s] [ 75%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[1.009s] [ 76%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[1.085s] [ 76%] Built target replay_test_autogen
+[1.087s] [ 76%] Built target Groot_autogen
+[1.087s] [ 76%] Built target editor_test_autogen
+[1.154s] [ 82%] Built target Groot
+[1.157s] [ 91%] Built target replay_test
+[1.219s] [100%] Built target editor_test
+[1.353s] Invoked command in '/home/khaledob/bookros2_ws/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/groot -- -j7 -l7
+[1.356s] Invoking command in '/home/khaledob/bookros2_ws/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/groot
+[1.417s] -- Install configuration: ""
+[1.417s] -- Execute custom install script
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/lib/libbehavior_tree_editor.so
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/lib/groot/Groot
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/library_path.sh
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/library_path.dsv
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/ament_index/resource_index/package_run_dependencies/groot
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/ament_index/resource_index/parent_prefix_path/groot
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/ament_prefix_path.sh
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/ament_prefix_path.dsv
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/path.sh
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/environment/path.dsv
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/local_setup.bash
+[1.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/local_setup.sh
+[1.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/local_setup.zsh
+[1.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/local_setup.dsv
+[1.420s] -- Symlinking: /home/khaledob/bookros2_ws/install/groot/share/groot/package.dsv
+[1.432s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/ament_index/resource_index/packages/groot
+[1.433s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.433s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.434s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_libraries-extras.cmake
+[1.434s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/cmake/grootConfig.cmake
+[1.435s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/cmake/grootConfig-version.cmake
+[1.435s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/groot/share/groot/package.xml
+[1.483s] Invoked command in '/home/khaledob/bookros2_ws/build/groot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/groot

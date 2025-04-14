@@ -1,0 +1,29 @@
+[0.867s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tf2_detector -- -j7 -l7
+[1.236s] [ 50%] Built target br2_tf2_detector
+[1.475s] [ 75%] Built target detector_improved
+[1.478s] [100%] Built target detector
+[2.004s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tf2_detector -- -j7 -l7
+[2.019s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tf2_detector
+[2.046s] -- Install configuration: ""
+[2.048s] -- Execute custom install script
+[2.048s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/libbr2_tf2_detector.so
+[2.049s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector
+[2.051s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector_improved
+[2.052s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_basic.launch.py
+[2.055s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_improved.launch.py
+[2.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/package_run_dependencies/br2_tf2_detector
+[2.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/parent_prefix_path/br2_tf2_detector
+[2.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.sh
+[2.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.dsv
+[2.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.sh
+[2.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.dsv
+[2.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.bash
+[2.073s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.sh
+[2.073s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.zsh
+[2.073s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.dsv
+[2.073s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.dsv
+[2.151s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/packages/br2_tf2_detector
+[2.154s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig.cmake
+[2.157s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig-version.cmake
+[2.160s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.xml
+[2.192s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tf2_detector

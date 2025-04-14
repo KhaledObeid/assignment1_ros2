@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/khaledob/bookros2_ws/src/build/imu_sensor_broadcaster/libimu_sensor_broadcaster.so" "TARGETS" "imu_sensor_broadcaster" "RUNTIME_DESTINATION" "bin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib")

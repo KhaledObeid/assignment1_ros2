@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "br2_basics",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "br2_basics_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-br2_basics_uninstall-4ceecd0908520948c336.json",
+					"name" : "br2_basics_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executors-0b10f24e2f5e8c0f9c0f.json",
+					"name" : "executors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logger-644584bc0dc7a1827b46.json",
+					"name" : "logger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logger_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logger_class-9d180950d1fa8bb6ab87.json",
+					"name" : "logger_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "param_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-param_reader-6f7ab4bbf1ea91080e6f.json",
+					"name" : "param_reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-publisher-155c0351b989248b365c.json",
+					"name" : "publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "publisher_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-publisher_class-e837911e017ea526cf91.json",
+					"name" : "publisher_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subscriber_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subscriber_class-2b76fc6e70037ca9d414.json",
+					"name" : "subscriber_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-d3408fc13c4ffe8ce006.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khaledob/bookros2_ws/src/build/br2_basics",
+		"source" : "/home/khaledob/bookros2_ws/src/book_ros2/br2_basics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

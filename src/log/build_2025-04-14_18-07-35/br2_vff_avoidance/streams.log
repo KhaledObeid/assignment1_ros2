@@ -1,0 +1,8 @@
+[0.310s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_vff_avoidance -- -j7 -l7
+[0.519s] [ 20%] Built target gtest
+[0.553s] [ 40%] Built target gtest_main
+[0.571s] [ 60%] Built target br2_vff_avoidance
+[0.708s] [ 80%] Built target avoidance_vff
+[0.741s] [100%] Built target vff_test
+[0.942s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_vff_avoidance' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_vff_avoidance -- -j7 -l7
+[0.943s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_vff_avoidance

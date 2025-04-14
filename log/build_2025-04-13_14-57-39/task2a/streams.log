@@ -1,0 +1,26 @@
+[0.215s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[0.456s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.661s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.939s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.960s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.298s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.298s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[3.216s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.436s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.457s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.102s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[4.628s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.936s] CMake Error at /opt/ros/foxy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[4.936s]   ament_package_xml() package name 'task2a' in '/package.xml' does not match
+[4.941s]   current PROJECT_NAME 'task1'.  You must call project() with the same
+[4.945s]   package name before.
+[4.946s] Call Stack (most recent call first):
+[4.954s]   /opt/ros/foxy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[4.954s]   CMakeLists.txt:41 (ament_lint_auto_find_test_dependencies)
+[4.954s] 
+[4.955s] 
+[4.959s] -- Configuring incomplete, errors occurred!
+[4.960s] See also "/home/khaledob/bookros2_ws/build/task2a/CMakeFiles/CMakeOutput.log".
+[4.960s] See also "/home/khaledob/bookros2_ws/build/task2a/CMakeFiles/CMakeError.log".
+[4.983s] make: *** [Makefile:222: cmake_check_build_system] Error 1
+[5.152s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7

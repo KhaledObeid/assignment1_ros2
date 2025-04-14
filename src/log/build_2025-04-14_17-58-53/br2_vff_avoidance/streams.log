@@ -1,0 +1,15 @@
+[0.120s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_vff_avoidance -- -j7 -l7
+[0.424s] [ 20%] Built target br2_vff_avoidance
+[0.497s] [ 40%] Built target gtest_main
+[0.528s] [35m[1mScanning dependencies of target avoidance_vff[0m
+[0.651s] [ 50%] [32mBuilding CXX object CMakeFiles/avoidance_vff.dir/src/avoidance_vff_main.cpp.o[0m
+[4.887s] [ 60%] [32m[1mLinking CXX executable avoidance_vff[0m
+[5.306s] [ 60%] Built target avoidance_vff
+[5.332s] [35m[1mScanning dependencies of target gtest[0m
+[5.373s] [ 70%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[20.450s] [ 80%] [32m[1mLinking CXX static library libgtest.a[0m
+[20.600s] [ 80%] Built target gtest
+[20.624s] [35m[1mScanning dependencies of target vff_test[0m
+[20.692s] [ 90%] [32mBuilding CXX object tests/CMakeFiles/vff_test.dir/vff_test.cpp.o[0m
+[34.431s] [100%] [32m[1mLinking CXX executable vff_test[0m
+[35.543s] [100%] Built target vff_test

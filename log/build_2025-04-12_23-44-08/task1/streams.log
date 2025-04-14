@@ -1,0 +1,38 @@
+[0.306s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task1
+[0.415s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.426s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.921s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.009s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.132s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.133s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.539s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.692s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.726s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.122s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[2.390s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.643s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.643s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.644s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/task1/include
+[2.647s] -- Configured cppcheck exclude dirs and/or files: 
+[2.648s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.648s] -- Configured cpplint exclude dirs and/or files: 
+[2.648s] -- Added test 'lint_cmake' to check CMake code style
+[2.648s] -- Added test 'uncrustify' to check C / C++ code style
+[2.652s] -- Configured uncrustify additional arguments: 
+[2.652s] -- Added test 'xmllint' to check XML markup files
+[2.653s] CMake Error at CMakeLists.txt:19 (add_executable):
+[2.654s]   Cannot find source file:
+[2.654s] 
+[2.654s]     src/task1/BumpgoNode1.cpp
+[2.654s] 
+[2.654s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+[2.654s]   .hpp .hxx .in .txx
+[2.654s] 
+[2.654s] 
+[2.654s] CMake Error at CMakeLists.txt:19 (add_executable):
+[2.654s]   No SOURCES given to target: bumpgo
+[2.654s] 
+[2.655s] 
+[2.655s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[2.655s] -- Configuring done
+[2.884s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task1

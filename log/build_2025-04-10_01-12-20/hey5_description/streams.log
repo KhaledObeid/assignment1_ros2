@@ -1,0 +1,61 @@
+[0.028s] Invoking command in '/home/khaledob/bookros2_ws/build/hey5_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/hey5_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/hey5_description
+[0.329s] -- The C compiler identification is GNU 9.4.0
+[0.414s] -- The CXX compiler identification is GNU 9.4.0
+[0.414s] -- Check for working C compiler: /usr/bin/cc
+[0.652s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.652s] -- Detecting C compiler ABI info
+[0.780s] -- Detecting C compiler ABI info - done
+[0.805s] -- Detecting C compile features
+[0.806s] -- Detecting C compile features - done
+[0.822s] -- Check for working CXX compiler: /usr/bin/c++
+[1.149s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.154s] -- Detecting CXX compiler ABI info
+[1.558s] -- Detecting CXX compiler ABI info - done
+[1.576s] -- Detecting CXX compile features
+[1.579s] -- Detecting CXX compile features - done
+[1.581s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[1.789s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.789s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.918s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.069s] -- Configuring done
+[3.072s] -- Generating done
+[3.074s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/hey5_description
+[3.110s] Invoked command in '/home/khaledob/bookros2_ws/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/hey5_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/hey5_description
+[3.112s] Invoking command in '/home/khaledob/bookros2_ws/build/hey5_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/hey5_description -- -j4 -l4
+[3.280s] Invoked command in '/home/khaledob/bookros2_ws/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/hey5_description -- -j4 -l4
+[3.281s] Invoking command in '/home/khaledob/bookros2_ws/build/hey5_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/hey5_description
+[3.322s] -- Install configuration: ""
+[3.323s] -- Execute custom install script
+[3.324s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/config/two_hands.rviz
+[3.347s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/gazebo/gazebo.urdf.xacro
+[3.376s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/launch/hey5_kinematics_test.launch
+[3.399s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_abd_collision.stl
+[3.420s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_flex_collision.stl
+[3.447s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_flex_tip_collision.stl
+[3.476s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/palm.stl
+[3.511s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/palm_collision.stl
+[3.549s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/meshes/thumb_abd_collision.stl
+[3.602s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/robots/hey5_test.urdf.xacro
+[3.636s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/actuators.urdf.xacro
+[3.660s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/deg_to_rad.urdf.xacro
+[3.717s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/fingers.urdf.xacro
+[3.750s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/hey5_hand.urdf.xacro
+[3.784s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/materials.urdf.xacro
+[3.806s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/palm.urdf.xacro
+[3.838s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/urdf/transmissions.urdf.xacro
+[3.855s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/ament_index/resource_index/package_run_dependencies/hey5_description
+[3.888s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/ament_index/resource_index/parent_prefix_path/hey5_description
+[3.929s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/environment/ament_prefix_path.sh
+[3.959s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/environment/ament_prefix_path.dsv
+[4.076s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/environment/path.sh
+[4.158s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/environment/path.dsv
+[4.226s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.bash
+[4.267s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.sh
+[4.289s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.zsh
+[4.342s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.dsv
+[4.383s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/package.dsv
+[4.417s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/ament_index/resource_index/packages/hey5_description
+[4.456s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig.cmake
+[4.484s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig-version.cmake
+[4.517s] -- Symlinking: /home/khaledob/bookros2_ws/install/hey5_description/share/hey5_description/package.xml
+[4.701s] Invoked command in '/home/khaledob/bookros2_ws/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/hey5_description

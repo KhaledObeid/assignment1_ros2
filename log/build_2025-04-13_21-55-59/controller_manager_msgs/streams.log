@@ -1,0 +1,307 @@
+[2.362s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_manager_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_manager_msgs -- -j7 -l7
+[6.856s] [ 12%] Built target controller_manager_msgs__rosidl_generator_c
+[6.958s] [ 12%] Built target controller_manager_msgs__cpp
+[6.961s] [ 24%] Built target controller_manager_msgs__rosidl_typesupport_c
+[6.961s] [ 36%] Built target controller_manager_msgs__rosidl_typesupport_introspection_cpp
+[8.184s] [ 48%] Built target controller_manager_msgs__rosidl_typesupport_fastrtps_cpp
+[9.939s] [ 60%] Built target controller_manager_msgs__rosidl_typesupport_cpp
+[11.291s] [ 72%] Built target controller_manager_msgs__rosidl_typesupport_fastrtps_c
+[12.873s] [ 84%] Built target controller_manager_msgs__rosidl_typesupport_introspection_c
+[13.271s] [ 84%] Built target controller_manager_msgs
+[13.616s] [ 85%] Built target controller_manager_msgs__py
+[14.749s] [ 96%] Built target controller_manager_msgs__python
+[15.981s] [ 97%] Built target controller_manager_msgs__rosidl_typesupport_c__pyext
+[15.981s] [ 98%] Built target controller_manager_msgs__rosidl_typesupport_fastrtps_c__pyext
+[16.817s] [100%] Built target controller_manager_msgs__rosidl_typesupport_introspection_c__pyext
+[19.328s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_manager_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_manager_msgs -- -j7 -l7
+[19.638s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_manager_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_manager_msgs
+[20.785s] -- Install configuration: ""
+[20.843s] -- Execute custom install script
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/ament_index/resource_index/rosidl_interfaces/controller_manager_msgs
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/controller_state.h
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__functions.h
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__struct.h
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__type_support.h
+[20.843s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__functions.h
+[20.844s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__struct.h
+[20.845s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__type_support.h
+[20.845s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/hardware_interface.h
+[20.845s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/rosidl_generator_c__visibility_control.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/configure_controller.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/configure_start_controller.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__functions.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__struct.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__type_support.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__functions.h
+[20.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__struct.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__type_support.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__functions.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__struct.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__type_support.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__functions.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__struct.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__type_support.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__functions.h
+[20.847s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__struct.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__type_support.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__functions.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__struct.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__type_support.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__functions.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__struct.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__type_support.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__functions.h
+[20.848s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__struct.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__type_support.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__functions.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__struct.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__type_support.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__functions.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__struct.h
+[20.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__type_support.h
+[21.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__functions.h
+[21.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__struct.h
+[21.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__type_support.h
+[21.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_controller_types.h
+[21.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_controllers.h
+[21.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_hardware_interfaces.h
+[21.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_configure_controller.h
+[21.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_controller.h
+[21.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_start_controller.h
+[21.697s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/reload_controller_libraries.h
+[21.763s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/switch_controller.h
+[21.763s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/unload_controller.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/library_path.sh
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/library_path.dsv
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__rosidl_typesupport_fastrtps_c.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__rosidl_typesupport_fastrtps_c.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__rosidl_typesupport_fastrtps_c.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__rosidl_typesupport_fastrtps_c.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__rosidl_typesupport_fastrtps_c.h
+[21.764s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__rosidl_typesupport_fastrtps_c.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_fastrtps_c.so
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__rosidl_typesupport_fastrtps_cpp.hpp
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__rosidl_typesupport_fastrtps_cpp.hpp
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[21.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_fastrtps_cpp.so
+[21.766s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__rosidl_typesupport_introspection_c.h
+[21.767s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__rosidl_typesupport_introspection_c.h
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__rosidl_typesupport_introspection_c.h
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__rosidl_typesupport_introspection_c.h
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/controller_state.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__builder.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__struct.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__traits.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__type_support.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__builder.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__struct.hpp
+[21.768s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__traits.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__type_support.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/hardware_interface.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/configure_controller.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/configure_start_controller.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__builder.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__struct.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__traits.hpp
+[21.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__type_support.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__builder.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__struct.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__traits.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__type_support.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__builder.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__struct.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__traits.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__type_support.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__builder.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__struct.hpp
+[21.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__traits.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__type_support.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__builder.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__struct.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__traits.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__type_support.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__builder.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__struct.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__traits.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__type_support.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__builder.hpp
+[21.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__struct.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__traits.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__type_support.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__builder.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__struct.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__traits.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__type_support.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__builder.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__struct.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__traits.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__type_support.hpp
+[21.772s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__builder.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__struct.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__traits.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__type_support.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__builder.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__struct.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__traits.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__type_support.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_controller_types.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_controllers.hpp
+[21.773s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/list_hardware_interfaces.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_configure_controller.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_controller.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/load_start_controller.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/reload_controller_libraries.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/switch_controller.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/unload_controller.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/controller_state__rosidl_typesupport_introspection_cpp.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/msg/detail/hardware_interface__rosidl_typesupport_introspection_cpp.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/configure_start_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controller_types__rosidl_typesupport_introspection_cpp.hpp
+[21.774s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_controllers__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/list_hardware_interfaces__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_configure_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/load_start_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/reload_controller_libraries__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/switch_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/include/controller_manager_msgs/srv/detail/unload_controller__rosidl_typesupport_introspection_cpp.hpp
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/pythonpath.sh
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/pythonpath.dsv
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/__init__.py
+[21.775s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/msg/__init__.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/msg/_controller_state.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/msg/_hardware_interface.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/__init__.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_configure_controller.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_configure_start_controller.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_list_controller_types.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_list_controllers.py
+[21.776s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_list_hardware_interfaces.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_load_configure_controller.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_load_controller.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_load_start_controller.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_reload_controller_libraries.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_switch_controller.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/srv/_unload_controller.py
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/controller_manager_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/controller_manager_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages/controller_manager_msgs/controller_manager_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__python.so
+[21.777s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/msg/ControllerState.idl
+[21.866s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/msg/HardwareInterface.idl
+[22.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureController.idl
+[22.723s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureStartController.idl
+[22.723s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllers.idl
+[22.724s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllerTypes.idl
+[22.725s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListHardwareInterfaces.idl
+[22.725s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadConfigureController.idl
+[22.726s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadController.idl
+[22.733s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadStartController.idl
+[22.733s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ReloadControllerLibraries.idl
+[22.734s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/SwitchController.idl
+[22.734s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/UnloadController.idl
+[22.741s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/msg/ControllerState.msg
+[22.877s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/msg/HardwareInterface.msg
+[22.963s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureController.srv
+[23.059s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureController_Request.msg
+[23.059s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureController_Response.msg
+[23.059s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureStartController.srv
+[23.059s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureStartController_Request.msg
+[23.059s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ConfigureStartController_Response.msg
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllers.srv
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllers_Request.msg
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllers_Response.msg
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllerTypes.srv
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllerTypes_Request.msg
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListControllerTypes_Response.msg
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListHardwareInterfaces.srv
+[23.060s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListHardwareInterfaces_Request.msg
+[23.115s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ListHardwareInterfaces_Response.msg
+[23.164s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadConfigureController.srv
+[23.181s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadConfigureController_Request.msg
+[23.181s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadConfigureController_Response.msg
+[23.181s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadController.srv
+[23.181s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadController_Request.msg
+[23.182s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadController_Response.msg
+[23.182s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadStartController.srv
+[23.182s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadStartController_Request.msg
+[23.182s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/LoadStartController_Response.msg
+[23.182s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ReloadControllerLibraries.srv
+[23.230s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ReloadControllerLibraries_Request.msg
+[23.231s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/ReloadControllerLibraries_Response.msg
+[23.231s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/SwitchController.srv
+[23.232s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/SwitchController_Request.msg
+[23.255s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/SwitchController_Response.msg
+[23.256s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/UnloadController.srv
+[23.257s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/UnloadController_Request.msg
+[23.258s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/srv/UnloadController_Response.msg
+[23.321s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/ament_index/resource_index/package_run_dependencies/controller_manager_msgs
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/ament_index/resource_index/parent_prefix_path/controller_manager_msgs
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/ament_prefix_path.sh
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/ament_prefix_path.dsv
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/path.sh
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/environment/path.dsv
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/local_setup.bash
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/local_setup.sh
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/local_setup.zsh
+[23.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/local_setup.dsv
+[23.322s] -- Symlinking: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/package.dsv
+[23.521s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/ament_index/resource_index/packages/controller_manager_msgs
+[23.521s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/rosidl_cmake-extras.cmake
+[23.522s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.646s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[23.648s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[23.648s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[23.648s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[23.650s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[23.650s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgsConfig.cmake
+[23.650s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgsConfig-version.cmake
+[23.650s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/package.xml
+[23.650s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_generator_c.so
+[23.689s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_introspection_c.so
+[23.689s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_c.so
+[23.689s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_introspection_cpp.so
+[23.690s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/libcontroller_manager_msgs__rosidl_typesupport_cpp.so
+[25.073s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_generator_cExport.cmake
+[25.075s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_generator_cExport-noconfig.cmake
+[25.075s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_introspection_cExport.cmake
+[25.076s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[25.076s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_cExport.cmake
+[25.076s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[25.076s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_generator_cppExport.cmake
+[25.084s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[25.148s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[25.149s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_cppExport.cmake
+[25.154s] -- Up-to-date: /home/khaledob/bookros2_ws/install/controller_manager_msgs/share/controller_manager_msgs/cmake/controller_manager_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[25.358s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_manager_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_manager_msgs

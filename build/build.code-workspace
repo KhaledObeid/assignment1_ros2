@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../install"
+		},
+		{
+			"path": "../log"
+		},
+		{
+			"path": "../src"
+		}
+	]
+}

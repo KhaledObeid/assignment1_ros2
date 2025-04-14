@@ -1,0 +1,4 @@
+source;share/tiago_description_calibration/local_setup.bash
+source;share/tiago_description_calibration/local_setup.dsv
+source;share/tiago_description_calibration/local_setup.sh
+source;share/tiago_description_calibration/local_setup.zsh

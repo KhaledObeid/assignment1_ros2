@@ -1,0 +1,58 @@
+[0.211s] Invoking command in '/home/khaledob/bookros2_ws/src/build/controller_manager': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface:/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface:/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface/lib:/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/src/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/controller_manager
+[1.066s] -- The C compiler identification is GNU 9.4.0
+[1.832s] -- The CXX compiler identification is GNU 9.4.0
+[1.846s] -- Check for working C compiler: /usr/bin/cc
+[2.318s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.324s] -- Detecting C compiler ABI info
+[3.382s] -- Detecting C compiler ABI info - done
+[3.555s] -- Detecting C compile features
+[3.557s] -- Detecting C compile features - done
+[3.563s] -- Check for working CXX compiler: /usr/bin/c++
+[6.329s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[6.330s] -- Detecting CXX compiler ABI info
+[7.031s] -- Detecting CXX compiler ABI info - done
+[7.076s] -- Detecting CXX compile features
+[7.115s] -- Detecting CXX compile features - done
+[7.154s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[7.267s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[7.269s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.534s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[8.604s] -- Found ament_index_cpp: 1.1.0 (/opt/ros/foxy/share/ament_index_cpp/cmake)
+[8.643s] -- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/src/install/controller_interface/share/controller_interface/cmake)
+[8.783s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.041s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[11.874s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[11.988s] -- Found FastRTPS: /opt/ros/foxy/include  
+[12.514s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[16.489s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[16.493s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[16.495s] -- Looking for pthread.h
+[17.530s] -- Looking for pthread.h - found
+[17.530s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[18.290s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[18.291s] -- Looking for pthread_create in pthreads
+[19.406s] -- Looking for pthread_create in pthreads - not found
+[19.407s] -- Looking for pthread_create in pthread
+[20.090s] -- Looking for pthread_create in pthread - found
+[20.092s] -- Found Threads: TRUE  
+[20.928s] -- Found controller_manager_msgs: 0.7.1 (/home/khaledob/bookros2_ws/src/install/controller_manager_msgs/share/controller_manager_msgs/cmake)
+[21.236s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[21.244s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[21.249s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[21.454s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[21.466s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[21.620s] -- Added test 'copyright' to check source files copyright and LICENSE
+[21.631s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[21.632s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager/include
+[21.633s] -- Configured cppcheck exclude dirs and/or files: 
+[21.635s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[21.636s] -- Configured cpplint exclude dirs and/or files: 
+[21.637s] -- Added test 'flake8' to check Python code syntax and style conventions
+[21.638s] -- Added test 'lint_cmake' to check CMake code style
+[21.640s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[21.645s] -- Added test 'uncrustify' to check C / C++ code style
+[21.645s] -- Configured uncrustify additional arguments: 
+[21.647s] -- Added test 'xmllint' to check XML markup files
+[21.665s] -- Configuring done
+[22.378s] -- Generating done
+[22.503s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/controller_manager

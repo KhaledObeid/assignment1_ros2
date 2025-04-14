@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/khaledob/bookros2_ws/src/build/velocity_controllers/libvelocity_controllers.so" "TARGETS" "velocity_controllers" "RUNTIME_DESTINATION" "bin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib")

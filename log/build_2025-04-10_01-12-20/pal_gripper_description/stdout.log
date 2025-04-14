@@ -1,0 +1,54 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found xacro: 2.0.7 (/opt/ros/foxy/share/xacro/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/khaledob/bookros2_ws/build/pal_gripper_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/gazebo/gazebo.urdf.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link.stl
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link_collision.stl
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link.stl
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link_collision.stl
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/gripper_test.urdf.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/upload.launch
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/upload_gripper.launch
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/deg_to_rad.urdf.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.gazebo.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.ros2_control.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.transmission.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.urdf.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/materials.urdf.xacro
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/package_run_dependencies/pal_gripper_description
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/parent_prefix_path/pal_gripper_description
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/packages/pal_gripper_description
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/package.xml

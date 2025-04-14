@@ -1,0 +1,24 @@
+[1.373s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[2.303s] [100%] Built target node
+[3.079s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[3.082s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2a
+[3.284s] -- Install configuration: ""
+[3.284s] -- Execute custom install script
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/lib/task2a/node
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/launch/my_launch2a_file.py
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/package_run_dependencies/task2a
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/parent_prefix_path/task2a
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/ament_prefix_path.sh
+[3.284s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/ament_prefix_path.dsv
+[3.285s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/path.sh
+[3.285s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/path.dsv
+[3.285s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.bash
+[3.285s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.sh
+[3.285s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.zsh
+[3.292s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.dsv
+[3.292s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2a/share/task2a/package.dsv
+[3.319s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/packages/task2a
+[3.320s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/cmake/task2aConfig.cmake
+[3.322s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/cmake/task2aConfig-version.cmake
+[3.518s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/package.xml
+[3.769s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2a

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "br2_tf2_detector",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "br2_tf2_detector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-br2_tf2_detector-34d719ea6ca8605cad68.json",
+					"name" : "br2_tf2_detector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "br2_tf2_detector_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-br2_tf2_detector_uninstall-b4794cc1bd9548dd12d7.json",
+					"name" : "br2_tf2_detector_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "detector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-detector-74eebe5e336cba7c5d57.json",
+					"name" : "detector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "detector_improved::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-detector_improved-1ecf277ebfad7311b2eb.json",
+					"name" : "detector_improved",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-796095a8bd6a12c6aa49.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khaledob/bookros2_ws/src/build/br2_tf2_detector",
+		"source" : "/home/khaledob/bookros2_ws/src/book_ros2/br2_tf2_detector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

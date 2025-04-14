@@ -1,0 +1,7 @@
+make[2]: *** [CMakeFiles/behavior_tree_editor.dir/build.make:212: CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_editor.cpp.o] Interrupt
+make[2]: *** [CMakeFiles/behavior_tree_editor.dir/build.make:134: CMakeFiles/behavior_tree_editor.dir/bt_editor/mainwindow.cpp.o] Interrupt
+make[2]: *** [CMakeFiles/behavior_tree_editor.dir/build.make:147: CMakeFiles/behavior_tree_editor.dir/bt_editor/editor_flowscene.cpp.o] Interrupt
+make[2]: *** [CMakeFiles/behavior_tree_editor.dir/build.make:199: CMakeFiles/behavior_tree_editor.dir/bt_editor/startup_dialog.cpp.o] Interrupt
+make[2]: *** [CMakeFiles/behavior_tree_editor.dir/build.make:160: CMakeFiles/behavior_tree_editor.dir/bt_editor/utils.cpp.o] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:158: CMakeFiles/behavior_tree_editor.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

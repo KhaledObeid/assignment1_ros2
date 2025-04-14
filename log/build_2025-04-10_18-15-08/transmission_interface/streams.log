@@ -1,0 +1,8 @@
+[0.162s] Invoking command in '/home/khaledob/bookros2_ws/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/transmission_interface -- -j6 -l6
+[0.330s] [ 13%] Built target gmock_main
+[0.335s] [ 26%] Built target transmission_parser
+[0.336s] [ 46%] Built target gmock
+[0.422s] [ 60%] Built target test_differential_transmission
+[0.422s] [ 73%] Built target test_four_bar_linkage_transmission
+[0.430s] [ 86%] Built target test_simple_transmission
+[0.439s] [100%] Built target test_transmission_parser

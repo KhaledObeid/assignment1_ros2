@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/imu_sensor_broadcaster/ament_cmake_core/imu_sensor_broadcasterConfig.cmake

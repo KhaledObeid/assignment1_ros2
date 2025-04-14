@@ -1,0 +1,15 @@
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/ament_index/resource_index/package_run_dependencies/pal_gripper
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/ament_index/resource_index/parent_prefix_path/pal_gripper
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.sh
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.dsv
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/environment/path.sh
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/environment/path.dsv
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/local_setup.bash
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/local_setup.sh
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/local_setup.zsh
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/local_setup.dsv
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/package.dsv
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/ament_index/resource_index/packages/pal_gripper
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig-version.cmake
+/home/khaledob/bookros2_ws/src/install/pal_gripper/share/pal_gripper/package.xml

@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"QtNodeEditor/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "QtNodeEditor_autogen::@b8987db7195ba95c5f5a",
+	"isGeneratorProvided" : true,
+	"name" : "QtNodeEditor_autogen",
+	"paths" : 
+	{
+		"build" : "QtNodeEditor",
+		"source" : "QtNodeEditor"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khaledob/bookros2_ws/src/build/groot/QtNodeEditor/CMakeFiles/QtNodeEditor_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khaledob/bookros2_ws/src/build/groot/QtNodeEditor/CMakeFiles/QtNodeEditor_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,11 @@
+[01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:126:6:[m[K [01;31m[Kerror: [m[Kno declaration matches ‘[01m[Kbool task2a::BumpGoNode2a::check_turn_2_forward()[m[K’
+  126 | bool [01;31m[KBumpGoNode2a[m[K::check_turn_2_forward()
+      |      [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:126:6:[m[K [01;36m[Knote: [m[Kno functions named ‘[01m[Kbool task2a::BumpGoNode2a::check_turn_2_forward()[m[K’
+In file included from [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:4[m[K:
+[01m[K/home/khaledob/bookros2_ws/src/task2a/include/BumpGoNode2a.hpp:19:7:[m[K [01;36m[Knote: [m[K‘[01m[Kclass task2a::BumpGoNode2a[m[K’ defined here
+   19 | class [01;36m[KBumpGoNode2a[m[K : public rclcpp::Node
+      |       [01;36m[K^~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

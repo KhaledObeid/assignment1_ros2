@@ -1,0 +1,2 @@
+[0.149s] Invoking command in '/home/khaledob/bookros2_ws/src/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/task1 -- -j7 -l7
+[0.472s] [100%] Built target node

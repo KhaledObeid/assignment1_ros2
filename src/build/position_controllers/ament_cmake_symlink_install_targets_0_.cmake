@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/khaledob/bookros2_ws/src/build/position_controllers/libposition_controllers.so" "TARGETS" "position_controllers" "RUNTIME_DESTINATION" "bin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib")

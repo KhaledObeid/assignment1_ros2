@@ -1,0 +1,42 @@
+[0.195s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_basics -- -j7 -l7
+[0.650s] [ 14%] Built target logger
+[0.651s] [ 28%] Built target executors
+[0.658s] [ 42%] Built target logger_class
+[0.664s] [ 57%] Built target publisher_class
+[0.667s] [ 71%] Built target subscriber_class
+[0.668s] [ 85%] Built target param_reader
+[0.669s] [100%] Built target publisher
+[0.856s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_basics -- -j7 -l7
+[0.857s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_basics
+[0.966s] -- Install configuration: ""
+[0.966s] -- Execute custom install script
+[0.966s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/publisher
+[0.967s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/publisher_class
+[0.967s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/subscriber_class
+[0.967s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/executors
+[0.967s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/logger
+[0.967s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/logger_class
+[0.968s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/lib/br2_basics/param_reader
+[0.969s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[0.969s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[0.969s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[0.970s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[0.970s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[0.971s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/config/params.yaml
+[0.972s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[0.985s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[0.999s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[1.002s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.sh
+[1.002s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.dsv
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.bash
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.sh
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.zsh
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.dsv
+[1.013s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/package.dsv
+[1.024s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[1.024s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.024s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[1.024s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[1.025s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_basics/share/br2_basics/package.xml
+[1.199s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_basics

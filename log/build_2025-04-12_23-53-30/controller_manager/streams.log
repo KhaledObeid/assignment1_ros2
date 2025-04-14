@@ -1,0 +1,13 @@
+[0.361s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_manager': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_manager -- -j7 -l7
+[0.572s] [  8%] Built target gmock_main
+[0.584s] [ 20%] Built target gmock
+[0.634s] [ 28%] Built target controller_manager
+[0.758s] [ 36%] Built target test_controller
+[0.786s] [ 44%] Built target ros2_control_node
+[0.816s] [ 52%] Built target test_controller_with_interfaces
+[0.844s] [ 60%] Built target test_controller_failed_init
+[0.879s] [ 68%] Built target test_spawner_unspawner
+[0.909s] [ 76%] Built target test_controller_manager
+[0.914s] [ 84%] Built target test_controller_manager_srvs
+[0.943s] [ 92%] Built target test_release_interfaces
+[0.985s] [100%] Built target test_load_controller

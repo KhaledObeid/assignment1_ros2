@@ -1,0 +1,50 @@
+[0.225s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_patrolling -- -j7 -l7
+[0.457s] [ 10%] Built target br2_recharge_bt_node
+[0.572s] [ 20%] Built target br2_patrol_bt_node
+[0.784s] [ 30%] Built target gtest
+[0.878s] [ 40%] Built target gtest_main
+[1.042s] [ 50%] Built target br2_track_objects_bt_node
+[1.246s] [ 60%] Built target br2_get_waypoint_bt_node
+[1.396s] [ 70%] Built target bt_action_test
+[1.545s] [ 80%] Built target br2_move_bt_node
+[1.675s] [ 90%] Built target patrolling_main
+[1.851s] [100%] Built target br2_battery_checker_bt_node
+[2.182s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_bt_patrolling -- -j7 -l7
+[2.196s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_patrolling
+[2.407s] -- Install configuration: "Debug"
+[2.408s] -- Execute custom install script
+[2.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_recharge_bt_node.so
+[2.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_patrol_bt_node.so
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_move_bt_node.so
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_get_waypoint_bt_node.so
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_battery_checker_bt_node.so
+[2.423s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_track_objects_bt_node.so
+[2.423s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/lib/br2_bt_patrolling/patrolling_main
+[2.425s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/BatteryChecker.hpp
+[2.425s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/GetWaypoint.hpp
+[2.425s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Move.hpp
+[2.425s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Patrol.hpp
+[2.426s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Recharge.hpp
+[2.426s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/TrackObjects.hpp
+[2.427s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTActionNode.hpp
+[2.427s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTLifecycleCtrlNode.hpp
+[2.428s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/behavior_tree_xml/patrolling.xml
+[2.428s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/launch/patrolling.launch.py
+[2.429s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/package_run_dependencies/br2_bt_patrolling
+[2.429s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/parent_prefix_path/br2_bt_patrolling
+[2.430s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.sh
+[2.430s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.dsv
+[2.436s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.sh
+[2.436s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.dsv
+[2.437s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.bash
+[2.437s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.sh
+[2.440s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.zsh
+[2.442s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.dsv
+[2.442s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.dsv
+[2.443s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/packages/br2_bt_patrolling
+[2.443s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.444s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.444s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig.cmake
+[2.445s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig-version.cmake
+[2.445s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.xml
+[2.727s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_bt_patrolling

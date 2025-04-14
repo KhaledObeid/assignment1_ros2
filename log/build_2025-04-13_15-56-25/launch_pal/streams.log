@@ -1,0 +1,16 @@
+[3.217s] Invoking command in '/home/khaledob/bookros2_ws/build/launch_pal': PYTHONPATH=/home/khaledob/bookros2_ws/build/launch_pal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/launch_pal/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/launch_pal/build --no-deps symlink_data
+[4.383s] running develop
+[5.085s] running egg_info
+[5.085s] writing launch_pal.egg-info/PKG-INFO
+[5.090s] writing dependency_links to launch_pal.egg-info/dependency_links.txt
+[5.113s] writing entry points to launch_pal.egg-info/entry_points.txt
+[5.119s] writing requirements to launch_pal.egg-info/requires.txt
+[5.119s] writing top-level names to launch_pal.egg-info/top_level.txt
+[5.383s] reading manifest file 'launch_pal.egg-info/SOURCES.txt'
+[5.408s] writing manifest file 'launch_pal.egg-info/SOURCES.txt'
+[5.607s] running build_ext
+[5.607s] Creating /home/khaledob/bookros2_ws/install/launch_pal/lib/python3.8/site-packages/launch-pal.egg-link (link to .)
+[5.632s] 
+[5.634s] Installed /home/khaledob/bookros2_ws/build/launch_pal
+[5.634s] running symlink_data
+[5.965s] Invoked command in '/home/khaledob/bookros2_ws/build/launch_pal' returned '0': PYTHONPATH=/home/khaledob/bookros2_ws/build/launch_pal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/launch_pal/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/launch_pal/build --no-deps symlink_data

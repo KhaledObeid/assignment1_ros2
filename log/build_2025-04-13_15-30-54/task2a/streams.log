@@ -1,0 +1,54 @@
+[0.600s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[0.714s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.819s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.882s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.913s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.069s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.098s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.705s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.006s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.018s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.778s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[4.163s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.598s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.600s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.600s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task2a/include>
+[4.600s] -- Configured cppcheck exclude dirs and/or files: 
+[4.601s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.602s] -- Configured cpplint exclude dirs and/or files: 
+[4.602s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.603s] -- Added test 'lint_cmake' to check CMake code style
+[4.606s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.606s] -- Added test 'uncrustify' to check C / C++ code style
+[4.606s] -- Configured uncrustify additional arguments: 
+[4.615s] -- Added test 'xmllint' to check XML markup files
+[4.617s] -- Configuring done
+[4.641s] -- Generating done
+[4.656s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task2a
+[4.807s] [35m[1mScanning dependencies of target node[0m
+[5.011s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a_main.cpp.o[0m
+[13.342s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[31.814s] [100%] [32m[1mLinking CXX executable node[0m
+[32.382s] [100%] Built target node
+[32.413s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[32.429s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2a
+[32.461s] -- Install configuration: ""
+[32.467s] -- Execute custom install script
+[32.482s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2a/lib/task2a/node
+[32.514s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2a/share/task2a/launch/my_launch2a_file.py
+[32.545s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/package_run_dependencies/task2a
+[32.546s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/parent_prefix_path/task2a
+[32.548s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/ament_prefix_path.sh
+[32.548s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/ament_prefix_path.dsv
+[32.550s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/path.sh
+[32.551s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/environment/path.dsv
+[32.554s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.bash
+[32.555s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.sh
+[32.557s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.zsh
+[32.571s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/local_setup.dsv
+[32.572s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2a/share/task2a/package.dsv
+[32.585s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/ament_index/resource_index/packages/task2a
+[32.586s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/cmake/task2aConfig.cmake
+[32.587s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/cmake/task2aConfig-version.cmake
+[32.587s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2a/share/task2a/package.xml
+[32.603s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2a

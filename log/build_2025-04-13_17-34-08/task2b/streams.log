@@ -1,0 +1,28 @@
+[0.217s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[0.332s] [35m[1mScanning dependencies of target node[0m
+[0.442s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2b_main.cpp.o[0m
+[0.463s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2b/BumpGoNode2b.cpp.o[0m
+[11.604s] [100%] [32m[1mLinking CXX executable node[0m
+[11.973s] [100%] Built target node
+[12.018s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[12.022s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2b
+[12.035s] -- Install configuration: ""
+[12.035s] -- Execute custom install script
+[12.036s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/lib/task2b/node
+[12.038s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/launch/my_launch2b_file.py
+[12.039s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/package_run_dependencies/task2b
+[12.039s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/parent_prefix_path/task2b
+[12.039s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/ament_prefix_path.sh
+[12.040s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/ament_prefix_path.dsv
+[12.040s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/path.sh
+[12.041s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/path.dsv
+[12.041s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.bash
+[12.043s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.sh
+[12.047s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.zsh
+[12.048s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.dsv
+[12.048s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/package.dsv
+[12.064s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/packages/task2b
+[12.065s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/cmake/task2bConfig.cmake
+[12.066s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/cmake/task2bConfig-version.cmake
+[12.066s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task2b/share/task2b/package.xml
+[12.070s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2b

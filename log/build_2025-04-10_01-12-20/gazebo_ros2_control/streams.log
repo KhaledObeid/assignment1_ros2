@@ -1,0 +1,167 @@
+[0.050s] Invoking command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/gazebo_ros2_control/gazebo_ros2_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/gazebo_ros2_control
+[0.168s] -- The C compiler identification is GNU 9.4.0
+[0.246s] -- The CXX compiler identification is GNU 9.4.0
+[0.253s] -- Check for working C compiler: /usr/bin/cc
+[0.364s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.365s] -- Detecting C compiler ABI info
+[0.700s] -- Detecting C compiler ABI info - done
+[0.714s] -- Detecting C compile features
+[0.715s] -- Detecting C compile features - done
+[0.718s] -- Check for working CXX compiler: /usr/bin/c++
+[1.005s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.006s] -- Detecting CXX compiler ABI info
+[1.205s] -- Detecting CXX compiler ABI info - done
+[1.286s] -- Detecting CXX compile features
+[1.287s] -- Detecting CXX compile features - done
+[1.290s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.342s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.342s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.610s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.647s] -- Found angles: 1.12.6 (/opt/ros/foxy/share/angles/cmake)
+[1.649s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[1.707s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.717s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.880s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.930s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.056s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.028s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.033s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.036s] -- Looking for pthread.h
+[3.212s] -- Looking for pthread.h - found
+[3.212s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.688s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.689s] -- Looking for pthread_create in pthreads
+[3.802s] -- Looking for pthread_create in pthreads - not found
+[3.802s] -- Looking for pthread_create in pthread
+[3.925s] -- Looking for pthread_create in pthread - found
+[3.927s] -- Found Threads: TRUE  
+[4.410s] -- Found gazebo_dev: 3.5.3 (/opt/ros/foxy/share/gazebo_dev/cmake)
+[4.419s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[4.421s] -- Checking for module 'bullet>=2.82'
+[4.477s] --   Found bullet, version 2.88
+[4.714s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[4.841s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[4.963s] -- Found assimp: /usr/include (found version "5.0.0") 
+[5.071s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[5.141s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[5.173s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[5.181s] -- Looking for ignition-math6 -- found version 6.15.1
+[5.193s] -- Searching for dependencies of ignition-math6
+[5.196s] -- Looking for OGRE...
+[5.197s] -- OGRE_PREFIX_WATCH changed.
+[5.206s] -- Checking for module 'OGRE'
+[5.245s] --   Found OGRE, version 1.9.0
+[5.328s] -- Found Ogre Ghadamon (1.9.0)
+[5.341s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[5.362s] -- Looking for OGRE_Paging...
+[5.373s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[5.374s] -- Looking for OGRE_Terrain...
+[5.385s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[5.385s] -- Looking for OGRE_Property...
+[5.395s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[5.395s] -- Looking for OGRE_RTShaderSystem...
+[5.406s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[5.406s] -- Looking for OGRE_Volume...
+[5.417s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[5.418s] -- Looking for OGRE_Overlay...
+[5.435s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[5.640s] -- Looking for ignition-math6 -- found version 6.15.1
+[5.644s] -- Looking for ignition-transport8 -- found version 8.3.0
+[5.645s] -- Searching for dependencies of ignition-transport8
+[5.681s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[5.705s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[5.733s] -- Checking for module 'libzmq >= 4'
+[5.766s] --   Found libzmq , version 4.3.2
+[5.848s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[5.861s] -- Checking for module 'uuid'
+[5.896s] --   Found uuid, version 2.34.0
+[5.985s] -- Found UUID: TRUE  
+[5.989s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[5.990s] -- Searching for dependencies of ignition-msgs5
+[6.030s] -- Looking for ignition-math6 -- found version 6.15.1
+[6.038s] -- Checking for module 'tinyxml2'
+[6.070s] --   Found tinyxml2, version 6.2.0
+[6.173s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[6.179s] -- Looking for ignition-common3 -- found version 3.14.2
+[6.180s] -- Searching for dependencies of ignition-common3
+[6.181s] -- Looking for dlfcn.h - found
+[6.185s] -- Looking for libdl - found
+[6.193s] -- Found DL: TRUE  
+[6.209s] -- Searching for <ignition-common3> component [graphics]
+[6.212s] -- Looking for ignition-common3-graphics -- found version 3.14.2
+[6.223s] -- Searching for dependencies of ignition-common3-graphics
+[6.226s] -- Looking for ignition-math6 -- found version 6.15.1
+[6.231s] -- Looking for ignition-fuel_tools4 -- found version 4.6.0
+[6.232s] -- Searching for dependencies of ignition-fuel_tools4
+[6.398s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[6.413s] -- Checking for module 'jsoncpp'
+[6.447s] --   Found jsoncpp, version 1.7.4
+[6.536s] -- Found JSONCPP: TRUE  
+[6.550s] -- Checking for module 'libzip'
+[6.588s] --   Found libzip, version 1.5.1
+[6.678s] -- Found ZIP: TRUE  
+[6.679s] -- Looking for ignition-common3 -- found version 3.14.2
+[6.680s] -- Looking for ignition-math6 -- found version 6.15.1
+[6.681s] -- Looking for ignition-msgs5 -- found version 5.10.0
+[6.683s] -- Gazebo version: 11.11
+[6.686s] -- Found gazebo_ros: 3.5.3 (/opt/ros/foxy/share/gazebo_ros/cmake)
+[6.702s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[6.735s] -- Found yaml_cpp_vendor: 7.0.3 (/opt/ros/foxy/share/yaml_cpp_vendor/cmake)
+[6.735s] -- Setting yaml-cpp_DIR to: '/opt/ros/foxy/share/yaml_cpp_vendor/cmake/../../../opt/yaml_cpp_vendor/lib/cmake/yaml-cpp'
+[7.032s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[7.036s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[7.158s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.161s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.162s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/gazebo_ros2_control/gazebo_ros2_control/include
+[7.162s] -- Configured cppcheck exclude dirs and/or files: 
+[7.164s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.164s] -- Configured cpplint exclude dirs and/or files: 
+[7.166s] -- Added test 'lint_cmake' to check CMake code style
+[7.167s] -- Added test 'uncrustify' to check C / C++ code style
+[7.168s] -- Configured uncrustify additional arguments: 
+[7.169s] -- Added test 'xmllint' to check XML markup files
+[7.176s] -- Configuring done
+[7.349s] -- Generating done
+[7.385s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/gazebo_ros2_control
+[7.408s] Invoked command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/gazebo_ros2_control/gazebo_ros2_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/gazebo_ros2_control
+[7.414s] Invoking command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/gazebo_ros2_control -- -j4 -l4
+[7.525s] [35m[1mScanning dependencies of target gazebo_hardware_plugins[0m
+[7.724s] [ 25%] [32mBuilding CXX object CMakeFiles/gazebo_hardware_plugins.dir/src/gazebo_system.cpp.o[0m
+[27.960s] [ 50%] [32m[1mLinking CXX shared library libgazebo_hardware_plugins.so[0m
+[28.886s] [ 50%] Built target gazebo_hardware_plugins
+[28.903s] [35m[1mScanning dependencies of target gazebo_ros2_control[0m
+[29.053s] [ 75%] [32mBuilding CXX object CMakeFiles/gazebo_ros2_control.dir/src/gazebo_ros2_control_plugin.cpp.o[0m
+[42.443s] [100%] [32m[1mLinking CXX shared library libgazebo_ros2_control.so[0m
+[43.496s] [100%] Built target gazebo_ros2_control
+[43.516s] Invoked command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/gazebo_ros2_control -- -j4 -l4
+[43.522s] Invoking command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/gazebo_ros2_control
+[43.535s] -- Install configuration: ""
+[43.536s] -- Execute custom install script
+[43.537s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/lib/libgazebo_ros2_control.so
+[43.551s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/lib/libgazebo_hardware_plugins.so
+[43.563s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/library_path.sh
+[43.576s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/library_path.dsv
+[43.588s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/include/gazebo_ros2_control/gazebo_ros2_control_plugin.hpp
+[43.600s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/include/gazebo_ros2_control/gazebo_system.hpp
+[43.614s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/include/gazebo_ros2_control/gazebo_system_interface.hpp
+[43.626s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control//gazebo_hardware_plugins.xml
+[43.639s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/ament_index/resource_index/package_run_dependencies/gazebo_ros2_control
+[43.652s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/ament_index/resource_index/parent_prefix_path/gazebo_ros2_control
+[43.665s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/ament_prefix_path.sh
+[43.677s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/ament_prefix_path.dsv
+[43.690s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/path.sh
+[43.702s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/environment/path.dsv
+[43.717s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.bash
+[43.730s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.sh
+[43.744s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.zsh
+[43.756s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/local_setup.dsv
+[43.769s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/package.dsv
+[43.780s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/ament_index/resource_index/packages/gazebo_ros2_control
+[43.793s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/ament_index/resource_index/gazebo_ros2_control__pluginlib__plugin/gazebo_ros2_control
+[43.807s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/ament_cmake_export_include_directories-extras.cmake
+[43.823s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/ament_cmake_export_dependencies-extras.cmake
+[43.835s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/ament_cmake_export_libraries-extras.cmake
+[43.848s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/gazebo_ros2_controlConfig.cmake
+[43.861s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/cmake/gazebo_ros2_controlConfig-version.cmake
+[43.873s] -- Symlinking: /home/khaledob/bookros2_ws/install/gazebo_ros2_control/share/gazebo_ros2_control/package.xml
+[43.891s] Invoked command in '/home/khaledob/bookros2_ws/build/gazebo_ros2_control' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/gazebo_ros2_control

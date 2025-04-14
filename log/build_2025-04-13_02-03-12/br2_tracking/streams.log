@@ -1,0 +1,7 @@
+[0.092s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking -- -j7 -l7
+[0.395s] [ 14%] Built target gtest_main
+[0.395s] [ 42%] Built target br2_tracking
+[0.396s] [ 57%] Built target gtest
+[0.507s] [ 71%] Built target object_detector
+[0.538s] [ 85%] Built target object_tracker
+[0.543s] [100%] Built target pid_test

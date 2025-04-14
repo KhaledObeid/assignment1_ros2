@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/hardware_interface/ament_cmake_core/hardware_interfaceConfig.cmake

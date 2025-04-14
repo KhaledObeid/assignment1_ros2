@@ -1,0 +1,6 @@
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:161:1:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K{[m[K’ token
+  161 | [01;31m[K{[m[K
+      | [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

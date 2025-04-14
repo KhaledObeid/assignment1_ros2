@@ -1,0 +1,13 @@
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:msg/ControllerState.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:msg/HardwareInterface.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ConfigureController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ConfigureStartController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ListControllers.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ListControllerTypes.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ListHardwareInterfaces.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/LoadConfigureController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/LoadController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/LoadStartController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/ReloadControllerLibraries.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/SwitchController.idl
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_adapter/controller_manager_msgs:srv/UnloadController.idl

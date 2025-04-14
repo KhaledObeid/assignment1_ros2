@@ -1,0 +1,21 @@
+[ 10%] Built target br2_recharge_bt_node
+[ 20%] Built target br2_patrol_bt_node
+[ 30%] Built target gtest
+[ 40%] Built target gtest_main
+[ 50%] Built target br2_track_objects_bt_node
+[ 60%] Built target br2_get_waypoint_bt_node
+[ 65%] [32mBuilding CXX object tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o[0m
+[ 70%] [32m[1mLinking CXX executable bt_action_test[0m
+[ 70%] Built target bt_action_test
+[35m[1mScanning dependencies of target br2_move_bt_node[0m
+[35m[1mScanning dependencies of target patrolling_main[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/patrolling_main.dir/src/patrolling_main.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/br2_move_bt_node.dir/src/br2_bt_patrolling/Move.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable patrolling_main[0m
+[ 85%] Built target patrolling_main
+[35m[1mScanning dependencies of target br2_battery_checker_bt_node[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/br2_battery_checker_bt_node.dir/src/br2_bt_patrolling/BatteryChecker.cpp.o[0m
+[ 95%] [32m[1mLinking CXX shared library libbr2_move_bt_node.so[0m
+[ 95%] Built target br2_move_bt_node
+[100%] [32m[1mLinking CXX shared library libbr2_battery_checker_bt_node.so[0m
+[100%] Built target br2_battery_checker_bt_node

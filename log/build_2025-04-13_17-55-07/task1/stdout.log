@@ -1,0 +1,20 @@
+[100%] Built target node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/lib/task1/node
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/launch/my_launch_file.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/package_run_dependencies/task1
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/parent_prefix_path/task1
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.bash
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.zsh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/packages/task1
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config-version.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/package.xml

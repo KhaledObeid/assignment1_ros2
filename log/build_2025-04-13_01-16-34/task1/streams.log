@@ -1,0 +1,39 @@
+[0.523s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.639s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.738s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.597s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.614s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.658s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.664s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.014s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.174s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.175s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.576s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[2.788s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.005s] CMake Error at CMakeLists.txt:18 (add_executable):
+[3.006s]   Cannot find source file:
+[3.006s] 
+[3.006s]     BumpGoNode1.cpp
+[3.006s] 
+[3.006s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+[3.006s]   .hpp .hxx .in .txx
+[3.016s] 
+[3.018s] 
+[3.018s] CMake Error at CMakeLists.txt:18 (add_executable):
+[3.018s]   No SOURCES given to target: bumpgo
+[3.018s] 
+[3.019s] 
+[3.019s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[3.019s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.019s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.019s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task1/include>
+[3.019s] -- Configured cppcheck exclude dirs and/or files: 
+[3.019s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.019s] -- Configured cpplint exclude dirs and/or files: 
+[3.019s] -- Added test 'lint_cmake' to check CMake code style
+[3.020s] -- Added test 'uncrustify' to check C / C++ code style
+[3.020s] -- Configured uncrustify additional arguments: 
+[3.020s] -- Added test 'xmllint' to check XML markup files
+[3.020s] -- Configuring done
+[3.032s] make: *** [Makefile:266: cmake_check_build_system] Error 1
+[3.318s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7

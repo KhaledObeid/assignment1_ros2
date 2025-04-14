@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>pmb2_robot</name>
+  <version>4.0.4</version>
+  <description>PMB2 robot description and launch files</description>
+  <maintainer email="victor.lopez@pal-robotics.com">Victor Lopez</maintainer>
+  <license>Apache License 2.0</license>
+  <author email="enrique.fernandez@pal-robotics.com">Enrique Fernandez</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>pmb2_description</exec_depend>
+  <exec_depend>pmb2_bringup</exec_depend>
+  <exec_depend>pmb2_controller_configuration</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

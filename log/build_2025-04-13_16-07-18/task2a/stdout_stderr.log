@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a_main.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:[m[K In member function ‘[01m[Kvoid task2a::BumpGoNode2a::control_cycle()[m[K’:
+[01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:63:47:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+   63 |         turn_duration_ = target_turn_angle_ / [01;31m[KSPEED_ANGULAR[m[K;
+      |                                               [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:79:45:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+   79 |       out_vel.angular.z = turn_direction_ * [01;31m[KSPEED_ANGULAR[m[K;
+      |                                             [01;31m[K^~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

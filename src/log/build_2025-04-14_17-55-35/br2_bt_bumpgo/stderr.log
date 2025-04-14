@@ -1,0 +1,4 @@
+make[2]: *** Deleting file 'libbr2_back_bt_node.so'
+make[2]: *** [CMakeFiles/br2_back_bt_node.dir/build.make:143: libbr2_back_bt_node.so] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:210: CMakeFiles/br2_back_bt_node.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

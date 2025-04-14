@@ -1,0 +1,39 @@
+[0.051s] Invoking command in '/home/khaledob/bookros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package
+[1.109s] -- The C compiler identification is GNU 9.4.0
+[1.955s] -- The CXX compiler identification is GNU 9.4.0
+[2.042s] -- Check for working C compiler: /usr/bin/cc
+[2.583s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.587s] -- Detecting C compiler ABI info
+[3.107s] -- Detecting C compiler ABI info - done
+[3.186s] -- Detecting C compile features
+[3.195s] -- Detecting C compile features - done
+[3.228s] -- Check for working CXX compiler: /usr/bin/c++
+[3.809s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.809s] -- Detecting CXX compiler ABI info
+[4.411s] -- Detecting CXX compiler ABI info - done
+[4.459s] -- Detecting CXX compile features
+[4.459s] -- Detecting CXX compile features - done
+[4.459s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.713s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.713s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.355s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[6.052s] CMake Error at CMakeLists.txt:20 (find_package):
+[6.052s]   By not providing "Findrclpp.cmake" in CMAKE_MODULE_PATH this project has
+[6.052s]   asked CMake to find a package configuration file provided by "rclpp", but
+[6.053s]   CMake did not find one.
+[6.053s] 
+[6.053s]   Could not find a package configuration file provided by "rclpp" with any of
+[6.053s]   the following names:
+[6.053s] 
+[6.053s]     rclppConfig.cmake
+[6.065s]     rclpp-config.cmake
+[6.065s] 
+[6.065s]   Add the installation prefix of "rclpp" to CMAKE_PREFIX_PATH or set
+[6.066s]   "rclpp_DIR" to a directory containing one of the above files.  If "rclpp"
+[6.066s]   provides a separate development package or SDK, be sure it has been
+[6.066s]   installed.
+[6.066s] 
+[6.066s] 
+[6.067s] -- Configuring incomplete, errors occurred!
+[6.067s] See also "/home/khaledob/bookros2_ws/build/my_package/CMakeFiles/CMakeOutput.log".
+[6.349s] Invoked command in '/home/khaledob/bookros2_ws/build/my_package' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package

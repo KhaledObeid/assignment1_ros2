@@ -1,0 +1,1 @@
+Invoking command in '/home/khaledob/bookros2_ws/src/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task2a -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/task2a

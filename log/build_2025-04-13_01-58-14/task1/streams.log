@@ -1,0 +1,10 @@
+[0.065s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.388s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[5.294s] [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[5.295s] [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:12:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kbumpgo_node[m[K’ was not declared in this scope
+[5.295s]    12 |   rclcpp::spin([01;31m[Kbumpgo_node[m[K);
+[5.312s]       |                [01;31m[K^~~~~~~~~~~[m[K
+[6.562s] make[2]: *** [CMakeFiles/node.dir/build.make:63: CMakeFiles/node.dir/src/task1_main.cpp.o] Error 1
+[6.562s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[6.562s] make: *** [Makefile:141: all] Error 2
+[6.563s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7

@@ -1,0 +1,53 @@
+[0.018s] Invoking command in '/home/khaledob/bookros2_ws/src/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task2a -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/task2a
+[0.300s] -- The C compiler identification is GNU 9.4.0
+[0.835s] -- The CXX compiler identification is GNU 9.4.0
+[0.843s] -- Check for working C compiler: /usr/bin/cc
+[1.576s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.579s] -- Detecting C compiler ABI info
+[2.326s] -- Detecting C compiler ABI info - done
+[2.353s] -- Detecting C compile features
+[2.354s] -- Detecting C compile features - done
+[2.360s] -- Check for working CXX compiler: /usr/bin/c++
+[5.109s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.114s] -- Detecting CXX compiler ABI info
+[6.038s] -- Detecting CXX compiler ABI info - done
+[6.075s] -- Detecting CXX compile features
+[6.086s] -- Detecting CXX compile features - done
+[6.092s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[6.181s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[6.181s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.733s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[6.921s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[7.438s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.439s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[10.423s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[10.717s] -- Found FastRTPS: /opt/ros/foxy/include  
+[11.156s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[11.457s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[11.459s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.462s] -- Looking for pthread.h
+[12.732s] -- Looking for pthread.h - found
+[12.734s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.273s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[13.275s] -- Looking for pthread_create in pthreads
+[13.999s] -- Looking for pthread_create in pthreads - not found
+[14.000s] -- Looking for pthread_create in pthread
+[15.545s] -- Looking for pthread_create in pthread - found
+[15.545s] -- Found Threads: TRUE  
+[15.990s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[16.258s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[16.514s] -- Added test 'copyright' to check source files copyright and LICENSE
+[16.574s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[16.577s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task2a/include>
+[16.578s] -- Configured cppcheck exclude dirs and/or files: 
+[16.578s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[16.578s] -- Configured cpplint exclude dirs and/or files: 
+[16.579s] -- Added test 'flake8' to check Python code syntax and style conventions
+[16.581s] -- Added test 'lint_cmake' to check CMake code style
+[16.591s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[16.593s] -- Added test 'uncrustify' to check C / C++ code style
+[16.593s] -- Configured uncrustify additional arguments: 
+[16.595s] -- Added test 'xmllint' to check XML markup files
+[16.605s] -- Configuring done
+[16.673s] -- Generating done
+[16.700s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/task2a

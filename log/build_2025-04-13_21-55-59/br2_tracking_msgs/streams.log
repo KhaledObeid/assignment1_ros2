@@ -1,0 +1,92 @@
+[3.285s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking_msgs -- -j7 -l7
+[7.389s] [  3%] Built target br2_tracking_msgs__cpp
+[7.467s] [ 12%] Built target br2_tracking_msgs__rosidl_generator_c
+[7.544s] [ 22%] Built target br2_tracking_msgs__rosidl_typesupport_introspection_cpp
+[7.549s] [ 32%] Built target br2_tracking_msgs__rosidl_typesupport_c
+[7.550s] [ 41%] Built target br2_tracking_msgs__rosidl_typesupport_introspection_c
+[7.836s] [ 51%] Built target br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp
+[8.186s] [ 61%] Built target br2_tracking_msgs__rosidl_typesupport_cpp
+[8.696s] [ 70%] Built target br2_tracking_msgs__rosidl_typesupport_fastrtps_c
+[9.131s] [ 70%] Built target br2_tracking_msgs
+[9.354s] [ 74%] Built target br2_tracking_msgs__py
+[9.752s] [ 80%] Built target br2_tracking_msgs__python
+[9.972s] [ 87%] Built target br2_tracking_msgs__rosidl_typesupport_c__pyext
+[10.141s] [ 93%] Built target br2_tracking_msgs__rosidl_typesupport_introspection_c__pyext
+[10.401s] [100%] Built target br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext
+[13.954s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tracking_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking_msgs -- -j7 -l7
+[14.171s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tracking_msgs
+[15.610s] -- Install configuration: ""
+[15.611s] -- Execute custom install script
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/ament_index/resource_index/rosidl_interfaces/br2_tracking_msgs
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__functions.h
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__struct.h
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__type_support.h
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/pan_tilt_command.h
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/rosidl_generator_c__visibility_control.h
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/library_path.sh
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/library_path.dsv
+[15.611s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__rosidl_typesupport_fastrtps_c.h
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_fastrtps_c.so
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__rosidl_typesupport_fastrtps_cpp.hpp
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.so
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__rosidl_typesupport_introspection_c.h
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__builder.hpp
+[15.612s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__struct.hpp
+[15.613s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__traits.hpp
+[15.613s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__type_support.hpp
+[15.613s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/pan_tilt_command.hpp
+[15.615s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[15.615s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/include/br2_tracking_msgs/msg/detail/pan_tilt_command__rosidl_typesupport_introspection_cpp.hpp
+[15.615s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/pythonpath.sh
+[15.800s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/pythonpath.dsv
+[16.008s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/__init__.py
+[16.065s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/msg/__init__.py
+[16.066s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/msg/_pan_tilt_command.py
+[16.066s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/br2_tracking_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[16.068s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/br2_tracking_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[16.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages/br2_tracking_msgs/br2_tracking_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[16.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__python.so
+[16.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/msg/PanTiltCommand.idl
+[16.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/msg/PanTiltCommand.msg
+[16.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/ament_index/resource_index/package_run_dependencies/br2_tracking_msgs
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/ament_index/resource_index/parent_prefix_path/br2_tracking_msgs
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/ament_prefix_path.sh
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/ament_prefix_path.dsv
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/path.sh
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/environment/path.dsv
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/local_setup.bash
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/local_setup.sh
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/local_setup.zsh
+[16.071s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/local_setup.dsv
+[16.071s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/package.dsv
+[16.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/ament_index/resource_index/packages/br2_tracking_msgs
+[16.072s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/rosidl_cmake-extras.cmake
+[16.076s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[16.076s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[16.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[16.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[16.083s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[16.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[16.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgsConfig.cmake
+[16.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgsConfig-version.cmake
+[16.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/package.xml
+[16.085s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_generator_c.so
+[16.086s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_introspection_c.so
+[16.086s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_c.so
+[16.095s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_introspection_cpp.so
+[16.096s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/libbr2_tracking_msgs__rosidl_typesupport_cpp.so
+[16.212s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_generator_cExport.cmake
+[16.342s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_generator_cExport-noconfig.cmake
+[16.343s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_introspection_cExport.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_cExport.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_generator_cppExport.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[16.347s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[16.428s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_cppExport.cmake
+[16.430s] -- Up-to-date: /home/khaledob/bookros2_ws/install/br2_tracking_msgs/share/br2_tracking_msgs/cmake/br2_tracking_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[18.616s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tracking_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tracking_msgs

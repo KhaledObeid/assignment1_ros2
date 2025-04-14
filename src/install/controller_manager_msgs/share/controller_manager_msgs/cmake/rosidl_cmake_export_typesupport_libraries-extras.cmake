@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/controller_manager_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake

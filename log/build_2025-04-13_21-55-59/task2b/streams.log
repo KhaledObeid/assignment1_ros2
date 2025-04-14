@@ -1,0 +1,5 @@
+[2.658s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[4.948s] [35m[1mScanning dependencies of target node[0m
+[5.929s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2b/BumpGoNode2b.cpp.o[0m
+[44.166s] [ 66%] [32m[1mLinking CXX executable node[0m
+[44.860s] [100%] Built target node

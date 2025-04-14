@@ -1,0 +1,57 @@
+[ 12%] Built target gmock
+[ 20%] Built target gmock_main
+[ 28%] Built target controller_manager
+[ 36%] Built target test_controller_with_interfaces
+[ 44%] Built target ros2_control_node
+[ 52%] Built target test_controller_failed_init
+[ 60%] Built target test_controller
+[ 68%] Built target test_release_interfaces
+[ 76%] Built target test_controller_manager
+[ 84%] Built target test_load_controller
+[ 92%] Built target test_controller_manager_srvs
+[100%] Built target test_spawner_unspawner
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/libcontroller_manager.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/controller_manager/ros2_control_node
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/include/controller_manager/controller_manager.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/include/controller_manager/controller_spec.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/include/controller_manager/visibility_control.h
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/controller_manager/spawner.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/controller_manager/unspawner.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/test/test_controller/test_controller.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/libtest_controller.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/test/test_controller_failed_init/test_controller_failed_init.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/libtest_controller_failed_init.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/test/test_controller_with_interfaces/test_controller_with_interfaces.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/libtest_controller_with_interfaces.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/pythonpath.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/pythonpath.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/__init__.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/controller_manager_services.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/launch_utils.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/library_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/library_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/ament_index/resource_index/package_run_dependencies/controller_manager
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/ament_index/resource_index/parent_prefix_path/controller_manager
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/ament_index/resource_index/packages/controller_manager
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/ament_index/resource_index/controller_interface__pluginlib__plugin/controller_manager
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/controller_manager/share/controller_manager/package.xml
+Listing '/home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager'...
+Compiling '/home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/__init__.py'...
+Compiling '/home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/controller_manager_services.py'...
+Compiling '/home/khaledob/bookros2_ws/src/install/controller_manager/lib/python3.8/site-packages/controller_manager/launch_utils.py'...

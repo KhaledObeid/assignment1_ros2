@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable node[0m
+[100%] Built target node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/install/task1/lib/task1/node

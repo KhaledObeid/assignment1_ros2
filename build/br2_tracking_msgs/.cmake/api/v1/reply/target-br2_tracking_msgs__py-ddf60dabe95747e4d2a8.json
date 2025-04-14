@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/khaledob/bookros2_ws/build/br2_tracking_msgs/br2_tracking_msgs__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "br2_tracking_msgs::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "br2_tracking_msgs__py::@b74012f1866609214a26",
+	"name" : "br2_tracking_msgs__py",
+	"paths" : 
+	{
+		"build" : "br2_tracking_msgs__py",
+		"source" : "/home/khaledob/bookros2_ws/build/br2_tracking_msgs/br2_tracking_msgs__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/khaledob/bookros2_ws/build/br2_tracking_msgs/br2_tracking_msgs__py/CMakeFiles/br2_tracking_msgs__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khaledob/bookros2_ws/build/br2_tracking_msgs/br2_tracking_msgs__py/CMakeFiles/br2_tracking_msgs__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khaledob/bookros2_ws/build/br2_tracking_msgs/rosidl_generator_py/br2_tracking_msgs/_br2_tracking_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

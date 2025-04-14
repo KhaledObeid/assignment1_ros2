@@ -1,0 +1,164 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "gtest",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/opt/ros/foxy/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "joint_trajectory_controller",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-a4e0dda0f4e63d855586.json",
+					"name" : "gtest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-4029afa2f0651af27bff.json",
+					"name" : "gtest_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_trajectory_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_trajectory_controller-3be897a0bf868510b90e.json",
+					"name" : "joint_trajectory_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_trajectory_controller_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_trajectory_controller_uninstall-74d70d7249242df1144e.json",
+					"name" : "joint_trajectory_controller_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_load_joint_trajectory_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_load_joint_trajectory_controller-8d7dd5fa2a251dfc6c45.json",
+					"name" : "test_load_joint_trajectory_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_trajectory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_trajectory-cf4cb6e03ffcac36da5c.json",
+					"name" : "test_trajectory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_trajectory_actions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_trajectory_actions-149f1991c0db086f2535.json",
+					"name" : "test_trajectory_actions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_trajectory_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_trajectory_controller-7fa3cc3825b9289be4a2.json",
+					"name" : "test_trajectory_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-91ee318ba9ca2c7c58a5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khaledob/bookros2_ws/src/build/joint_trajectory_controller",
+		"source" : "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/joint_trajectory_controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,22 @@
+[1.103s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_tiago -- -j7 -l7
+[1.902s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_tiago -- -j7 -l7
+[1.930s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_tiago
+[1.983s] -- Install configuration: ""
+[1.983s] -- Execute custom install script
+[1.983s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/launch/sim.launch.py
+[1.983s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/ament_index/resource_index/package_run_dependencies/br2_tiago
+[1.983s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/ament_index/resource_index/parent_prefix_path/br2_tiago
+[1.984s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/environment/ament_prefix_path.sh
+[2.025s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/environment/ament_prefix_path.dsv
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/environment/path.sh
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/environment/path.dsv
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/local_setup.bash
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/local_setup.sh
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/local_setup.zsh
+[2.032s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/local_setup.dsv
+[2.032s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/package.dsv
+[2.143s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/ament_index/resource_index/packages/br2_tiago
+[2.144s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/cmake/br2_tiagoConfig.cmake
+[2.145s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/cmake/br2_tiagoConfig-version.cmake
+[2.149s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/br2_tiago/share/br2_tiago/package.xml
+[2.150s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_tiago

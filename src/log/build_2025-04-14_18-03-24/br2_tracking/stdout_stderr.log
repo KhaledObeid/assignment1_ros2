@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target gtest[0m
+[35m[1mScanning dependencies of target gtest_main[0m
+[  7%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[35m[1mScanning dependencies of target br2_tracking[0m
+[ 14%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/ObjectDetector.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/HeadController.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/PIDController.cpp.o[0m
+[ 42%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[ 42%] Built target gtest_main
+[ 50%] [32m[1mLinking CXX static library libgtest.a[0m
+[ 50%] Built target gtest
+[ 57%] [32m[1mLinking CXX shared library libbr2_tracking.so[0m
+[ 57%] Built target br2_tracking
+[35m[1mScanning dependencies of target object_detector[0m
+[35m[1mScanning dependencies of target object_tracker[0m
+[35m[1mScanning dependencies of target pid_test[0m
+[ 64%] [32mBuilding CXX object tests/CMakeFiles/pid_test.dir/pid_test.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/object_detector.dir/src/object_detector_main.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/object_tracker.dir/src/object_tracker_main.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable pid_test[0m
+[ 85%] Built target pid_test
+[ 92%] [32m[1mLinking CXX executable object_detector[0m
+[ 92%] Built target object_detector
+[100%] [32m[1mLinking CXX executable object_tracker[0m
+[100%] Built target object_tracker

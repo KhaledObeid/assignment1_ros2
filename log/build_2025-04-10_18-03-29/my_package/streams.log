@@ -1,0 +1,31 @@
+[0.082s] Invoking command in '/home/khaledob/bookros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package
+[0.128s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.154s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.474s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.476s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.558s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.566s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.977s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.111s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.111s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.608s] CMake Error at CMakeLists.txt:21 (find_package):
+[1.609s]   By not providing "Findstd_mgs.cmake" in CMAKE_MODULE_PATH this project has
+[1.612s]   asked CMake to find a package configuration file provided by "std_mgs", but
+[1.625s]   CMake did not find one.
+[1.647s] 
+[1.647s]   Could not find a package configuration file provided by "std_mgs" with any
+[1.647s]   of the following names:
+[1.647s] 
+[1.647s]     std_mgsConfig.cmake
+[1.647s]     std_mgs-config.cmake
+[1.647s] 
+[1.647s]   Add the installation prefix of "std_mgs" to CMAKE_PREFIX_PATH or set
+[1.647s]   "std_mgs_DIR" to a directory containing one of the above files.  If
+[1.647s]   "std_mgs" provides a separate development package or SDK, be sure it has
+[1.647s]   been installed.
+[1.648s] 
+[1.648s] 
+[1.648s] -- Configuring incomplete, errors occurred!
+[1.648s] See also "/home/khaledob/bookros2_ws/build/my_package/CMakeFiles/CMakeOutput.log".
+[1.649s] See also "/home/khaledob/bookros2_ws/build/my_package/CMakeFiles/CMakeError.log".
+[1.698s] Invoked command in '/home/khaledob/bookros2_ws/build/my_package' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package

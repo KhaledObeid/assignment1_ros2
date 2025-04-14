@@ -1,0 +1,98 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp_action: 2.4.3 (/opt/ros/foxy/share/rclcpp_action/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found control_msgs: 2.5.1 (/opt/ros/foxy/share/control_msgs/cmake)
+-- Found control_toolbox: 2.2.0 (/opt/ros/foxy/share/control_toolbox/cmake)
+-- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake)
+-- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+-- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+-- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+-- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/gripper_controllers/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/khaledob/bookros2_ws/build/gripper_controllers
+[35m[1mScanning dependencies of target gripper_action_controller[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/gripper_action_controller.dir/src/gripper_action_controller.cpp.o[0m
+[ 22%] [32m[1mLinking CXX shared library libgripper_action_controller.so[0m
+[ 22%] Built target gripper_action_controller
+[35m[1mScanning dependencies of target gmock_main[0m
+[ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[ 44%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[ 44%] Built target gmock_main
+[35m[1mScanning dependencies of target gmock[0m
+[ 55%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[ 66%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[ 77%] [32m[1mLinking CXX static library libgmock.a[0m
+[ 77%] Built target gmock
+[35m[1mScanning dependencies of target test_load_gripper_action_controllers[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/test_load_gripper_action_controllers.dir/test/test_load_gripper_action_controllers.cpp.o[0m
+[100%] [32m[1mLinking CXX executable test_load_gripper_action_controllers[0m
+[100%] Built target test_load_gripper_action_controllers
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers//ros_control_plugins.xml
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/gripper_action_controller.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/gripper_action_controller_impl.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/hardware_interface_adapter.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/visibility_control.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/lib/libgripper_action_controller.so
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/package_run_dependencies/gripper_controllers
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/parent_prefix_path/gripper_controllers
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/packages/gripper_controllers
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/gripper_controllers
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/cmake/gripper_controllersConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/cmake/gripper_controllersConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/package.xml

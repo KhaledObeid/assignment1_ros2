@@ -1,0 +1,5 @@
+[0.393s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp -- -j7 -l7
+[0.665s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.813s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o[0m
+[5.748s] [ 66%] [32m[1mLinking CXX executable bumpgo[0m
+[6.085s] [100%] Built target bumpgo

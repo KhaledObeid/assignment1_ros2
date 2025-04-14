@@ -1,0 +1,6 @@
+Invoking command in '/home/khaledob/bookros2_ws/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/t1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/t1
+Invoked command in '/home/khaledob/bookros2_ws/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/t1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/t1
+Invoking command in '/home/khaledob/bookros2_ws/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t1 -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t1 -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t1
+Invoked command in '/home/khaledob/bookros2_ws/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t1

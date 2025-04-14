@@ -1,0 +1,27 @@
+[0.848s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_navigation -- -j7 -l7
+[1.316s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_navigation -- -j7 -l7
+[1.362s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_navigation
+[1.409s] -- Install configuration: ""
+[1.411s] -- Execute custom install script
+[1.411s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/launch/navigation_launch.py
+[1.412s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/launch/tiago_navigation.launch.py
+[1.414s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/params/mapper_params_online_async.yaml
+[1.416s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/params/tiago_nav_params.yaml
+[1.417s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/maps/home.pgm
+[1.417s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/maps/home.yaml
+[1.418s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/package_run_dependencies/br2_navigation
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/parent_prefix_path/br2_navigation
+[1.419s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.sh
+[1.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.dsv
+[1.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/path.sh
+[1.430s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/path.dsv
+[1.431s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.bash
+[1.431s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.sh
+[1.436s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.zsh
+[1.437s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.dsv
+[1.438s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/package.dsv
+[1.438s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/packages/br2_navigation
+[1.439s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig.cmake
+[1.442s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig-version.cmake
+[1.443s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_navigation/share/br2_navigation/package.xml
+[1.737s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_navigation

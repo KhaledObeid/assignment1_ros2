@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a_main.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[100%] [32m[1mLinking CXX executable node[0m
+[100%] Built target node

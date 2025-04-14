@@ -1,0 +1,4 @@
+make[2]: *** Deleting file 'detector'
+make[2]: *** [CMakeFiles/detector.dir/build.make:177: detector] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:82: CMakeFiles/detector.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

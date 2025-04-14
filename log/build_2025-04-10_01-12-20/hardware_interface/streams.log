@@ -1,0 +1,158 @@
+[0.015s] Invoking command in '/home/khaledob/bookros2_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/hardware_interface
+[0.152s] -- The C compiler identification is GNU 9.4.0
+[0.238s] -- The CXX compiler identification is GNU 9.4.0
+[0.251s] -- Check for working C compiler: /usr/bin/cc
+[0.380s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.382s] -- Detecting C compiler ABI info
+[0.498s] -- Detecting C compiler ABI info - done
+[0.515s] -- Detecting C compile features
+[0.516s] -- Detecting C compile features - done
+[0.524s] -- Check for working CXX compiler: /usr/bin/c++
+[0.643s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.645s] -- Detecting CXX compiler ABI info
+[0.760s] -- Detecting CXX compiler ABI info - done
+[0.772s] -- Detecting CXX compile features
+[0.773s] -- Detecting CXX compile features - done
+[0.776s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.806s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.806s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.031s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.066s] -- Found control_msgs: 2.5.1 (/opt/ros/foxy/share/control_msgs/cmake)
+[1.108s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.115s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.220s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.251s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.338s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.985s] -- Found pluginlib: 2.5.4 (/opt/ros/foxy/share/pluginlib/cmake)
+[2.080s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[2.090s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.251s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[2.262s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[2.263s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[2.285s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.288s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.289s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/hardware_interface/include
+[2.290s] -- Configured cppcheck exclude dirs and/or files: 
+[2.292s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.292s] -- Configured cpplint exclude dirs and/or files: 
+[2.294s] -- Added test 'lint_cmake' to check CMake code style
+[2.297s] -- Added test 'uncrustify' to check C / C++ code style
+[2.298s] -- Configured uncrustify additional arguments: 
+[2.299s] -- Added test 'xmllint' to check XML markup files
+[2.312s] -- Configuring done
+[2.388s] -- Generating done
+[2.411s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/hardware_interface
+[2.427s] Invoked command in '/home/khaledob/bookros2_ws/build/hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/hardware_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/hardware_interface
+[2.429s] Invoking command in '/home/khaledob/bookros2_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/hardware_interface -- -j4 -l4
+[2.524s] [35m[1mScanning dependencies of target hardware_interface[0m
+[2.555s] [35m[1mScanning dependencies of target gmock[0m
+[2.580s] [35m[1mScanning dependencies of target gmock_main[0m
+[2.599s] [  2%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/actuator.cpp.o[0m
+[2.599s] [  5%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/component_parser.cpp.o[0m
+[2.615s] [  8%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[2.639s] [ 11%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[3.522s] [ 14%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/resource_manager.cpp.o[0m
+[4.216s] [ 17%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/sensor.cpp.o[0m
+[5.397s] [ 20%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[5.626s] [ 20%] Built target gmock_main
+[5.690s] [ 23%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/system.cpp.o[0m
+[5.833s] [ 26%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[15.633s] [ 29%] [32m[1mLinking CXX static library libgmock.a[0m
+[16.148s] [ 29%] Built target gmock
+[16.222s] [35m[1mScanning dependencies of target test_macros[0m
+[16.391s] [ 32%] [32mBuilding CXX object CMakeFiles/test_macros.dir/test/test_macros.cpp.o[0m
+[20.287s] [ 35%] [32m[1mLinking CXX executable test_macros[0m
+[21.360s] [ 35%] Built target test_macros
+[22.301s] [ 38%] [32m[1mLinking CXX shared library libhardware_interface.so[0m
+[22.844s] [ 38%] Built target hardware_interface
+[22.886s] [35m[1mScanning dependencies of target fake_components[0m
+[22.973s] [ 41%] [32mBuilding CXX object CMakeFiles/fake_components.dir/src/fake_components/generic_system.cpp.o[0m
+[26.257s] [ 44%] [32m[1mLinking CXX shared library libfake_components.so[0m
+[26.687s] [ 44%] Built target fake_components
+[26.750s] [35m[1mScanning dependencies of target test_component_parser[0m
+[26.832s] [ 47%] [32mBuilding CXX object CMakeFiles/test_component_parser.dir/test/test_component_parser.cpp.o[0m
+[31.017s] [ 50%] [32m[1mLinking CXX executable test_component_parser[0m
+[31.751s] [ 50%] Built target test_component_parser
+[31.781s] [35m[1mScanning dependencies of target test_components[0m
+[31.830s] [ 52%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_actuator.cpp.o[0m
+[33.255s] [ 55%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_sensor.cpp.o[0m
+[34.588s] [ 58%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_system.cpp.o[0m
+[36.023s] [ 61%] [32m[1mLinking CXX shared library libtest_components.so[0m
+[36.199s] [ 61%] Built target test_components
+[36.220s] [35m[1mScanning dependencies of target test_hardware_components[0m
+[36.245s] [ 64%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_single_joint_actuator.cpp.o[0m
+[37.565s] [ 67%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_force_torque_sensor.cpp.o[0m
+[38.798s] [ 70%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_two_joint_system.cpp.o[0m
+[40.024s] [ 73%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_system_with_command_modes.cpp.o[0m
+[41.525s] [ 76%] [32m[1mLinking CXX shared library libtest_hardware_components.so[0m
+[41.728s] [ 76%] Built target test_hardware_components
+[41.754s] [35m[1mScanning dependencies of target test_generic_system[0m
+[41.787s] [ 79%] [32mBuilding CXX object CMakeFiles/test_generic_system.dir/test/fake_components/test_generic_system.cpp.o[0m
+[44.646s] [ 82%] [32m[1mLinking CXX executable test_generic_system[0m
+[45.053s] [ 82%] Built target test_generic_system
+[45.087s] [35m[1mScanning dependencies of target test_resource_manager[0m
+[45.125s] [ 85%] [32mBuilding CXX object CMakeFiles/test_resource_manager.dir/test/test_resource_manager.cpp.o[0m
+[49.395s] [ 88%] [32m[1mLinking CXX executable test_resource_manager[0m
+[50.119s] [ 88%] Built target test_resource_manager
+[50.165s] [35m[1mScanning dependencies of target test_joint_handle[0m
+[50.207s] [ 91%] [32mBuilding CXX object CMakeFiles/test_joint_handle.dir/test/test_handle.cpp.o[0m
+[52.092s] [ 94%] [32m[1mLinking CXX executable test_joint_handle[0m
+[52.770s] [ 94%] Built target test_joint_handle
+[52.810s] [35m[1mScanning dependencies of target test_component_interfaces[0m
+[52.883s] [ 97%] [32mBuilding CXX object CMakeFiles/test_component_interfaces.dir/test/test_component_interfaces.cpp.o[0m
+[56.059s] [100%] [32m[1mLinking CXX executable test_component_interfaces[0m
+[56.503s] [100%] Built target test_component_interfaces
+[56.542s] Invoked command in '/home/khaledob/bookros2_ws/build/hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/hardware_interface -- -j4 -l4
+[56.546s] Invoking command in '/home/khaledob/bookros2_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/hardware_interface
+[56.620s] -- Install configuration: ""
+[56.626s] -- Execute custom install script
+[56.631s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface//fake_components_plugin_description.xml
+[56.696s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/fake_components/generic_system.hpp
+[56.771s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/fake_components/visibility_control.h
+[56.833s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/actuator.hpp
+[56.881s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/actuator_interface.hpp
+[56.904s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/base_interface.hpp
+[56.962s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/component_parser.hpp
+[57.012s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/controller_info.hpp
+[57.090s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/handle.hpp
+[57.090s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/hardware_info.hpp
+[57.090s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/loaned_command_interface.hpp
+[57.090s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/loaned_state_interface.hpp
+[57.104s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/macros.hpp
+[57.133s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/resource_manager.hpp
+[57.158s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/sensor.hpp
+[57.181s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/sensor_interface.hpp
+[57.219s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/system.hpp
+[57.296s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/system_interface.hpp
+[57.346s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/types/hardware_interface_return_values.hpp
+[57.377s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/types/hardware_interface_status_values.hpp
+[57.406s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/types/hardware_interface_type_values.hpp
+[57.436s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/include/hardware_interface/visibility_control.h
+[57.470s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/lib/libfake_components.so
+[57.502s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/lib/libhardware_interface.so
+[57.540s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/lib/libtest_components.so
+[57.594s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/test/test_components/test_components.xml
+[57.619s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/lib/libtest_hardware_components.so
+[57.633s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/test/test_hardware_components/test_hardware_components.xml
+[57.677s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/library_path.sh
+[57.716s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/library_path.dsv
+[57.746s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/ament_index/resource_index/package_run_dependencies/hardware_interface
+[57.771s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/ament_index/resource_index/parent_prefix_path/hardware_interface
+[57.791s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/ament_prefix_path.sh
+[57.816s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/ament_prefix_path.dsv
+[57.850s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/path.sh
+[57.872s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/environment/path.dsv
+[57.908s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/local_setup.bash
+[57.964s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/local_setup.sh
+[58.030s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/local_setup.zsh
+[58.058s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/local_setup.dsv
+[58.079s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/package.dsv
+[58.108s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/ament_index/resource_index/packages/hardware_interface
+[58.141s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/hardware_interface
+[58.172s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[58.219s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[58.254s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[58.288s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig.cmake
+[58.333s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake
+[58.355s] -- Symlinking: /home/khaledob/bookros2_ws/install/hardware_interface/share/hardware_interface/package.xml
+[58.379s] Invoked command in '/home/khaledob/bookros2_ws/build/hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/hardware_interface

@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/transmission_interface/ament_cmake_environment_hooks/local_setup.bash

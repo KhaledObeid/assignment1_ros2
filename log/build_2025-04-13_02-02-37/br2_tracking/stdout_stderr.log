@@ -1,0 +1,6 @@
+[ 14%] Built target gtest
+[ 28%] Built target gtest_main
+[ 57%] Built target br2_tracking
+[ 71%] Built target pid_test
+[ 85%] Built target object_tracker
+[100%] Built target object_detector

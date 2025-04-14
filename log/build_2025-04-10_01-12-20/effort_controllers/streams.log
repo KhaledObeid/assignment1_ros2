@@ -1,0 +1,108 @@
+[0.200s] Invoking command in '/home/khaledob/bookros2_ws/build/effort_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/effort_controllers -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/effort_controllers
+[0.283s] -- The C compiler identification is GNU 9.4.0
+[0.366s] -- The CXX compiler identification is GNU 9.4.0
+[0.374s] -- Check for working C compiler: /usr/bin/cc
+[0.583s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.585s] -- Detecting C compiler ABI info
+[0.720s] -- Detecting C compiler ABI info - done
+[0.738s] -- Detecting C compile features
+[0.738s] -- Detecting C compile features - done
+[0.744s] -- Check for working CXX compiler: /usr/bin/c++
+[1.094s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.098s] -- Detecting CXX compiler ABI info
+[1.303s] -- Detecting CXX compiler ABI info - done
+[1.304s] -- Detecting CXX compile features
+[1.304s] -- Detecting CXX compile features - done
+[1.304s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.342s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.343s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.662s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.711s] -- Found forward_command_controller: 0.4.0 (/home/khaledob/bookros2_ws/install/forward_command_controller/share/forward_command_controller/cmake)
+[1.776s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.787s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.949s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.989s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.116s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.960s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.963s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.965s] -- Looking for pthread.h
+[3.140s] -- Looking for pthread.h - found
+[3.141s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.791s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.792s] -- Looking for pthread_create in pthreads
+[3.892s] -- Looking for pthread_create in pthreads - not found
+[3.892s] -- Looking for pthread_create in pthread
+[4.575s] -- Looking for pthread_create in pthread - found
+[4.576s] -- Found Threads: TRUE  
+[4.767s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[4.770s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.772s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[4.868s] -- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[4.982s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[4.989s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.109s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.112s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.113s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/effort_controllers/include
+[5.114s] -- Configured cppcheck exclude dirs and/or files: 
+[5.116s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.116s] -- Configured cpplint exclude dirs and/or files: 
+[5.118s] -- Added test 'lint_cmake' to check CMake code style
+[5.120s] -- Added test 'uncrustify' to check C / C++ code style
+[5.121s] -- Configured uncrustify additional arguments: 
+[5.122s] -- Added test 'xmllint' to check XML markup files
+[5.132s] -- Configuring done
+[5.214s] -- Generating done
+[5.247s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/effort_controllers
+[5.263s] Invoked command in '/home/khaledob/bookros2_ws/build/effort_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/effort_controllers -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/effort_controllers
+[5.269s] Invoking command in '/home/khaledob/bookros2_ws/build/effort_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/effort_controllers -- -j4 -l4
+[5.341s] [35m[1mScanning dependencies of target gmock[0m
+[5.373s] [  9%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[10.041s] [ 18%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[12.459s] [ 27%] [32m[1mLinking CXX static library libgmock.a[0m
+[12.555s] [ 27%] Built target gmock
+[12.576s] [35m[1mScanning dependencies of target effort_controllers[0m
+[12.646s] [ 36%] [32mBuilding CXX object CMakeFiles/effort_controllers.dir/src/joint_group_effort_controller.cpp.o[0m
+[17.078s] [ 45%] [32m[1mLinking CXX shared library libeffort_controllers.so[0m
+[17.398s] [ 45%] Built target effort_controllers
+[17.418s] [35m[1mScanning dependencies of target gmock_main[0m
+[17.451s] [ 54%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[18.879s] [ 63%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[18.934s] [ 63%] Built target gmock_main
+[18.958s] [35m[1mScanning dependencies of target test_load_joint_group_effort_controller[0m
+[19.057s] [ 72%] [32mBuilding CXX object CMakeFiles/test_load_joint_group_effort_controller.dir/test/test_load_joint_group_effort_controller.cpp.o[0m
+[24.133s] [ 81%] [32m[1mLinking CXX executable test_load_joint_group_effort_controller[0m
+[25.060s] [ 81%] Built target test_load_joint_group_effort_controller
+[25.078s] [35m[1mScanning dependencies of target test_joint_group_effort_controller[0m
+[25.165s] [ 90%] [32mBuilding CXX object CMakeFiles/test_joint_group_effort_controller.dir/test/test_joint_group_effort_controller.cpp.o[0m
+[32.742s] [100%] [32m[1mLinking CXX executable test_joint_group_effort_controller[0m
+[33.399s] [100%] Built target test_joint_group_effort_controller
+[33.419s] Invoked command in '/home/khaledob/bookros2_ws/build/effort_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/effort_controllers -- -j4 -l4
+[33.427s] Invoking command in '/home/khaledob/bookros2_ws/build/effort_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/effort_controllers
+[33.449s] -- Install configuration: ""
+[33.450s] -- Execute custom install script
+[33.450s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers//effort_controllers_plugins.xml
+[33.466s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/include/effort_controllers/joint_group_effort_controller.hpp
+[33.480s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/include/effort_controllers/visibility_control.h
+[33.496s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/lib/libeffort_controllers.so
+[33.534s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/library_path.sh
+[33.555s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/library_path.dsv
+[33.572s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/ament_index/resource_index/package_run_dependencies/effort_controllers
+[33.587s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/ament_index/resource_index/parent_prefix_path/effort_controllers
+[33.603s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/ament_prefix_path.sh
+[33.618s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/ament_prefix_path.dsv
+[33.634s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/path.sh
+[33.650s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/environment/path.dsv
+[33.670s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/local_setup.bash
+[33.687s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/local_setup.sh
+[33.702s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/local_setup.zsh
+[33.718s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/local_setup.dsv
+[33.734s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/package.dsv
+[33.750s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/ament_index/resource_index/packages/effort_controllers
+[33.770s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/effort_controllers
+[33.792s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/cmake/ament_cmake_export_dependencies-extras.cmake
+[33.808s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/cmake/ament_cmake_export_include_directories-extras.cmake
+[33.824s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/cmake/ament_cmake_export_libraries-extras.cmake
+[33.843s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/cmake/effort_controllersConfig.cmake
+[33.858s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/cmake/effort_controllersConfig-version.cmake
+[33.875s] -- Symlinking: /home/khaledob/bookros2_ws/install/effort_controllers/share/effort_controllers/package.xml
+[33.897s] Invoked command in '/home/khaledob/bookros2_ws/build/effort_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller:/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/forward_command_controller/lib:/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/effort_controllers

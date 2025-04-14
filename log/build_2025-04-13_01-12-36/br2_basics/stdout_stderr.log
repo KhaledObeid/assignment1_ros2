@@ -1,0 +1,16 @@
+make[2]: *** wait: No child processes. Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** wait: No child processes. Stop.
+make[1]: *** [CMakeFiles/Makefile2:278: CMakeFiles/param_reader.dir/all] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:197: CMakeFiles/publisher_class.dir/all] Error 2
+make[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/logger_class.dir/all] Interrupt
+make[2]: *** [CMakeFiles/subscriber_class.dir/build.make:143: CMakeFiles/subscriber_class.dir/depend] Interrupt
+make[2]: *** [CMakeFiles/logger.dir/build.make:143: CMakeFiles/logger.dir/depend] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/subscriber_class.dir/all] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:170: CMakeFiles/logger.dir/all] Interrupt
+make[2]: *** [CMakeFiles/executors.dir/build.make:143: CMakeFiles/executors.dir/depend] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:143: CMakeFiles/executors.dir/all] Interrupt
+make[1]: *** wait: No child processes. Stop.
+make[1]: *** Waiting for unfinished jobs....
+make[1]: *** wait: No child processes. Stop.
+make: *** [Makefile:141: all] Error 2

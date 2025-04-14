@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/groot/ament_cmake_core/grootConfig-version.cmake

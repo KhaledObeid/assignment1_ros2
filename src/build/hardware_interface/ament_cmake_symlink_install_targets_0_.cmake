@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/khaledob/bookros2_ws/src/build/hardware_interface/libfake_components.so" "/home/khaledob/bookros2_ws/src/build/hardware_interface/libhardware_interface.so" "TARGETS" "fake_components" "hardware_interface" "RUNTIME_DESTINATION" "bin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib")

@@ -1,0 +1,47 @@
+[0.030s] Invoking command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/tiago_description_calibration -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/tiago_description_calibration
+[0.573s] -- The C compiler identification is GNU 9.4.0
+[0.995s] -- The CXX compiler identification is GNU 9.4.0
+[1.000s] -- Check for working C compiler: /usr/bin/cc
+[1.407s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.407s] -- Detecting C compiler ABI info
+[2.009s] -- Detecting C compiler ABI info - done
+[2.033s] -- Detecting C compile features
+[2.033s] -- Detecting C compile features - done
+[2.038s] -- Check for working CXX compiler: /usr/bin/c++
+[2.670s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.671s] -- Detecting CXX compiler ABI info
+[3.453s] -- Detecting CXX compiler ABI info - done
+[3.462s] -- Detecting CXX compile features
+[3.463s] -- Detecting CXX compile features - done
+[3.465s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[3.535s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.535s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.097s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.596s] -- Configuring done
+[4.608s] -- Generating done
+[4.611s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/tiago_description_calibration
+[4.617s] Invoked command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/tiago_description_calibration -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/tiago_description_calibration
+[4.622s] Invoking command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/tiago_description_calibration -- -j4 -l4
+[5.186s] Invoked command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/tiago_description_calibration -- -j4 -l4
+[5.188s] Invoking command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/tiago_description_calibration
+[5.255s] -- Install configuration: ""
+[5.256s] -- Execute custom install script
+[5.256s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/calibration/calibration_constants.urdf.xacro
+[5.329s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/calibration/extrinsic_camera_calibration_constants.urdf.xacro
+[5.388s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/deg_to_rad.xacro
+[5.473s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/package_run_dependencies/tiago_description_calibration
+[5.491s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/parent_prefix_path/tiago_description_calibration
+[5.512s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/ament_prefix_path.sh
+[5.563s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/ament_prefix_path.dsv
+[5.619s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/path.sh
+[5.683s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/path.dsv
+[5.743s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.bash
+[5.864s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.sh
+[5.925s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.zsh
+[5.976s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.dsv
+[5.998s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/package.dsv
+[6.046s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/packages/tiago_description_calibration
+[6.262s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/cmake/tiago_description_calibrationConfig.cmake
+[6.297s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/cmake/tiago_description_calibrationConfig-version.cmake
+[6.386s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/package.xml
+[6.462s] Invoked command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/tiago_description_calibration

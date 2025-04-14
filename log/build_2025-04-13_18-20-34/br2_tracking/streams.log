@@ -1,0 +1,40 @@
+[0.643s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking -- -j7 -l7
+[2.306s] [ 28%] Built target br2_tracking
+[2.692s] [ 42%] Built target gtest_main
+[3.203s] [ 57%] Built target object_tracker
+[3.701s] [ 71%] Built target object_detector
+[4.483s] [ 85%] Built target gtest
+[4.764s] [100%] Built target pid_test
+[6.560s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tracking' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking -- -j7 -l7
+[6.673s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tracking
+[6.676s] -- Install configuration: "Debug"
+[6.676s] -- Execute custom install script
+[6.676s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/lib/libbr2_tracking.so
+[6.676s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/lib/br2_tracking/object_detector
+[6.676s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/lib/br2_tracking/object_tracker
+[6.676s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/include/include/br2_tracking/HeadController.hpp
+[6.683s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/include/include/br2_tracking/ObjectDetector.hpp
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/include/include/br2_tracking/PIDController.hpp
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/launch/tracking.launch.py
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/config/detector.yaml
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/library_path.sh
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/library_path.dsv
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/ament_index/resource_index/package_run_dependencies/br2_tracking
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/ament_index/resource_index/parent_prefix_path/br2_tracking
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/ament_prefix_path.sh
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/ament_prefix_path.dsv
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/path.sh
+[6.684s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/environment/path.dsv
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/local_setup.bash
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/local_setup.sh
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/local_setup.zsh
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/local_setup.dsv
+[6.685s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/package.dsv
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/ament_index/resource_index/packages/br2_tracking
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_libraries-extras.cmake
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/cmake/br2_trackingConfig.cmake
+[6.685s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/cmake/br2_trackingConfig-version.cmake
+[6.686s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tracking/share/br2_tracking/package.xml
+[7.405s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tracking' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tracking

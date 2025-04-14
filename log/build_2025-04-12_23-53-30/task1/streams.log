@@ -1,0 +1,9 @@
+[0.170s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task1
+[0.241s] -- Configuring incomplete, errors occurred!
+[0.243s] See also "/home/khaledob/bookros2_ws/build/task1/CMakeFiles/CMakeOutput.log".
+[0.244s] See also "/home/khaledob/bookros2_ws/build/task1/CMakeFiles/CMakeError.log".
+[0.254s] CMake Error at CMakeLists.txt:39:
+[0.258s]   Parse error.  Expected a command name, got unquoted argument with text "0".
+[0.258s] 
+[0.258s] 
+[0.297s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task1

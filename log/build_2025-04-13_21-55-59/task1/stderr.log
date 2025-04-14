@@ -1,0 +1,19 @@
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:[m[K In member function ‘[01m[Kvoid task1::BumpGoNode1::control_cycle()[m[K’:
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:40:22:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_region_clearance[m[K’ was not declared in this scope
+   40 |   double front_avg = [01;31m[Kget_region_clearance[m[K(-20.0 * M_PI/180.0, 20.0 * M_PI/180.0);
+      |                      [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:57:43:[m[K [01;31m[Kerror: [m[K‘[01m[KTURN_ANGULAR[m[K’ was not declared in this scope
+   57 |     out_vel.angular.z = turn_direction_ * [01;31m[KTURN_ANGULAR[m[K;
+      |                                           [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:[m[K At global scope:
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:73:8:[m[K [01;31m[Kerror: [m[Kno declaration matches ‘[01m[Kdouble task1::BumpGoNode1::get_region_clearance(double, double)[m[K’
+   73 | double [01;31m[KBumpGoNode1[m[K::get_region_clearance(double angle_start, double angle_end)
+      |        [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:73:8:[m[K [01;36m[Knote: [m[Kno functions named ‘[01m[Kdouble task1::BumpGoNode1::get_region_clearance(double, double)[m[K’
+In file included from [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:4[m[K:
+[01m[K/home/khaledob/bookros2_ws/src/task1/include/BumpGoNode1.hpp:19:7:[m[K [01;36m[Knote: [m[K‘[01m[Kclass task1::BumpGoNode1[m[K’ defined here
+   19 | class [01;36m[KBumpGoNode1[m[K : public rclcpp::Node
+      |       [01;36m[K^~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

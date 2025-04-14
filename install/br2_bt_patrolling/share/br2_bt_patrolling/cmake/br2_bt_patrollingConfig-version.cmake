@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/build/br2_bt_patrolling/ament_cmake_core/br2_bt_patrollingConfig-version.cmake

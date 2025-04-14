@@ -1,0 +1,8 @@
+[0.638s] Invoking command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/joint_trajectory_controller -- -j7 -l7
+[0.827s] [ 13%] Built target gtest_main
+[0.827s] [ 26%] Built target gtest
+[0.833s] [ 46%] Built target joint_trajectory_controller
+[0.900s] [ 60%] Built target test_trajectory
+[0.909s] [ 73%] Built target test_load_joint_trajectory_controller
+[0.974s] [ 86%] Built target test_trajectory_actions
+[0.991s] [100%] Built target test_trajectory_controller

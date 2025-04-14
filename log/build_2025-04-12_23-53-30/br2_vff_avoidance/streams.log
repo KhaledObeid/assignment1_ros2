@@ -1,0 +1,6 @@
+[0.366s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_vff_avoidance -- -j7 -l7
+[0.601s] [ 20%] Built target gtest
+[0.603s] [ 40%] Built target gtest_main
+[0.634s] [ 60%] Built target br2_vff_avoidance
+[0.758s] [ 80%] Built target vff_test
+[0.770s] [100%] Built target avoidance_vff

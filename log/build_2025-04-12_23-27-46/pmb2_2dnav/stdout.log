@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_mapping.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_move_base.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_odom.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_patrol.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_rgbd.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/advanced_navigation.rviz
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/navigation.rviz
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/launch/pmb2_nav_bringup.launch.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_params.yaml
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/package_run_dependencies/pmb2_2dnav
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/parent_prefix_path/pmb2_2dnav
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.bash
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.zsh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/packages/pmb2_2dnav
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig-version.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.xml

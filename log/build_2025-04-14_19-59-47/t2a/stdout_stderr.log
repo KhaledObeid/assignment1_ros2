@@ -1,0 +1,20 @@
+[100%] Built target bumpgo
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/lib/t2a/bumpgo
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/launch/bump_and_go.launch.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/package_run_dependencies/t2a
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/parent_prefix_path/t2a
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.bash
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.zsh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/packages/t2a
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig-version.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.xml

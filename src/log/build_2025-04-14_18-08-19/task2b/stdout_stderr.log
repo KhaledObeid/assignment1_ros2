@@ -1,0 +1,20 @@
+[100%] Built target node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/lib/task2b/node
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/launch/my_launch2b_file.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/ament_index/resource_index/package_run_dependencies/task2b
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/ament_index/resource_index/parent_prefix_path/task2b
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/ament_index/resource_index/packages/task2b
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/cmake/task2bConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/cmake/task2bConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/task2b/share/task2b/package.xml

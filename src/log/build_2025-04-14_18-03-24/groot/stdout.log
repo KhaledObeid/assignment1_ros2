@@ -1,0 +1,39 @@
+[  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[  1%] Built target QtNodeEditor_autogen
+[ 57%] Built target QtNodeEditor
+[ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[ 58%] Built target behavior_tree_editor_autogen
+[ 74%] Built target behavior_tree_editor
+[ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[ 75%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[ 76%] Built target Groot_autogen
+[ 76%] Built target editor_test_autogen
+[ 76%] Built target replay_test_autogen
+[ 82%] Built target Groot
+[ 91%] Built target editor_test
+[100%] Built target replay_test
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/lib/libbehavior_tree_editor.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/lib/groot/Groot
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/library_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/library_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/ament_index/resource_index/package_run_dependencies/groot
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/ament_index/resource_index/parent_prefix_path/groot
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/ament_index/resource_index/packages/groot
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/cmake/grootConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/cmake/grootConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/groot/share/groot/package.xml

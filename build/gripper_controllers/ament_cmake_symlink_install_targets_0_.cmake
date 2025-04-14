@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/khaledob/bookros2_ws/build/gripper_controllers/libgripper_action_controller.so" "TARGETS" "gripper_action_controller" "LIBRARY_DESTINATION" "lib")

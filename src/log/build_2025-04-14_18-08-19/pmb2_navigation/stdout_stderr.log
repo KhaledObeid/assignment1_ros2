@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/ament_index/resource_index/package_run_dependencies/pmb2_navigation
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/ament_index/resource_index/parent_prefix_path/pmb2_navigation
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/ament_index/resource_index/packages/pmb2_navigation
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_navigation/share/pmb2_navigation/package.xml

@@ -1,0 +1,85 @@
+[0.304s] Invoking command in '/home/khaledob/bookros2_ws/build/t2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2b -- -j7 -l7
+[0.506s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.587s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o[0m
+[3.726s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:[m[K In member function ‘[01m[Kbool t2b::BumpGoNode::check_forward_2_stop()[m[K’:
+[3.731s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:144:18:[m[K [01;31m[Kerror: [m[Kno match for ‘[01m[Koperator>[m[K’ (operand types are ‘[01m[Krclcpp::Duration[m[K’ and ‘[01m[Kdouble[m[K’)
+[3.736s]   144 |   return [32m[Kelapsed[m[K [01;31m[K>[m[K SCAN_TIMEOUT;
+[3.737s]       |          [32m[K~~~~~~~[m[K [01;31m[K^[m[K
+[3.737s]       |          [32m[K|[m[K
+[3.737s]       |          [32m[Krclcpp::Duration[m[K
+[3.738s] In file included from [01m[K/opt/ros/foxy/include/rclcpp/qos.hpp:20[m[K,
+[3.738s]                  from [01m[K/opt/ros/foxy/include/rclcpp/node_interfaces/node_graph_interface.hpp:31[m[K,
+[3.738s]                  from [01m[K/opt/ros/foxy/include/rclcpp/client.hpp:34[m[K,
+[3.739s]                  from [01m[K/opt/ros/foxy/include/rclcpp/callback_group.hpp:23[m[K,
+[3.739s]                  from [01m[K/opt/ros/foxy/include/rclcpp/any_executable.hpp:20[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategy.hpp:24[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategies.hpp:18[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor_options.hpp:20[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor.hpp:33[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors/multi_threaded_executor.hpp:26[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors.hpp:21[m[K,
+[3.740s]                  from [01m[K/opt/ros/foxy/include/rclcpp/rclcpp.hpp:146[m[K,
+[3.744s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/include/t2b/BumpGoNode.hpp:21[m[K,
+[3.745s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:3[m[K:
+[3.745s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:93:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kbool rclcpp::Duration::operator>(const rclcpp::Duration&) const[m[K’
+[3.745s]    93 |   [01;36m[Koperator[m[K>(const rclcpp::Duration & rhs) const;
+[3.746s]       |   [01;36m[K^~~~~~~~[m[K
+[3.747s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:93:38:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kdouble[m[K’ to ‘[01m[Kconst rclcpp::Duration&[m[K’
+[3.750s]    93 |   operator>([01;36m[Kconst rclcpp::Duration & rhs[m[K) const;
+[3.751s]       |             [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[3.751s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:[m[K In member function ‘[01m[Kbool t2b::BumpGoNode::check_stop_2_forward()[m[K’:
+[3.754s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:152:18:[m[K [01;31m[Kerror: [m[Kno match for ‘[01m[Koperator<[m[K’ (operand types are ‘[01m[Krclcpp::Duration[m[K’ and ‘[01m[Kdouble[m[K’)
+[3.754s]   152 |   return [32m[Kelapsed[m[K [01;31m[K<[m[K SCAN_TIMEOUT;
+[3.755s]       |          [32m[K~~~~~~~[m[K [01;31m[K^[m[K
+[3.755s]       |          [32m[K|[m[K
+[3.756s]       |          [32m[Krclcpp::Duration[m[K
+[3.756s] In file included from [01m[K/opt/ros/foxy/include/rclcpp/qos.hpp:20[m[K,
+[3.756s]                  from [01m[K/opt/ros/foxy/include/rclcpp/node_interfaces/node_graph_interface.hpp:31[m[K,
+[3.757s]                  from [01m[K/opt/ros/foxy/include/rclcpp/client.hpp:34[m[K,
+[3.757s]                  from [01m[K/opt/ros/foxy/include/rclcpp/callback_group.hpp:23[m[K,
+[3.758s]                  from [01m[K/opt/ros/foxy/include/rclcpp/any_executable.hpp:20[m[K,
+[3.758s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategy.hpp:24[m[K,
+[3.758s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategies.hpp:18[m[K,
+[3.759s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor_options.hpp:20[m[K,
+[3.759s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor.hpp:33[m[K,
+[3.760s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors/multi_threaded_executor.hpp:26[m[K,
+[3.761s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors.hpp:21[m[K,
+[3.761s]                  from [01m[K/opt/ros/foxy/include/rclcpp/rclcpp.hpp:146[m[K,
+[3.762s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/include/t2b/BumpGoNode.hpp:21[m[K,
+[3.763s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:3[m[K:
+[3.764s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:84:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kbool rclcpp::Duration::operator<(const rclcpp::Duration&) const[m[K’
+[3.764s]    84 |   [01;36m[Koperator[m[K<(const rclcpp::Duration & rhs) const;
+[3.765s]       |   [01;36m[K^~~~~~~~[m[K
+[3.765s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:84:38:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kdouble[m[K’ to ‘[01m[Kconst rclcpp::Duration&[m[K’
+[3.776s]    84 |   operator<([01;36m[Kconst rclcpp::Duration & rhs[m[K) const;
+[3.778s]       |             [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[3.781s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:[m[K In member function ‘[01m[Kbool t2b::BumpGoNode::check_back_2_turn()[m[K’:
+[3.781s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:159:30:[m[K [01;31m[Kerror: [m[Kno match for ‘[01m[Koperator>[m[K’ (operand types are ‘[01m[Krclcpp::Duration[m[K’ and ‘[01m[Kint[m[K’)
+[3.782s]   159 |   return [32m[K(now() - state_ts_)[m[K [01;31m[K>[m[K BACKING_TIME;
+[3.782s]       |          [32m[K~~~~~~~~~~~~~~~~~~~[m[K [01;31m[K^[m[K
+[3.782s]       |                 [32m[K|[m[K
+[3.782s]       |                 [32m[Krclcpp::Duration[m[K
+[3.782s] In file included from [01m[K/opt/ros/foxy/include/rclcpp/qos.hpp:20[m[K,
+[3.782s]                  from [01m[K/opt/ros/foxy/include/rclcpp/node_interfaces/node_graph_interface.hpp:31[m[K,
+[3.783s]                  from [01m[K/opt/ros/foxy/include/rclcpp/client.hpp:34[m[K,
+[3.783s]                  from [01m[K/opt/ros/foxy/include/rclcpp/callback_group.hpp:23[m[K,
+[3.784s]                  from [01m[K/opt/ros/foxy/include/rclcpp/any_executable.hpp:20[m[K,
+[3.784s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategy.hpp:24[m[K,
+[3.784s]                  from [01m[K/opt/ros/foxy/include/rclcpp/memory_strategies.hpp:18[m[K,
+[3.784s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor_options.hpp:20[m[K,
+[3.797s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executor.hpp:33[m[K,
+[3.797s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors/multi_threaded_executor.hpp:26[m[K,
+[3.798s]                  from [01m[K/opt/ros/foxy/include/rclcpp/executors.hpp:21[m[K,
+[3.798s]                  from [01m[K/opt/ros/foxy/include/rclcpp/rclcpp.hpp:146[m[K,
+[3.798s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/include/t2b/BumpGoNode.hpp:21[m[K,
+[3.799s]                  from [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:3[m[K:
+[3.814s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:93:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kbool rclcpp::Duration::operator>(const rclcpp::Duration&) const[m[K’
+[3.815s]    93 |   [01;36m[Koperator[m[K>(const rclcpp::Duration & rhs) const;
+[3.816s]       |   [01;36m[K^~~~~~~~[m[K
+[3.818s] [01m[K/opt/ros/foxy/include/rclcpp/duration.hpp:93:38:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kint[m[K’ to ‘[01m[Kconst rclcpp::Duration&[m[K’
+[3.820s]    93 |   operator>([01;36m[Kconst rclcpp::Duration & rhs[m[K) const;
+[3.822s]       |             [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[6.368s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o] Error 1
+[6.368s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+[6.369s] make: *** [Makefile:141: all] Error 2
+[6.565s] Invoked command in '/home/khaledob/bookros2_ws/build/t2b' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2b -- -j7 -l7

@@ -1,0 +1,37 @@
+[0.117s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.278s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.374s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.965s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.970s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.092s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.101s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.512s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.652s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.653s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.042s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[2.290s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.521s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.522s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.522s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task1/include>
+[2.522s] -- Configured cppcheck exclude dirs and/or files: 
+[2.522s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.523s] -- Configured cpplint exclude dirs and/or files: 
+[2.523s] -- Added test 'lint_cmake' to check CMake code style
+[2.523s] -- Added test 'uncrustify' to check C / C++ code style
+[2.523s] -- Configured uncrustify additional arguments: 
+[2.566s] -- Added test 'xmllint' to check XML markup files
+[2.566s] -- Configuring done
+[2.598s] -- Generating done
+[2.674s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task1
+[2.833s] [35m[1mScanning dependencies of target node[0m
+[2.982s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[2.983s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o[0m
+[3.127s] [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Ksrc/BumpGoNode1.hpp: No such file or directory
+[3.173s]     2 | #include [01;31m[K"src/BumpGoNode1.hpp"[m[K
+[3.177s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[3.198s] compilation terminated.
+[3.201s] make[2]: *** [CMakeFiles/node.dir/build.make:63: CMakeFiles/node.dir/src/task1_main.cpp.o] Error 1
+[3.205s] make[2]: *** Waiting for unfinished jobs....
+[10.943s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[10.943s] make: *** [Makefile:141: all] Error 2
+[10.950s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7

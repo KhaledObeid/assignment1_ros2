@@ -1,0 +1,28 @@
+[0.201s] Invoking command in '/home/khaledob/bookros2_ws/src/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/urdf_test -- -j7 -l7
+[0.643s] Invoked command in '/home/khaledob/bookros2_ws/src/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/urdf_test -- -j7 -l7
+[0.680s] Invoking command in '/home/khaledob/bookros2_ws/src/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/urdf_test
+[0.714s] -- Install configuration: ""
+[0.714s] -- Execute custom install script
+[0.715s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/urdf_test/test_urdf.py
+[0.715s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/pythonpath.sh
+[0.715s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/pythonpath.dsv
+[0.715s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/__init__.py
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/description_test.py
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+[0.716s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/path.sh
+[0.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/path.dsv
+[0.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.bash
+[0.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.sh
+[0.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.zsh
+[0.717s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.dsv
+[0.717s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/package.dsv
+[0.743s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+[0.746s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.746s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+[0.747s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+[0.747s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/package.xml
+[0.810s] Listing '/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test'...
+[1.204s] Invoked command in '/home/khaledob/bookros2_ws/src/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/urdf_test

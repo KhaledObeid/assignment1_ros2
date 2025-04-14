@@ -1,0 +1,6 @@
+[0.272s] Invoking command in '/home/khaledob/bookros2_ws/src/build/task2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/task2a -- -j7 -l7
+[0.504s] [35m[1mScanning dependencies of target node[0m
+[0.710s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a_main.cpp.o[0m
+[0.721s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[21.789s] [100%] [32m[1mLinking CXX executable node[0m
+[22.206s] [100%] Built target node

@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating br2_fsm_bumpgo_py.egg-info
+writing br2_fsm_bumpgo_py.egg-info/PKG-INFO
+writing dependency_links to br2_fsm_bumpgo_py.egg-info/dependency_links.txt
+writing entry points to br2_fsm_bumpgo_py.egg-info/entry_points.txt
+writing requirements to br2_fsm_bumpgo_py.egg-info/requires.txt
+writing top-level names to br2_fsm_bumpgo_py.egg-info/top_level.txt
+writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+reading manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/site.py
+Creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/br2-fsm-bumpgo-py.egg-link (link to .)
+Installing bump_go_main script to /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+
+Installed /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_py
+running symlink_data
+creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/ament_index
+creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/ament_index/resource_index
+creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/ament_index/resource_index/packages
+symbolically linking /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_py/resource/br2_fsm_bumpgo_py -> /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/ament_index/resource_index/packages
+symbolically linking /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_py/package.xml -> /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py
+creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py/launch
+symbolically linking /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_py/launch/bump_and_go.launch.py -> /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py/launch

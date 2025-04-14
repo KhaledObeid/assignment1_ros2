@@ -1,0 +1,26 @@
+[ 20%] Built target gtest
+[ 40%] Built target gtest_main
+[ 60%] Built target br2_vff_avoidance
+[ 80%] Built target avoidance_vff
+[100%] Built target vff_test
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/libbr2_vff_avoidance.so
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/br2_vff_avoidance/avoidance_vff
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/launch/avoidance_vff.launch.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/package_run_dependencies/br2_vff_avoidance
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/parent_prefix_path/br2_vff_avoidance
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.bash
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.zsh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/packages/br2_vff_avoidance
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig-version.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.xml

@@ -1,0 +1,17 @@
+[0.346s] Invoking command in '/home/khaledob/bookros2_ws/src/build/controller_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/controller_interface -- -j7 -l7
+[0.495s] [ 20%] Built target gmock
+[0.575s] [ 33%] Built target controller_interface
+[0.619s] [ 46%] Built target gmock_main
+[0.673s] [ 60%] Built target test_force_torque_sensor
+[0.695s] [35m[1mScanning dependencies of target test_imu_sensor[0m
+[0.825s] [ 66%] [32mBuilding CXX object CMakeFiles/test_imu_sensor.dir/test/test_imu_sensor.cpp.o[0m
+[3.703s] [ 73%] [32m[1mLinking CXX executable test_imu_sensor[0m
+[4.086s] [ 73%] Built target test_imu_sensor
+[4.109s] [35m[1mScanning dependencies of target test_semantic_component_interface[0m
+[4.227s] [ 80%] [32mBuilding CXX object CMakeFiles/test_semantic_component_interface.dir/test/test_semantic_component_interface.cpp.o[0m
+[7.101s] [ 86%] [32m[1mLinking CXX executable test_semantic_component_interface[0m
+[7.805s] [ 86%] Built target test_semantic_component_interface
+[7.830s] [35m[1mScanning dependencies of target test_controller_with_options[0m
+[7.999s] [ 93%] [32mBuilding CXX object CMakeFiles/test_controller_with_options.dir/test/test_controller_with_options.cpp.o[0m
+[14.876s] [100%] [32m[1mLinking CXX executable test_controller_with_options[0m
+[17.052s] [100%] Built target test_controller_with_options

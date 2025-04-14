@@ -1,0 +1,7 @@
+CMake Error at CMakeLists.txt:39:
+  Parse error.  Expected a command name, got unquoted argument with text "0".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/khaledob/bookros2_ws/build/task1/CMakeFiles/CMakeOutput.log".
+See also "/home/khaledob/bookros2_ws/build/task1/CMakeFiles/CMakeError.log".

@@ -1,0 +1,18 @@
+{
+  "package_name": "controller_manager_msgs",
+  "non_idl_tuples": [
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:msg/ControllerState.msg",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:msg/HardwareInterface.msg",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ConfigureController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ConfigureStartController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ListControllers.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ListControllerTypes.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ListHardwareInterfaces.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/LoadConfigureController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/LoadController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/LoadStartController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/ReloadControllerLibraries.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/SwitchController.srv",
+    "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager_msgs:srv/UnloadController.srv"
+  ]
+}

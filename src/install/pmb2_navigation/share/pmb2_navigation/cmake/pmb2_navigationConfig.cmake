@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/pmb2_navigation/ament_cmake_core/pmb2_navigationConfig.cmake

@@ -1,0 +1,43 @@
+[1.670s] Invoking command in '/home/khaledob/bookros2_ws/build/launch_pal': PYTHONPATH=/home/khaledob/bookros2_ws/build/launch_pal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/launch_pal/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/launch_pal/build --no-deps symlink_data
+[2.103s] Traceback (most recent call last):
+[2.103s]   File "setup.py", line 1, in <module>
+[2.103s]     from setuptools import setup
+[2.104s]   File "/usr/lib/python3/dist-packages/setuptools/__init__.py", line 17, in <module>
+[2.104s]     import setuptools.version
+[2.106s]   File "/usr/lib/python3/dist-packages/setuptools/version.py", line 1, in <module>
+[2.106s]     import pkg_resources
+[2.106s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3254, in <module>
+[2.107s]     def _initialize_master_working_set():
+[2.107s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3237, in _call_aside
+[2.108s]     f(*args, **kwargs)
+[2.108s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3289, in _initialize_master_working_set
+[2.108s]     list(map(working_set.add_entry, sys.path))
+[2.108s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 624, in add_entry
+[2.108s]     for dist in find_distributions(entry, True):
+[2.108s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2066, in find_on_path
+[2.108s]     for dist in factory(fullpath):
+[2.108s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2135, in distributions_from_metadata
+[2.108s]     yield Distribution.from_location(
+[2.108s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2592, in from_location
+[2.108s]     return cls(
+[2.109s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2996, in _reload_version
+[2.109s]     md_version = self._get_version()
+[2.109s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2774, in _get_version
+[2.109s]     version = _version_from_file(lines)
+[2.109s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2558, in _version_from_file
+[2.109s]     line = next(iter(version_lines), '')
+[2.109s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2768, in _get_metadata
+[2.109s]     if self.has_metadata(name):
+[2.109s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1414, in has_metadata
+[2.110s]     path = self._get_metadata_path(name)
+[2.110s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1408, in _get_metadata_path
+[2.110s]     return self._fn(self.egg_info, name)
+[2.110s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1488, in _fn
+[2.110s]     self._validate_resource_path(resource_name)
+[2.110s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1548, in _validate_resource_path
+[2.110s]     posixpath.isabs(path) or
+[2.110s]   File "/usr/lib/python3.8/posixpath.py", line 63, in isabs
+[2.110s]     sep = _get_sep(s)
+[2.110s]   File "/usr/lib/python3.8/posixpath.py", line 41, in _get_sep
+[2.110s]     def _get_sep(path):
+[2.110s] KeyboardInterrupt

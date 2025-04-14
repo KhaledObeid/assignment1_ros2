@@ -1,0 +1,67 @@
+[0.114s] Invoking command in '/home/khaledob/bookros2_ws/src/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/groot -- -j7 -l7
+[0.452s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[0.563s] [  1%] Built target QtNodeEditor_autogen
+[0.861s] [ 57%] Built target QtNodeEditor
+[0.933s] [ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[1.026s] [ 58%] Built target behavior_tree_editor_autogen
+[1.183s] [ 59%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/models/BehaviorTreeNodeModel.cpp.o[0m
+[1.190s] [ 60%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/editor_flowscene.cpp.o[0m
+[1.202s] [ 61%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/startup_dialog.cpp.o[0m
+[1.212s] [ 62%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/utils.cpp.o[0m
+[1.216s] [ 62%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/mainwindow.cpp.o[0m
+[1.231s] [ 63%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_editor.cpp.o[0m
+[1.269s] [ 64%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/models/SubtreeNodeModel.cpp.o[0m
+[12.924s] [ 64%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_replay.cpp.o[0m
+[13.543s] [ 65%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/custom_node_dialog.cpp.o[0m
+[15.712s] [ 66%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/XML_utilities.cpp.o[0m
+[16.639s] [ 67%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_monitor.cpp.o[0m
+[23.890s] [ 67%] [32m[1mLinking CXX shared library libbehavior_tree_editor.so[0m
+[24.850s] [ 74%] Built target behavior_tree_editor
+[24.922s] [35m[1mScanning dependencies of target Groot_autogen[0m
+[24.925s] [35m[1mScanning dependencies of target replay_test_autogen[0m
+[24.939s] [ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[24.943s] [ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[24.991s] [ 76%] Built target Groot_autogen
+[25.016s] [35m[1mScanning dependencies of target editor_test_autogen[0m
+[25.031s] [ 76%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[25.570s] [ 76%] Built target editor_test_autogen
+[25.574s] [ 76%] Built target replay_test_autogen
+[25.662s] [ 76%] [34m[1mAutomatic RCC for bt_editor/resources/icons.qrc[0m
+[25.662s] [ 77%] [34m[1mAutomatic RCC for test_data/test_files.qrc[0m
+[25.665s] [ 78%] [34m[1mAutomatic RCC for ../QtNodeEditor/resources/resources.qrc[0m
+[25.670s] [ 79%] [34m[1mAutomatic RCC for ../test_data/test_files.qrc[0m
+[25.737s] [ 80%] [34m[1mAutomatic RCC for ../bt_editor/resources/style.qrc[0m
+[25.739s] [ 81%] [34m[1mAutomatic RCC for bt_editor/resources/style.qrc[0m
+[25.775s] [ 81%] [34m[1mAutomatic RCC for ../bt_editor/resources/icons.qrc[0m
+[25.798s] [35m[1mScanning dependencies of target Groot[0m
+[25.844s] [35m[1mScanning dependencies of target editor_test[0m
+[25.858s] [ 81%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/mocs_compilation.cpp.o[0m
+[25.863s] [ 82%] [32mBuilding CXX object CMakeFiles/Groot.dir/bt_editor/main.cpp.o[0m
+[25.887s] [ 82%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/NYYW7IJ2JN/qrc_test_files.cpp.o[0m
+[25.956s] [ 83%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/OQ4J2MLGYJ/qrc_style.cpp.o[0m
+[25.961s] [ 84%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/mocs_compilation.cpp.o[0m
+[25.961s] [ 84%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test.cpp.o[0m
+[25.998s] [ 85%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/OQ4J2MLGYJ/qrc_icons.cpp.o[0m
+[27.879s] [ 86%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/EB4OVBCXLB/qrc_resources.cpp.o[0m
+[27.882s] [ 86%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/K3L5NHU5SO/qrc_icons.cpp.o[0m
+[27.883s] [ 87%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/groot_test_base.cpp.o[0m
+[27.998s] [ 88%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/K3L5NHU5SO/qrc_style.cpp.o[0m
+[28.078s] [ 89%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/4L4FNCFPKD/qrc_test_files.cpp.o[0m
+[30.042s] [ 90%] [32m[1mLinking CXX executable Groot[0m
+[30.889s] [ 90%] Built target Groot
+[30.919s] [ 91%] [34m[1mAutomatic RCC for ../bt_editor/resources/icons.qrc[0m
+[30.921s] [ 92%] [34m[1mAutomatic RCC for ../test_data/test_files.qrc[0m
+[30.922s] [ 93%] [34m[1mAutomatic RCC for ../QtNodeEditor/resources/resources.qrc[0m
+[30.927s] [ 93%] [34m[1mAutomatic RCC for ../bt_editor/resources/style.qrc[0m
+[31.009s] [35m[1mScanning dependencies of target replay_test[0m
+[31.123s] [ 93%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/groot_test_base.cpp.o[0m
+[31.124s] [ 94%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/EB4OVBCXLB/qrc_resources.cpp.o[0m
+[31.126s] [ 95%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test.cpp.o[0m
+[31.129s] [ 96%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/mocs_compilation.cpp.o[0m
+[31.244s] [ 97%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/K3L5NHU5SO/qrc_icons.cpp.o[0m
+[32.198s] [ 98%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/4L4FNCFPKD/qrc_test_files.cpp.o[0m
+[32.219s] [ 98%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/K3L5NHU5SO/qrc_style.cpp.o[0m
+[34.041s] [ 99%] [32m[1mLinking CXX executable editor_test[0m
+[34.803s] [ 99%] Built target editor_test
+[36.630s] [100%] [32m[1mLinking CXX executable replay_test[0m
+[37.229s] [100%] Built target replay_test

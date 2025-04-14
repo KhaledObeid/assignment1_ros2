@@ -1,0 +1,50 @@
+[0.392s] Invoking command in '/home/khaledob/bookros2_ws/src/build/controller_manager': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface:/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface:/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/controller_interface/lib:/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:/home/khaledob/bookros2_ws/src/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/src/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/controller_manager -- -j7 -l7
+[0.579s] [35m[1mScanning dependencies of target controller_manager[0m
+[0.601s] [35m[1mScanning dependencies of target gmock[0m
+[0.611s] [35m[1mScanning dependencies of target gmock_main[0m
+[0.830s] [  4%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[0.871s] [  8%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[0.904s] [ 12%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[1.033s] [ 16%] [32mBuilding CXX object CMakeFiles/controller_manager.dir/src/controller_manager.cpp.o[0m
+[5.486s] [ 20%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[5.862s] [ 20%] Built target gmock_main
+[19.892s] [ 24%] [32m[1mLinking CXX static library libgmock.a[0m
+[20.238s] [ 24%] Built target gmock
+[28.877s] [ 28%] [32m[1mLinking CXX shared library libcontroller_manager.so[0m
+[30.056s] [ 28%] Built target controller_manager
+[30.082s] [35m[1mScanning dependencies of target test_controller[0m
+[30.082s] [35m[1mScanning dependencies of target ros2_control_node[0m
+[30.083s] [35m[1mScanning dependencies of target test_controller_with_interfaces[0m
+[30.088s] [35m[1mScanning dependencies of target test_controller_failed_init[0m
+[30.179s] [ 32%] [32mBuilding CXX object CMakeFiles/ros2_control_node.dir/src/ros2_control_node.cpp.o[0m
+[30.188s] [ 36%] [32mBuilding CXX object CMakeFiles/test_controller_with_interfaces.dir/test/test_controller_with_interfaces/test_controller_with_interfaces.cpp.o[0m
+[30.207s] [ 40%] [32mBuilding CXX object CMakeFiles/test_controller.dir/test/test_controller/test_controller.cpp.o[0m
+[30.220s] [ 44%] [32mBuilding CXX object CMakeFiles/test_controller_failed_init.dir/test/test_controller_failed_init/test_controller_failed_init.cpp.o[0m
+[37.122s] [ 48%] [32m[1mLinking CXX shared library libtest_controller_with_interfaces.so[0m
+[37.550s] [ 48%] Built target test_controller_with_interfaces
+[37.582s] [ 52%] [32m[1mLinking CXX shared library libtest_controller_failed_init.so[0m
+[37.630s] [35m[1mScanning dependencies of target test_release_interfaces[0m
+[37.713s] [ 56%] [32m[1mLinking CXX executable ros2_control_node[0m
+[37.979s] [ 60%] [32mBuilding CXX object CMakeFiles/test_release_interfaces.dir/test/test_release_interfaces.cpp.o[0m
+[38.005s] [ 64%] [32m[1mLinking CXX shared library libtest_controller.so[0m
+[38.339s] [ 64%] Built target test_controller_failed_init
+[38.758s] [ 64%] Built target test_controller
+[38.815s] [35m[1mScanning dependencies of target test_controller_manager[0m
+[38.833s] [35m[1mScanning dependencies of target test_load_controller[0m
+[38.886s] [35m[1mScanning dependencies of target test_spawner_unspawner[0m
+[39.126s] [ 68%] [32mBuilding CXX object CMakeFiles/test_spawner_unspawner.dir/test/test_spawner_unspawner.cpp.o[0m
+[39.169s] [ 72%] [32mBuilding CXX object CMakeFiles/test_controller_manager.dir/test/test_controller_manager.cpp.o[0m
+[39.233s] [ 76%] [32mBuilding CXX object CMakeFiles/test_load_controller.dir/test/test_load_controller.cpp.o[0m
+[39.423s] [ 76%] Built target ros2_control_node
+[39.492s] [35m[1mScanning dependencies of target test_controller_manager_srvs[0m
+[39.769s] [ 80%] [32mBuilding CXX object CMakeFiles/test_controller_manager_srvs.dir/test/test_controller_manager_srvs.cpp.o[0m
+[51.192s] [ 84%] [32m[1mLinking CXX executable test_release_interfaces[0m
+[52.079s] [ 88%] [32m[1mLinking CXX executable test_spawner_unspawner[0m
+[53.256s] [ 92%] [32m[1mLinking CXX executable test_load_controller[0m
+[53.525s] [ 96%] [32m[1mLinking CXX executable test_controller_manager[0m
+[53.563s] [ 96%] Built target test_release_interfaces
+[54.387s] [ 96%] Built target test_spawner_unspawner
+[55.464s] [ 96%] Built target test_load_controller
+[55.645s] [ 96%] Built target test_controller_manager
+[61.190s] [100%] [32m[1mLinking CXX executable test_controller_manager_srvs[0m
+[62.453s] [100%] Built target test_controller_manager_srvs

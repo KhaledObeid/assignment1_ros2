@@ -1,0 +1,109 @@
+[0.025s] Invoking command in '/home/khaledob/bookros2_ws/build/twist_mux': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/twist_mux -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/twist_mux
+[0.164s] -- The C compiler identification is GNU 9.4.0
+[0.281s] -- The CXX compiler identification is GNU 9.4.0
+[0.286s] -- Check for working C compiler: /usr/bin/cc
+[0.398s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.398s] -- Detecting C compiler ABI info
+[0.548s] -- Detecting C compiler ABI info - done
+[0.561s] -- Detecting C compile features
+[0.562s] -- Detecting C compile features - done
+[0.566s] -- Check for working CXX compiler: /usr/bin/c++
+[0.685s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.686s] -- Detecting CXX compiler ABI info
+[0.803s] -- Detecting CXX compiler ABI info - done
+[0.816s] -- Detecting CXX compile features
+[0.816s] -- Detecting CXX compile features - done
+[0.819s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.856s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.856s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.043s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.070s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.143s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.147s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.665s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.722s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.883s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.184s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.186s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.253s] -- Looking for pthread.h
+[2.554s] -- Looking for pthread.h - found
+[2.555s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.780s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.780s] -- Looking for pthread_create in pthreads
+[3.049s] -- Looking for pthread_create in pthreads - not found
+[3.050s] -- Looking for pthread_create in pthread
+[3.508s] -- Looking for pthread_create in pthread - found
+[3.508s] -- Found Threads: TRUE  
+[3.948s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[4.182s] -- Found visualization_msgs: 2.0.5 (/opt/ros/foxy/share/visualization_msgs/cmake)
+[4.436s] -- Found diagnostic_updater: 3.1.2 (/opt/ros/foxy/share/diagnostic_updater/cmake)
+[4.860s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.120s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[5.207s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[5.207s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[5.207s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.207s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[5.207s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[5.305s] -- Found PythonExtra: .so  
+[5.341s] -- Added test 'xmllint' to check XML markup files
+[5.342s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.346s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.362s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/twist_mux/include
+[5.362s] -- Configured cppcheck exclude dirs and/or files: 
+[5.365s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.366s] -- Configured cpplint exclude dirs and/or files: 
+[5.371s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.373s] -- Added test 'lint_cmake' to check CMake code style
+[5.382s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.385s] -- Added test 'uncrustify' to check C / C++ code style
+[5.385s] -- Configured uncrustify additional arguments: 
+[5.417s] -- Configuring done
+[5.468s] -- Generating done
+[5.492s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/twist_mux
+[5.507s] Invoked command in '/home/khaledob/bookros2_ws/build/twist_mux' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/twist_mux -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/twist_mux
+[5.508s] Invoking command in '/home/khaledob/bookros2_ws/build/twist_mux': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/twist_mux -- -j4 -l4
+[5.718s] [35m[1mScanning dependencies of target twist_marker[0m
+[5.731s] [35m[1mScanning dependencies of target twist_mux[0m
+[5.861s] [ 16%] [32mBuilding CXX object CMakeFiles/twist_mux.dir/src/twist_mux_diagnostics.cpp.o[0m
+[5.870s] [ 33%] [32mBuilding CXX object CMakeFiles/twist_mux.dir/src/twist_mux.cpp.o[0m
+[5.884s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_mux.dir/src/twist_mux_node.cpp.o[0m
+[5.919s] [ 66%] [32mBuilding CXX object CMakeFiles/twist_marker.dir/src/twist_marker.cpp.o[0m
+[25.850s] [ 83%] [32m[1mLinking CXX executable twist_marker[0m
+[26.637s] [ 83%] Built target twist_marker
+[30.921s] [100%] [32m[1mLinking CXX executable twist_mux[0m
+[31.954s] [100%] Built target twist_mux
+[31.980s] Invoked command in '/home/khaledob/bookros2_ws/build/twist_mux' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/twist_mux -- -j4 -l4
+[31.982s] Invoking command in '/home/khaledob/bookros2_ws/build/twist_mux': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/twist_mux
+[31.998s] -- Install configuration: ""
+[31.999s] -- Execute custom install script
+[31.999s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/lib/twist_mux/twist_mux
+[32.017s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/lib/twist_mux/twist_marker
+[32.037s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/launch/twist_mux.launch
+[32.054s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/launch/twist_mux_launch.py
+[32.068s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/joystick.yaml
+[32.084s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/twist_mux_locks.yaml
+[32.098s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/twist_mux_topics.yaml
+[32.114s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/params_helpers.hpp
+[32.131s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/topic_handle.hpp
+[32.148s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux.hpp
+[32.187s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux_diagnostics.hpp
+[32.203s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux_diagnostics_status.hpp
+[32.217s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/utils.hpp
+[32.234s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/package_run_dependencies/twist_mux
+[32.256s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/parent_prefix_path/twist_mux
+[32.273s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/ament_prefix_path.sh
+[32.291s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/ament_prefix_path.dsv
+[32.313s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/path.sh
+[32.336s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/path.dsv
+[32.363s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.bash
+[32.379s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.sh
+[32.395s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.zsh
+[32.411s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.dsv
+[32.426s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/package.dsv
+[32.446s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/packages/twist_mux
+[32.463s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/ament_cmake_export_include_directories-extras.cmake
+[32.486s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/ament_cmake_export_dependencies-extras.cmake
+[32.503s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/twist_muxConfig.cmake
+[32.522s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/twist_muxConfig-version.cmake
+[32.542s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/package.xml
+[32.579s] Invoked command in '/home/khaledob/bookros2_ws/build/twist_mux' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/twist_mux

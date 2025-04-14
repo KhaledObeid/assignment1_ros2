@@ -1,0 +1,30 @@
+[0.237s] Invoking command in '/home/khaledob/bookros2_ws/build/pmb2_2dnav': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pmb2_2dnav -- -j7 -l7
+[0.763s] Invoked command in '/home/khaledob/bookros2_ws/build/pmb2_2dnav' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pmb2_2dnav -- -j7 -l7
+[0.773s] Invoking command in '/home/khaledob/bookros2_ws/build/pmb2_2dnav': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pmb2_2dnav
+[0.822s] -- Install configuration: ""
+[0.822s] -- Execute custom install script
+[0.822s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_mapping.sh
+[0.822s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_move_base.sh
+[0.822s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_odom.sh
+[0.822s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_patrol.sh
+[0.823s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/lib/pmb2_2dnav/record_rgbd.sh
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/advanced_navigation.rviz
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/navigation.rviz
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/launch/pmb2_nav_bringup.launch.py
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_params.yaml
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/package_run_dependencies/pmb2_2dnav
+[0.826s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/parent_prefix_path/pmb2_2dnav
+[0.829s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.sh
+[0.830s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.dsv
+[0.831s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.sh
+[0.834s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.dsv
+[0.834s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.bash
+[0.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.sh
+[0.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.zsh
+[0.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.dsv
+[0.836s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.dsv
+[0.900s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/ament_index/resource_index/packages/pmb2_2dnav
+[0.906s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig.cmake
+[0.907s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig-version.cmake
+[0.907s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.xml
+[1.492s] Invoked command in '/home/khaledob/bookros2_ws/build/pmb2_2dnav' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pmb2_2dnav

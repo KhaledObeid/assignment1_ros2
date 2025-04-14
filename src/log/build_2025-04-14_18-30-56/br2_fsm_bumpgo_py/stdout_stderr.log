@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing br2_fsm_bumpgo_py.egg-info/PKG-INFO
+writing dependency_links to br2_fsm_bumpgo_py.egg-info/dependency_links.txt
+writing entry points to br2_fsm_bumpgo_py.egg-info/entry_points.txt
+writing requirements to br2_fsm_bumpgo_py.egg-info/requires.txt
+writing top-level names to br2_fsm_bumpgo_py.egg-info/top_level.txt
+reading manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/br2-fsm-bumpgo-py.egg-link (link to .)
+Installing bump_go_main script to /home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+
+Installed /home/khaledob/bookros2_ws/src/build/br2_fsm_bumpgo_py
+running symlink_data

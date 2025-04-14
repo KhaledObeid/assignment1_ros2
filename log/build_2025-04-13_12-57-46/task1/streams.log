@@ -1,0 +1,54 @@
+[0.311s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.742s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.820s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.858s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.866s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.127s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.141s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.867s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.210s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.239s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.324s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[4.888s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.448s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.462s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.462s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task1/include>
+[5.463s] -- Configured cppcheck exclude dirs and/or files: 
+[5.463s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.463s] -- Configured cpplint exclude dirs and/or files: 
+[5.473s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.474s] -- Added test 'lint_cmake' to check CMake code style
+[5.474s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.475s] -- Added test 'uncrustify' to check C / C++ code style
+[5.475s] -- Configured uncrustify additional arguments: 
+[5.476s] -- Added test 'xmllint' to check XML markup files
+[5.477s] -- Configuring done
+[5.495s] -- Generating done
+[5.520s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task1
+[5.681s] [35m[1mScanning dependencies of target node[0m
+[5.852s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[14.858s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o[0m
+[30.887s] [100%] [32m[1mLinking CXX executable node[0m
+[31.637s] [100%] Built target node
+[31.743s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[31.745s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1
+[31.768s] -- Install configuration: ""
+[31.769s] -- Execute custom install script
+[31.769s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/lib/task1/node
+[31.771s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/launch/my_launch_file.py
+[31.804s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/package_run_dependencies/task1
+[31.805s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/parent_prefix_path/task1
+[31.808s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.sh
+[31.808s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.dsv
+[31.809s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.sh
+[31.809s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.dsv
+[31.810s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.bash
+[31.810s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.sh
+[31.810s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.zsh
+[31.812s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.dsv
+[31.813s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.dsv
+[31.844s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/packages/task1
+[31.845s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config.cmake
+[31.846s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config-version.cmake
+[31.849s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/share/task1/package.xml
+[31.862s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1

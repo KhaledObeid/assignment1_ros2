@@ -1,0 +1,48 @@
+[0.153s] Invoking command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/ros2_control_test_assets -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets
+[1.172s] -- The C compiler identification is GNU 9.4.0
+[1.429s] -- The CXX compiler identification is GNU 9.4.0
+[1.476s] -- Check for working C compiler: /usr/bin/cc
+[1.760s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.761s] -- Detecting C compiler ABI info
+[2.034s] -- Detecting C compiler ABI info - done
+[2.090s] -- Detecting C compile features
+[2.094s] -- Detecting C compile features - done
+[2.114s] -- Check for working CXX compiler: /usr/bin/c++
+[2.389s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.389s] -- Detecting CXX compiler ABI info
+[2.598s] -- Detecting CXX compiler ABI info - done
+[2.603s] -- Detecting CXX compile features
+[2.604s] -- Detecting CXX compile features - done
+[2.609s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.831s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.831s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.246s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.393s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.679s] -- Configuring done
+[3.695s] -- Generating done
+[3.700s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/ros2_control_test_assets
+[3.738s] Invoked command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/ros2_control_test_assets -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets
+[3.740s] Invoking command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/ros2_control_test_assets -- -j7 -l7
+[3.892s] Invoked command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/ros2_control_test_assets -- -j7 -l7
+[3.896s] Invoking command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/ros2_control_test_assets
+[3.946s] -- Install configuration: ""
+[3.947s] -- Execute custom install script
+[3.947s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/include/ros2_control_test_assets/components_urdfs.hpp
+[3.991s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/include/ros2_control_test_assets/descriptions.hpp
+[4.017s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ament_index/resource_index/package_run_dependencies/ros2_control_test_assets
+[4.046s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ament_index/resource_index/parent_prefix_path/ros2_control_test_assets
+[4.082s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.sh
+[4.102s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.dsv
+[4.130s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.sh
+[4.210s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.dsv
+[4.211s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.bash
+[4.246s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.sh
+[4.321s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.zsh
+[4.353s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.dsv
+[4.399s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/package.dsv
+[4.433s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ament_index/resource_index/packages/ros2_control_test_assets
+[4.474s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.479s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig.cmake
+[4.518s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig-version.cmake
+[4.549s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/ros2_control_test_assets/share/ros2_control_test_assets/package.xml
+[4.596s] Invoked command in '/home/khaledob/bookros2_ws/src/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/ros2_control_test_assets

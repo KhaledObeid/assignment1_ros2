@@ -1,0 +1,29 @@
+[0.268s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tf2_detector -- -j7 -l7
+[0.476s] [ 50%] Built target br2_tf2_detector
+[0.545s] [ 75%] Built target detector
+[0.558s] [100%] Built target detector_improved
+[0.579s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tf2_detector -- -j7 -l7
+[0.593s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tf2_detector
+[0.615s] -- Install configuration: ""
+[0.616s] -- Execute custom install script
+[0.617s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/libbr2_tf2_detector.so
+[0.617s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector
+[0.617s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector_improved
+[0.621s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_basic.launch.py
+[0.622s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_improved.launch.py
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/package_run_dependencies/br2_tf2_detector
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/parent_prefix_path/br2_tf2_detector
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.sh
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.dsv
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.sh
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.dsv
+[0.623s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.bash
+[0.624s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.sh
+[0.624s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.zsh
+[0.624s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.dsv
+[0.624s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.dsv
+[0.641s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/packages/br2_tf2_detector
+[0.641s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig.cmake
+[0.643s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig-version.cmake
+[0.644s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.xml
+[0.682s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tf2_detector

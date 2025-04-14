@@ -1,0 +1,38 @@
+[0.612s] Invoking command in '/home/khaledob/bookros2_ws/src/build/hey5_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/hey5_description -- -j7 -l7
+[0.870s] Invoked command in '/home/khaledob/bookros2_ws/src/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/hey5_description -- -j7 -l7
+[0.872s] Invoking command in '/home/khaledob/bookros2_ws/src/build/hey5_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/hey5_description
+[0.981s] -- Install configuration: ""
+[0.981s] -- Execute custom install script
+[0.987s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/config/two_hands.rviz
+[0.988s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/gazebo/gazebo.urdf.xacro
+[0.992s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/launch/hey5_kinematics_test.launch
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/finger_abd_collision.stl
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/finger_flex_collision.stl
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/finger_flex_tip_collision.stl
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/palm.stl
+[0.998s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/palm_collision.stl
+[0.999s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/meshes/thumb_abd_collision.stl
+[0.999s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/robots/hey5_test.urdf.xacro
+[1.001s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/actuators.urdf.xacro
+[1.001s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/deg_to_rad.urdf.xacro
+[1.002s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/fingers.urdf.xacro
+[1.003s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/hey5_hand.urdf.xacro
+[1.003s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/materials.urdf.xacro
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/palm.urdf.xacro
+[1.004s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/urdf/transmissions.urdf.xacro
+[1.005s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/ament_index/resource_index/package_run_dependencies/hey5_description
+[1.005s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/ament_index/resource_index/parent_prefix_path/hey5_description
+[1.005s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/environment/ament_prefix_path.sh
+[1.005s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/environment/ament_prefix_path.dsv
+[1.009s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/environment/path.sh
+[1.011s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/environment/path.dsv
+[1.018s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/local_setup.bash
+[1.019s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/local_setup.sh
+[1.022s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/local_setup.zsh
+[1.023s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/local_setup.dsv
+[1.024s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/package.dsv
+[1.129s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/ament_index/resource_index/packages/hey5_description
+[1.130s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig.cmake
+[1.130s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig-version.cmake
+[1.135s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hey5_description/share/hey5_description/package.xml
+[1.511s] Invoked command in '/home/khaledob/bookros2_ws/src/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/hey5_description

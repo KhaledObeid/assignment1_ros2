@@ -1,0 +1,24 @@
+[0.136s] Invoking command in '/home/khaledob/bookros2_ws/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t1 -- -j7 -l7
+[0.365s] [100%] Built target bumpgo
+[0.436s] Invoked command in '/home/khaledob/bookros2_ws/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t1 -- -j7 -l7
+[0.443s] Invoking command in '/home/khaledob/bookros2_ws/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t1
+[0.497s] -- Install configuration: ""
+[0.497s] -- Execute custom install script
+[0.497s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/lib/t1/bumpgo
+[0.497s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/launch/bump_and_go.launch.py
+[0.497s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/ament_index/resource_index/package_run_dependencies/t1
+[0.498s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/ament_index/resource_index/parent_prefix_path/t1
+[0.498s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/environment/ament_prefix_path.sh
+[0.498s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/environment/ament_prefix_path.dsv
+[0.499s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/environment/path.sh
+[0.499s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/environment/path.dsv
+[0.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/local_setup.bash
+[0.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/local_setup.sh
+[0.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/local_setup.zsh
+[0.502s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/local_setup.dsv
+[0.502s] -- Symlinking: /home/khaledob/bookros2_ws/install/t1/share/t1/package.dsv
+[0.540s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/ament_index/resource_index/packages/t1
+[0.540s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/cmake/t1Config.cmake
+[0.540s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/cmake/t1Config-version.cmake
+[0.540s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t1/share/t1/package.xml
+[0.566s] Invoked command in '/home/khaledob/bookros2_ws/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t1

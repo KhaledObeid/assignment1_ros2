@@ -1,0 +1,12 @@
+[0.294s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_tracking_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/tiago_controller_configuration:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/joint_trajectory_controller:/home/khaledob/bookros2_ws/install/imu_sensor_broadcaster:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tracking_msgs -- -j7 -l7
+[0.530s] [  9%] Built target br2_tracking_msgs__rosidl_generator_c
+[0.543s] [ 12%] Built target br2_tracking_msgs__cpp
+[0.620s] [ 22%] Built target br2_tracking_msgs__rosidl_typesupport_introspection_c
+[0.690s] make[1]: *** wait: No child processes. Stop.
+[0.690s] make[1]: *** Waiting for unfinished jobs....
+[0.690s] make[1]: *** wait: No child processes. Stop.
+[0.690s] make[1]: *** [CMakeFiles/Makefile2:500: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_c.dir/all] Interrupt
+[0.690s] make[1]: *** [CMakeFiles/Makefile2:526: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_cpp.dir/all] Error 2
+[0.690s] make[2]: *** [CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.dir/build.make:136: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.dir/depend] Interrupt
+[0.691s] make[1]: *** [CMakeFiles/Makefile2:264: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.dir/all] Interrupt
+[0.692s] make: *** [Makefile:141: all] Interrupt

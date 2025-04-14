@@ -1,0 +1,24 @@
+[3.552s] Invoking command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/tiago_description_calibration -- -j7 -l7
+[6.191s] Invoked command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/tiago_description_calibration -- -j7 -l7
+[6.192s] Invoking command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/tiago_description_calibration
+[7.765s] -- Install configuration: ""
+[7.765s] -- Execute custom install script
+[7.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/calibration/calibration_constants.urdf.xacro
+[7.765s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/calibration/extrinsic_camera_calibration_constants.urdf.xacro
+[7.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/urdf/deg_to_rad.xacro
+[7.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/package_run_dependencies/tiago_description_calibration
+[7.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/parent_prefix_path/tiago_description_calibration
+[7.770s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/ament_prefix_path.sh
+[7.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/ament_prefix_path.dsv
+[7.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/path.sh
+[7.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/environment/path.dsv
+[7.771s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.bash
+[7.779s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.sh
+[7.779s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.zsh
+[7.779s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/local_setup.dsv
+[7.779s] -- Symlinking: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/package.dsv
+[7.780s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/ament_index/resource_index/packages/tiago_description_calibration
+[7.780s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/cmake/tiago_description_calibrationConfig.cmake
+[7.780s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/cmake/tiago_description_calibrationConfig-version.cmake
+[7.780s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/tiago_description_calibration/share/tiago_description_calibration/package.xml
+[8.340s] Invoked command in '/home/khaledob/bookros2_ws/build/tiago_description_calibration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/tiago_description_calibration

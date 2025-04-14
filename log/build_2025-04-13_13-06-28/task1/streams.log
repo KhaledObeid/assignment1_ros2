@@ -1,0 +1,10 @@
+[0.350s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.883s] [35m[1mScanning dependencies of target node[0m
+[1.071s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o[0m
+[11.216s] [01m[K/home/khaledob/bookros2_ws/src/task1/src/task1/BumpGoNode1.cpp:161:1:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K{[m[K’ token
+[11.217s]   161 | [01;31m[K{[m[K
+[11.217s]       | [01;31m[K^[m[K
+[19.816s] make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task1/BumpGoNode1.cpp.o] Error 1
+[19.816s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[19.816s] make: *** [Makefile:141: all] Error 2
+[19.874s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7

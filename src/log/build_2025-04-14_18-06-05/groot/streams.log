@@ -1,0 +1,16 @@
+[0.165s] Invoking command in '/home/khaledob/bookros2_ws/src/build/groot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/groot -- -j7 -l7
+[0.365s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[0.465s] [  1%] Built target QtNodeEditor_autogen
+[0.698s] [ 57%] Built target QtNodeEditor
+[0.816s] [ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[0.875s] [ 58%] Built target behavior_tree_editor_autogen
+[1.061s] [ 74%] Built target behavior_tree_editor
+[1.189s] [ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[1.195s] [ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[1.206s] [ 76%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[1.280s] [ 76%] Built target Groot_autogen
+[1.304s] [ 76%] Built target replay_test_autogen
+[1.344s] [ 76%] Built target editor_test_autogen
+[1.406s] [ 82%] Built target Groot
+[1.428s] [ 91%] Built target replay_test
+[1.458s] [100%] Built target editor_test

@@ -1,0 +1,30 @@
+[1.324s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_vff_avoidance -- -j7 -l7
+[2.055s] [ 20%] Built target gtest
+[2.225s] [ 40%] Built target gtest_main
+[2.697s] [ 60%] Built target br2_vff_avoidance
+[2.981s] [ 80%] Built target vff_test
+[3.210s] [100%] Built target avoidance_vff
+[3.461s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_vff_avoidance -- -j7 -l7
+[3.477s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_vff_avoidance
+[3.830s] -- Install configuration: "Debug"
+[3.831s] -- Execute custom install script
+[3.831s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/libbr2_vff_avoidance.so
+[3.831s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/br2_vff_avoidance/avoidance_vff
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/launch/avoidance_vff.launch.py
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/package_run_dependencies/br2_vff_avoidance
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/parent_prefix_path/br2_vff_avoidance
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.sh
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.dsv
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.sh
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.dsv
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.bash
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.sh
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.zsh
+[3.837s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.dsv
+[3.858s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.dsv
+[3.858s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/packages/br2_vff_avoidance
+[3.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig.cmake
+[3.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig-version.cmake
+[3.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.xml
+[3.909s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_vff_avoidance

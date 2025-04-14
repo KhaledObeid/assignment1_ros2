@@ -1,0 +1,66 @@
+[  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[  1%] Built target QtNodeEditor_autogen
+[ 57%] Built target QtNodeEditor
+[ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[ 58%] Built target behavior_tree_editor_autogen
+[ 59%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/models/BehaviorTreeNodeModel.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/editor_flowscene.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/startup_dialog.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/utils.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/mainwindow.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_editor.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/models/SubtreeNodeModel.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_replay.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/custom_node_dialog.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/XML_utilities.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/behavior_tree_editor.dir/bt_editor/sidepanel_monitor.cpp.o[0m
+[ 67%] [32m[1mLinking CXX shared library libbehavior_tree_editor.so[0m
+[ 74%] Built target behavior_tree_editor
+[35m[1mScanning dependencies of target Groot_autogen[0m
+[35m[1mScanning dependencies of target replay_test_autogen[0m
+[ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[ 76%] Built target Groot_autogen
+[35m[1mScanning dependencies of target editor_test_autogen[0m
+[ 76%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[ 76%] Built target editor_test_autogen
+[ 76%] Built target replay_test_autogen
+[ 76%] [34m[1mAutomatic RCC for bt_editor/resources/icons.qrc[0m
+[ 77%] [34m[1mAutomatic RCC for test_data/test_files.qrc[0m
+[ 78%] [34m[1mAutomatic RCC for ../QtNodeEditor/resources/resources.qrc[0m
+[ 79%] [34m[1mAutomatic RCC for ../test_data/test_files.qrc[0m
+[ 80%] [34m[1mAutomatic RCC for ../bt_editor/resources/style.qrc[0m
+[ 81%] [34m[1mAutomatic RCC for bt_editor/resources/style.qrc[0m
+[ 81%] [34m[1mAutomatic RCC for ../bt_editor/resources/icons.qrc[0m
+[35m[1mScanning dependencies of target Groot[0m
+[35m[1mScanning dependencies of target editor_test[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/mocs_compilation.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/Groot.dir/bt_editor/main.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/NYYW7IJ2JN/qrc_test_files.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/OQ4J2MLGYJ/qrc_style.cpp.o[0m
+[ 84%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/mocs_compilation.cpp.o[0m
+[ 84%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/Groot.dir/Groot_autogen/OQ4J2MLGYJ/qrc_icons.cpp.o[0m
+[ 86%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/EB4OVBCXLB/qrc_resources.cpp.o[0m
+[ 86%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/K3L5NHU5SO/qrc_icons.cpp.o[0m
+[ 87%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/groot_test_base.cpp.o[0m
+[ 88%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/K3L5NHU5SO/qrc_style.cpp.o[0m
+[ 89%] [32mBuilding CXX object test/CMakeFiles/editor_test.dir/editor_test_autogen/4L4FNCFPKD/qrc_test_files.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable Groot[0m
+[ 90%] Built target Groot
+[ 91%] [34m[1mAutomatic RCC for ../bt_editor/resources/icons.qrc[0m
+[ 92%] [34m[1mAutomatic RCC for ../test_data/test_files.qrc[0m
+[ 93%] [34m[1mAutomatic RCC for ../QtNodeEditor/resources/resources.qrc[0m
+[ 93%] [34m[1mAutomatic RCC for ../bt_editor/resources/style.qrc[0m
+[35m[1mScanning dependencies of target replay_test[0m
+[ 93%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/groot_test_base.cpp.o[0m
+[ 94%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/EB4OVBCXLB/qrc_resources.cpp.o[0m
+[ 95%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test.cpp.o[0m
+[ 96%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/mocs_compilation.cpp.o[0m
+[ 97%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/K3L5NHU5SO/qrc_icons.cpp.o[0m
+[ 98%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/4L4FNCFPKD/qrc_test_files.cpp.o[0m
+[ 98%] [32mBuilding CXX object test/CMakeFiles/replay_test.dir/replay_test_autogen/K3L5NHU5SO/qrc_style.cpp.o[0m
+[ 99%] [32m[1mLinking CXX executable editor_test[0m
+[ 99%] Built target editor_test
+[100%] [32m[1mLinking CXX executable replay_test[0m
+[100%] Built target replay_test

@@ -1,0 +1,27 @@
+[0.149s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_tracking': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/br2_tracking_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/br2_tracking_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/br2_tracking_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/src/install/br2_tracking_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_tracking -- -j7 -l7
+[0.599s] [35m[1mScanning dependencies of target gtest[0m
+[0.600s] [35m[1mScanning dependencies of target gtest_main[0m
+[0.696s] [  7%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[0.778s] [35m[1mScanning dependencies of target br2_tracking[0m
+[0.779s] [ 14%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[4.357s] [ 21%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/ObjectDetector.cpp.o[0m
+[4.374s] [ 28%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/HeadController.cpp.o[0m
+[4.426s] [ 35%] [32mBuilding CXX object CMakeFiles/br2_tracking.dir/src/br2_tracking/PIDController.cpp.o[0m
+[10.141s] [ 42%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[10.318s] [ 42%] Built target gtest_main
+[16.401s] [ 50%] [32m[1mLinking CXX static library libgtest.a[0m
+[16.585s] [ 50%] Built target gtest
+[25.216s] [ 57%] [32m[1mLinking CXX shared library libbr2_tracking.so[0m
+[27.213s] [ 57%] Built target br2_tracking
+[27.241s] [35m[1mScanning dependencies of target object_detector[0m
+[27.242s] [35m[1mScanning dependencies of target object_tracker[0m
+[27.286s] [35m[1mScanning dependencies of target pid_test[0m
+[27.341s] [ 64%] [32mBuilding CXX object tests/CMakeFiles/pid_test.dir/pid_test.cpp.o[0m
+[27.358s] [ 71%] [32mBuilding CXX object CMakeFiles/object_detector.dir/src/object_detector_main.cpp.o[0m
+[27.379s] [ 78%] [32mBuilding CXX object CMakeFiles/object_tracker.dir/src/object_tracker_main.cpp.o[0m
+[31.643s] [ 85%] [32m[1mLinking CXX executable pid_test[0m
+[36.109s] [ 85%] Built target pid_test
+[36.753s] [ 92%] [32m[1mLinking CXX executable object_detector[0m
+[40.151s] [ 92%] Built target object_detector
+[48.523s] [100%] [32m[1mLinking CXX executable object_tracker[0m
+[50.953s] [100%] Built target object_tracker

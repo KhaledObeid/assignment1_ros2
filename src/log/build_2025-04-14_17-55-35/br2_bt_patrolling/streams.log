@@ -1,0 +1,93 @@
+[0.072s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_bt_patrolling
+[1.430s] -- The C compiler identification is GNU 9.4.0
+[1.434s] -- The CXX compiler identification is GNU 9.4.0
+[1.435s] -- Check for working C compiler: /usr/bin/cc
+[1.675s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.675s] -- Detecting C compiler ABI info
+[2.509s] -- Detecting C compiler ABI info - done
+[2.746s] -- Detecting C compile features
+[2.746s] -- Detecting C compile features - done
+[2.761s] -- Check for working CXX compiler: /usr/bin/c++
+[3.847s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.847s] -- Detecting CXX compiler ABI info
+[4.620s] -- Detecting CXX compiler ABI info - done
+[4.693s] -- Detecting CXX compile features
+[4.695s] -- Detecting CXX compile features - done
+[4.698s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.819s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.820s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.549s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.758s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[5.958s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.958s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[6.536s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[6.661s] -- Found FastRTPS: /opt/ros/foxy/include  
+[6.798s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.939s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[6.959s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.962s] -- Looking for pthread.h
+[8.141s] -- Looking for pthread.h - found
+[8.143s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.664s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[8.665s] -- Looking for pthread_create in pthreads
+[9.016s] -- Looking for pthread_create in pthreads - not found
+[9.016s] -- Looking for pthread_create in pthread
+[9.465s] -- Looking for pthread_create in pthread - found
+[9.469s] -- Found Threads: TRUE  
+[10.304s] -- Found rclcpp_lifecycle: 2.4.3 (/opt/ros/foxy/share/rclcpp_lifecycle/cmake)
+[10.562s] -- Found rclcpp_action: 2.4.3 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[10.901s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[11.112s] -- Found nav2_msgs: 0.4.7 (/opt/ros/foxy/share/nav2_msgs/cmake)
+[12.233s] -- Found ament_index_cpp: 1.1.0 (/opt/ros/foxy/share/ament_index_cpp/cmake)
+[12.263s] -- Found ZMQ: /usr/lib/x86_64-linux-gnu/libzmq.so  
+[12.267s] -- ZeroMQ found.
+[12.368s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[12.583s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[12.588s] -- Check if compiler accepts -pthread
+[13.553s] -- Check if compiler accepts -pthread - yes
+[13.570s] -- Added test 'copyright' to check source files copyright and LICENSE
+[13.573s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[13.575s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling/include
+[13.575s] -- Configured cppcheck exclude dirs and/or files: 
+[13.577s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[13.577s] -- Configured cpplint exclude dirs and/or files: 
+[13.579s] -- Added test 'flake8' to check Python code syntax and style conventions
+[13.580s] -- Added test 'lint_cmake' to check CMake code style
+[13.581s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[13.584s] -- Added test 'uncrustify' to check C / C++ code style
+[13.584s] -- Configured uncrustify additional arguments: 
+[13.585s] -- Added test 'xmllint' to check XML markup files
+[13.595s] -- Configuring done
+[13.836s] -- Generating done
+[14.078s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/br2_bt_patrolling
+[14.147s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_bt_patrolling -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_bt_patrolling
+[14.158s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_bt_patrolling -- -j7 -l7
+[14.689s] [35m[1mScanning dependencies of target br2_recharge_bt_node[0m
+[14.758s] [  5%] [32mBuilding CXX object CMakeFiles/br2_recharge_bt_node.dir/src/br2_bt_patrolling/Recharge.cpp.o[0m
+[19.807s] [ 10%] [32m[1mLinking CXX shared library libbr2_recharge_bt_node.so[0m
+[20.758s] [ 10%] Built target br2_recharge_bt_node
+[20.853s] [35m[1mScanning dependencies of target br2_patrol_bt_node[0m
+[21.399s] [ 15%] [32mBuilding CXX object CMakeFiles/br2_patrol_bt_node.dir/src/br2_bt_patrolling/Patrol.cpp.o[0m
+[34.510s] [ 20%] [32m[1mLinking CXX shared library libbr2_patrol_bt_node.so[0m
+[35.279s] [ 20%] Built target br2_patrol_bt_node
+[35.317s] [35m[1mScanning dependencies of target gtest[0m
+[35.406s] [ 25%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[49.493s] [ 30%] [32m[1mLinking CXX static library libgtest.a[0m
+[50.039s] [ 30%] Built target gtest
+[50.112s] [35m[1mScanning dependencies of target gtest_main[0m
+[50.368s] [ 35%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[54.801s] [ 40%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[55.066s] [ 40%] Built target gtest_main
+[55.140s] [35m[1mScanning dependencies of target br2_track_objects_bt_node[0m
+[55.539s] [ 45%] [32mBuilding CXX object CMakeFiles/br2_track_objects_bt_node.dir/src/br2_bt_patrolling/TrackObjects.cpp.o[0m
+[71.696s] [ 50%] [32m[1mLinking CXX shared library libbr2_track_objects_bt_node.so[0m
+[72.542s] [ 50%] Built target br2_track_objects_bt_node
+[73.104s] [35m[1mScanning dependencies of target br2_get_waypoint_bt_node[0m
+[73.341s] [ 55%] [32mBuilding CXX object CMakeFiles/br2_get_waypoint_bt_node.dir/src/br2_bt_patrolling/GetWaypoint.cpp.o[0m
+[88.148s] [ 60%] [32m[1mLinking CXX shared library libbr2_get_waypoint_bt_node.so[0m
+[88.965s] [ 60%] Built target br2_get_waypoint_bt_node
+[89.019s] [35m[1mScanning dependencies of target bt_action_test[0m
+[89.422s] [ 65%] [32mBuilding CXX object tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o[0m
+[109.262s] make[2]: *** [tests/CMakeFiles/bt_action_test.dir/build.make:63: tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o] Interrupt
+[109.263s] make[1]: *** [CMakeFiles/Makefile2:376: tests/CMakeFiles/bt_action_test.dir/all] Interrupt
+[109.263s] make: *** [Makefile:141: all] Interrupt

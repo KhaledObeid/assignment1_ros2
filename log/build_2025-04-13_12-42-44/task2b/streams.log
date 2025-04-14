@@ -1,0 +1,71 @@
+[0.281s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task2b -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task2b
+[1.302s] -- The C compiler identification is GNU 9.4.0
+[1.821s] -- The CXX compiler identification is GNU 9.4.0
+[1.845s] -- Check for working C compiler: /usr/bin/cc
+[2.309s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.316s] -- Detecting C compiler ABI info
+[2.717s] -- Detecting C compiler ABI info - done
+[2.895s] -- Detecting C compile features
+[2.895s] -- Detecting C compile features - done
+[2.896s] -- Check for working CXX compiler: /usr/bin/c++
+[3.340s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.354s] -- Detecting CXX compiler ABI info
+[4.105s] -- Detecting CXX compiler ABI info - done
+[4.105s] -- Detecting CXX compile features
+[4.109s] -- Detecting CXX compile features - done
+[4.129s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.425s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.425s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.709s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.980s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[6.465s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.516s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[7.617s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[7.789s] -- Found FastRTPS: /opt/ros/foxy/include  
+[8.380s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.681s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[8.736s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[8.737s] -- Looking for pthread.h
+[9.422s] -- Looking for pthread.h - found
+[9.422s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[10.248s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[10.248s] -- Looking for pthread_create in pthreads
+[11.063s] -- Looking for pthread_create in pthreads - not found
+[11.063s] -- Looking for pthread_create in pthread
+[11.833s] -- Looking for pthread_create in pthread - found
+[11.846s] -- Found Threads: TRUE  
+[12.402s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[13.032s] -- Added test 'copyright' to check source files copyright and LICENSE
+[13.032s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[13.032s] -- Configured cppcheck include dirs: 
+[13.032s] -- Configured cppcheck exclude dirs and/or files: 
+[13.032s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[13.032s] -- Configured cpplint exclude dirs and/or files: 
+[13.033s] -- Added test 'lint_cmake' to check CMake code style
+[13.033s] -- Added test 'uncrustify' to check C / C++ code style
+[13.033s] -- Configured uncrustify additional arguments: 
+[13.033s] -- Added test 'xmllint' to check XML markup files
+[13.045s] -- Configuring done
+[13.063s] -- Generating done
+[13.081s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task2b
+[13.472s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/task2b -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/task2b
+[13.475s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[13.867s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[13.875s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2b
+[13.994s] -- Install configuration: ""
+[14.013s] -- Execute custom install script
+[14.013s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/package_run_dependencies/task2b
+[14.013s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/parent_prefix_path/task2b
+[14.013s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/ament_prefix_path.sh
+[14.044s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/ament_prefix_path.dsv
+[14.100s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/path.sh
+[14.150s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/environment/path.dsv
+[14.197s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.bash
+[14.289s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.sh
+[14.365s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.zsh
+[14.405s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/local_setup.dsv
+[14.457s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/package.dsv
+[14.499s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/ament_index/resource_index/packages/task2b
+[14.532s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/cmake/task2bConfig.cmake
+[14.582s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/cmake/task2bConfig-version.cmake
+[14.626s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/share/task2b/package.xml

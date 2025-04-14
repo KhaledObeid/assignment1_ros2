@@ -1,0 +1,30 @@
+[0.516s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_vff_avoidance -- -j7 -l7
+[0.744s] [ 20%] Built target gtest
+[0.745s] [ 40%] Built target gtest_main
+[0.821s] [ 60%] Built target br2_vff_avoidance
+[0.950s] [ 80%] Built target vff_test
+[0.956s] [100%] Built target avoidance_vff
+[1.147s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_vff_avoidance -- -j7 -l7
+[1.151s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_vff_avoidance
+[1.273s] -- Install configuration: "Debug"
+[1.273s] -- Execute custom install script
+[1.289s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/libbr2_vff_avoidance.so
+[1.293s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/lib/br2_vff_avoidance/avoidance_vff
+[1.293s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/launch/avoidance_vff.launch.py
+[1.293s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/package_run_dependencies/br2_vff_avoidance
+[1.293s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/parent_prefix_path/br2_vff_avoidance
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.sh
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/ament_prefix_path.dsv
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.sh
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/environment/path.dsv
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.bash
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.sh
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.zsh
+[1.294s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/local_setup.dsv
+[1.294s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.dsv
+[1.296s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/ament_index/resource_index/packages/br2_vff_avoidance
+[1.298s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.299s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig.cmake
+[1.299s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/cmake/br2_vff_avoidanceConfig-version.cmake
+[1.300s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_vff_avoidance/share/br2_vff_avoidance/package.xml
+[1.356s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_vff_avoidance' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_vff_avoidance

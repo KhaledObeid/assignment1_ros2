@@ -1,0 +1,49 @@
+[35m[1mScanning dependencies of target controller_manager[0m
+[35m[1mScanning dependencies of target gmock[0m
+[35m[1mScanning dependencies of target gmock_main[0m
+[  4%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[  8%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[ 12%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/controller_manager.dir/src/controller_manager.cpp.o[0m
+[ 20%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[ 20%] Built target gmock_main
+[ 24%] [32m[1mLinking CXX static library libgmock.a[0m
+[ 24%] Built target gmock
+[ 28%] [32m[1mLinking CXX shared library libcontroller_manager.so[0m
+[ 28%] Built target controller_manager
+[35m[1mScanning dependencies of target test_controller[0m
+[35m[1mScanning dependencies of target ros2_control_node[0m
+[35m[1mScanning dependencies of target test_controller_with_interfaces[0m
+[35m[1mScanning dependencies of target test_controller_failed_init[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/ros2_control_node.dir/src/ros2_control_node.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/test_controller_with_interfaces.dir/test/test_controller_with_interfaces/test_controller_with_interfaces.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/test_controller.dir/test/test_controller/test_controller.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/test_controller_failed_init.dir/test/test_controller_failed_init/test_controller_failed_init.cpp.o[0m
+[ 48%] [32m[1mLinking CXX shared library libtest_controller_with_interfaces.so[0m
+[ 48%] Built target test_controller_with_interfaces
+[ 52%] [32m[1mLinking CXX shared library libtest_controller_failed_init.so[0m
+[35m[1mScanning dependencies of target test_release_interfaces[0m
+[ 56%] [32m[1mLinking CXX executable ros2_control_node[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/test_release_interfaces.dir/test/test_release_interfaces.cpp.o[0m
+[ 64%] [32m[1mLinking CXX shared library libtest_controller.so[0m
+[ 64%] Built target test_controller_failed_init
+[ 64%] Built target test_controller
+[35m[1mScanning dependencies of target test_controller_manager[0m
+[35m[1mScanning dependencies of target test_load_controller[0m
+[35m[1mScanning dependencies of target test_spawner_unspawner[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/test_spawner_unspawner.dir/test/test_spawner_unspawner.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/test_controller_manager.dir/test/test_controller_manager.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/test_load_controller.dir/test/test_load_controller.cpp.o[0m
+[ 76%] Built target ros2_control_node
+[35m[1mScanning dependencies of target test_controller_manager_srvs[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/test_controller_manager_srvs.dir/test/test_controller_manager_srvs.cpp.o[0m
+[ 84%] [32m[1mLinking CXX executable test_release_interfaces[0m
+[ 88%] [32m[1mLinking CXX executable test_spawner_unspawner[0m
+[ 92%] [32m[1mLinking CXX executable test_load_controller[0m
+[ 96%] [32m[1mLinking CXX executable test_controller_manager[0m
+[ 96%] Built target test_release_interfaces
+[ 96%] Built target test_spawner_unspawner
+[ 96%] Built target test_load_controller
+[ 96%] Built target test_controller_manager
+[100%] [32m[1mLinking CXX executable test_controller_manager_srvs[0m
+[100%] Built target test_controller_manager_srvs

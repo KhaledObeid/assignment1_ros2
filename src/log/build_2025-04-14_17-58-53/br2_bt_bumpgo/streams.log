@@ -1,0 +1,17 @@
+[0.094s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo -- -j7 -l7
+[0.319s] [ 11%] Built target br2_forward_bt_node
+[0.436s] [ 22%] Built target gtest
+[0.476s] [ 33%] Built target gtest_main
+[0.533s] [ 44%] Built target bt_forward
+[0.630s] [ 55%] Built target bt_action_test
+[0.748s] [ 66%] Built target br2_is_obstacle_bt_node
+[0.871s] [ 72%] [32m[1mLinking CXX shared library libbr2_back_bt_node.so[0m
+[1.209s] [ 77%] Built target br2_back_bt_node
+[1.228s] [35m[1mScanning dependencies of target bt_bumpgo[0m
+[1.350s] [ 83%] [32mBuilding CXX object CMakeFiles/bt_bumpgo.dir/src/bt_bumpgo_main.cpp.o[0m
+[7.219s] [ 88%] [32m[1mLinking CXX executable bt_bumpgo[0m
+[7.558s] [ 88%] Built target bt_bumpgo
+[7.600s] [35m[1mScanning dependencies of target br2_turn_bt_node[0m
+[7.752s] [ 94%] [32mBuilding CXX object CMakeFiles/br2_turn_bt_node.dir/src/br2_bt_bumpgo/Turn.cpp.o[0m
+[20.990s] [100%] [32m[1mLinking CXX shared library libbr2_turn_bt_node.so[0m
+[21.554s] [100%] Built target br2_turn_bt_node

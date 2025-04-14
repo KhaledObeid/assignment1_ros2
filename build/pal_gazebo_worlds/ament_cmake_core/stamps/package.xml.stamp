@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>pal_gazebo_worlds</name>
+  <version>3.0.2</version>
+  <description>Simulation worlds for PAL robots.</description>
+  <maintainer email="victor.lopez@pal-robotics.com">Victor Lopez</maintainer>
+  <license>LGPL-3.0</license>
+  <author email="victor.lopez@pal-robotics.com">Victor Lopez</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>ament_cmake_auto</build_depend>
+  <depend>rclcpp</depend>
+  <depend>gazebo_msgs</depend>
+  <exec_depend>gazebo_ros</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

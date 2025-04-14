@@ -1,0 +1,17 @@
+[0.258s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/tiago_controller_configuration:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/joint_trajectory_controller:/home/khaledob/bookros2_ws/install/imu_sensor_broadcaster:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_basics -- -j7 -l7
+[0.564s] make[2]: *** wait: No child processes. Stop.
+[0.564s] make[2]: *** Waiting for unfinished jobs....
+[0.569s] make[2]: *** wait: No child processes. Stop.
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:278: CMakeFiles/param_reader.dir/all] Interrupt
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:197: CMakeFiles/publisher_class.dir/all] Error 2
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/logger_class.dir/all] Interrupt
+[0.572s] make[2]: *** [CMakeFiles/subscriber_class.dir/build.make:143: CMakeFiles/subscriber_class.dir/depend] Interrupt
+[0.572s] make[2]: *** [CMakeFiles/logger.dir/build.make:143: CMakeFiles/logger.dir/depend] Interrupt
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/subscriber_class.dir/all] Interrupt
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:170: CMakeFiles/logger.dir/all] Interrupt
+[0.572s] make[2]: *** [CMakeFiles/executors.dir/build.make:143: CMakeFiles/executors.dir/depend] Interrupt
+[0.572s] make[1]: *** [CMakeFiles/Makefile2:143: CMakeFiles/executors.dir/all] Interrupt
+[0.572s] make[1]: *** wait: No child processes. Stop.
+[0.572s] make[1]: *** Waiting for unfinished jobs....
+[0.572s] make[1]: *** wait: No child processes. Stop.
+[0.572s] make: *** [Makefile:141: all] Error 2

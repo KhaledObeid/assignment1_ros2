@@ -1,0 +1,27 @@
+[0.999s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py': PYTHONPATH=/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/build --no-deps symlink_data
+[1.323s] running develop
+[1.506s] running egg_info
+[1.508s] creating br2_fsm_bumpgo_py.egg-info
+[1.509s] writing br2_fsm_bumpgo_py.egg-info/PKG-INFO
+[1.509s] writing dependency_links to br2_fsm_bumpgo_py.egg-info/dependency_links.txt
+[1.509s] writing entry points to br2_fsm_bumpgo_py.egg-info/entry_points.txt
+[1.509s] writing requirements to br2_fsm_bumpgo_py.egg-info/requires.txt
+[1.509s] writing top-level names to br2_fsm_bumpgo_py.egg-info/top_level.txt
+[1.511s] writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[1.554s] reading manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[1.556s] writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[1.601s] running build_ext
+[1.603s] Creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/site.py
+[1.606s] Creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/br2-fsm-bumpgo-py.egg-link (link to .)
+[1.608s] Installing bump_go_main script to /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+[1.609s] 
+[1.609s] Installed /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py
+[1.609s] running symlink_data
+[1.609s] creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/ament_index
+[1.609s] creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/ament_index/resource_index
+[1.609s] creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/ament_index/resource_index/packages
+[1.610s] symbolically linking /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/resource/br2_fsm_bumpgo_py -> /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/ament_index/resource_index/packages
+[1.610s] symbolically linking /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/package.xml -> /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py
+[1.610s] creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py/launch
+[1.610s] symbolically linking /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/launch/bump_and_go.launch.py -> /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/share/br2_fsm_bumpgo_py/launch
+[1.662s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py' returned '0': PYTHONPATH=/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/build --no-deps symlink_data

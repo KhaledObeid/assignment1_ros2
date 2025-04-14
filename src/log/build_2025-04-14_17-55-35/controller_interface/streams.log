@@ -1,0 +1,78 @@
+[0.134s] Invoking command in '/home/khaledob/bookros2_ws/src/build/controller_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/controller_interface
+[1.204s] -- The C compiler identification is GNU 9.4.0
+[1.204s] -- The CXX compiler identification is GNU 9.4.0
+[1.204s] -- Check for working C compiler: /usr/bin/cc
+[1.625s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.626s] -- Detecting C compiler ABI info
+[2.116s] -- Detecting C compiler ABI info - done
+[2.171s] -- Detecting C compile features
+[2.172s] -- Detecting C compile features - done
+[2.193s] -- Check for working CXX compiler: /usr/bin/c++
+[2.756s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.772s] -- Detecting CXX compiler ABI info
+[3.483s] -- Detecting CXX compiler ABI info - done
+[3.636s] -- Detecting CXX compile features
+[3.636s] -- Detecting CXX compile features - done
+[3.661s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.863s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.864s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.502s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.618s] -- Found hardware_interface: 0.7.1 (/home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake)
+[4.689s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.700s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[4.947s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[5.081s] -- Found FastRTPS: /opt/ros/foxy/include  
+[5.311s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.891s] -- Found rclcpp_lifecycle: 2.4.3 (/opt/ros/foxy/share/rclcpp_lifecycle/cmake)
+[7.005s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[7.013s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.015s] -- Looking for pthread.h
+[7.498s] -- Looking for pthread.h - found
+[7.500s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.138s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[8.138s] -- Looking for pthread_create in pthreads
+[8.523s] -- Looking for pthread_create in pthreads - not found
+[8.523s] -- Looking for pthread_create in pthread
+[9.029s] -- Looking for pthread_create in pthread - found
+[9.035s] -- Found Threads: TRUE  
+[9.777s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[9.781s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[9.786s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[10.260s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[10.285s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[10.287s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[10.497s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.500s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.502s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_interface/include
+[10.502s] -- Configured cppcheck exclude dirs and/or files: 
+[10.504s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.504s] -- Configured cpplint exclude dirs and/or files: 
+[10.506s] -- Added test 'lint_cmake' to check CMake code style
+[10.508s] -- Added test 'uncrustify' to check C / C++ code style
+[10.508s] -- Configured uncrustify additional arguments: 
+[10.509s] -- Added test 'xmllint' to check XML markup files
+[10.518s] -- Configuring done
+[10.753s] -- Generating done
+[10.821s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/controller_interface
+[10.885s] Invoked command in '/home/khaledob/bookros2_ws/src/build/controller_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/controller_interface
+[10.887s] Invoking command in '/home/khaledob/bookros2_ws/src/build/controller_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/controller_interface -- -j7 -l7
+[11.120s] [35m[1mScanning dependencies of target gmock[0m
+[11.244s] [  6%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[19.919s] [ 13%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[26.075s] [ 20%] [32m[1mLinking CXX static library libgmock.a[0m
+[26.397s] [ 20%] Built target gmock
+[26.555s] [35m[1mScanning dependencies of target controller_interface[0m
+[27.085s] [ 26%] [32mBuilding CXX object CMakeFiles/controller_interface.dir/src/controller_interface.cpp.o[0m
+[33.414s] [ 33%] [32m[1mLinking CXX shared library libcontroller_interface.so[0m
+[33.995s] [ 33%] Built target controller_interface
+[34.103s] [35m[1mScanning dependencies of target gmock_main[0m
+[34.208s] [ 40%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[36.131s] [ 46%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[36.527s] [ 46%] Built target gmock_main
+[36.621s] [35m[1mScanning dependencies of target test_force_torque_sensor[0m
+[36.777s] [ 53%] [32mBuilding CXX object CMakeFiles/test_force_torque_sensor.dir/test/test_force_torque_sensor.cpp.o[0m
+[40.537s] [ 60%] [32m[1mLinking CXX executable test_force_torque_sensor[0m
+[41.289s] [ 60%] Built target test_force_torque_sensor
+[41.345s] make[2]: *** [CMakeFiles/test_imu_sensor.dir/build.make:191: CMakeFiles/test_imu_sensor.dir/depend] Interrupt
+[41.346s] make[1]: *** [CMakeFiles/Makefile2:241: CMakeFiles/test_imu_sensor.dir/all] Interrupt
+[41.349s] make: *** [Makefile:141: all] Interrupt

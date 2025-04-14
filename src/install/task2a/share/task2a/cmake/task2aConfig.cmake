@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/task2a/ament_cmake_core/task2aConfig.cmake

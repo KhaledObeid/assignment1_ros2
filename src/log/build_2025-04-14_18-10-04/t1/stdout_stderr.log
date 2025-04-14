@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target bumpgo[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable bumpgo[0m
+[100%] Built target bumpgo
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/lib/t1/bumpgo
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/launch/bump_and_go.launch.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/package_run_dependencies/t1
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/parent_prefix_path/t1
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/packages/t1
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.xml

@@ -1,0 +1,116 @@
+[0.065s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_basics
+[0.311s] -- The C compiler identification is GNU 9.4.0
+[0.837s] -- The CXX compiler identification is GNU 9.4.0
+[0.839s] -- Check for working C compiler: /usr/bin/cc
+[2.100s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.107s] -- Detecting C compiler ABI info
+[3.514s] -- Detecting C compiler ABI info - done
+[3.579s] -- Detecting C compile features
+[3.579s] -- Detecting C compile features - done
+[3.580s] -- Check for working CXX compiler: /usr/bin/c++
+[5.035s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.035s] -- Detecting CXX compiler ABI info
+[5.917s] -- Detecting CXX compiler ABI info - done
+[6.054s] -- Detecting CXX compile features
+[6.088s] -- Detecting CXX compile features - done
+[6.088s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[6.206s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[6.207s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[9.142s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[9.218s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[9.562s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.603s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[11.800s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[12.242s] -- Found FastRTPS: /opt/ros/foxy/include  
+[12.943s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[13.693s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[13.737s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[13.740s] -- Looking for pthread.h
+[14.885s] -- Looking for pthread.h - found
+[14.886s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[16.255s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[16.260s] -- Looking for pthread_create in pthreads
+[18.257s] -- Looking for pthread_create in pthreads - not found
+[18.260s] -- Looking for pthread_create in pthread
+[18.866s] -- Looking for pthread_create in pthread - found
+[18.869s] -- Found Threads: TRUE  
+[20.190s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[20.592s] -- Added test 'copyright' to check source files copyright and LICENSE
+[20.594s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[20.594s] -- Configured cppcheck include dirs: 
+[20.594s] -- Configured cppcheck exclude dirs and/or files: 
+[20.601s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[20.601s] -- Configured cpplint exclude dirs and/or files: 
+[20.601s] -- Added test 'flake8' to check Python code syntax and style conventions
+[20.633s] -- Added test 'lint_cmake' to check CMake code style
+[20.634s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[20.634s] -- Added test 'uncrustify' to check C / C++ code style
+[20.634s] -- Configured uncrustify additional arguments: 
+[20.635s] -- Added test 'xmllint' to check XML markup files
+[20.635s] -- Configuring done
+[20.752s] -- Generating done
+[20.801s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/br2_basics
+[20.864s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_basics
+[20.869s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_basics -- -j7 -l7
+[21.422s] [35m[1mScanning dependencies of target publisher[0m
+[21.865s] [  7%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[41.076s] [ 14%] [32m[1mLinking CXX executable publisher[0m
+[42.530s] [ 14%] Built target publisher
+[42.759s] [35m[1mScanning dependencies of target param_reader[0m
+[43.038s] [ 21%] [32mBuilding CXX object CMakeFiles/param_reader.dir/src/param_reader.cpp.o[0m
+[50.760s] [ 28%] [32m[1mLinking CXX executable param_reader[0m
+[51.384s] [ 28%] Built target param_reader
+[51.452s] [35m[1mScanning dependencies of target logger_class[0m
+[51.660s] [ 35%] [32mBuilding CXX object CMakeFiles/logger_class.dir/src/logger_class.cpp.o[0m
+[58.024s] [ 42%] [32m[1mLinking CXX executable logger_class[0m
+[58.471s] [ 42%] Built target logger_class
+[58.574s] [35m[1mScanning dependencies of target subscriber_class[0m
+[58.811s] [ 50%] [32mBuilding CXX object CMakeFiles/subscriber_class.dir/src/subscriber_class.cpp.o[0m
+[72.289s] [ 57%] [32m[1mLinking CXX executable subscriber_class[0m
+[73.173s] [ 57%] Built target subscriber_class
+[73.316s] [35m[1mScanning dependencies of target publisher_class[0m
+[73.558s] [ 64%] [32mBuilding CXX object CMakeFiles/publisher_class.dir/src/publisher_class.cpp.o[0m
+[82.218s] [ 71%] [32m[1mLinking CXX executable publisher_class[0m
+[82.968s] [ 71%] Built target publisher_class
+[83.017s] [35m[1mScanning dependencies of target logger[0m
+[83.148s] [ 78%] [32mBuilding CXX object CMakeFiles/logger.dir/src/logger.cpp.o[0m
+[92.032s] [ 85%] [32m[1mLinking CXX executable logger[0m
+[92.531s] [ 85%] Built target logger
+[92.569s] [35m[1mScanning dependencies of target executors[0m
+[92.751s] [ 92%] [32mBuilding CXX object CMakeFiles/executors.dir/src/executors.cpp.o[0m
+[111.791s] [100%] [32m[1mLinking CXX executable executors[0m
+[113.166s] [100%] Built target executors
+[113.334s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_basics -- -j7 -l7
+[113.337s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_basics
+[117.455s] -- Install configuration: ""
+[117.456s] -- Execute custom install script
+[117.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/publisher
+[117.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/publisher_class
+[117.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/subscriber_class
+[117.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/executors
+[117.457s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/logger
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/logger_class
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/lib/br2_basics/param_reader
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[117.458s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/config/params.yaml
+[117.459s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[117.459s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[117.459s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[117.459s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[117.459s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/environment/path.sh
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/environment/path.dsv
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/local_setup.bash
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/local_setup.sh
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/local_setup.zsh
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/local_setup.dsv
+[117.460s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/package.dsv
+[117.461s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[117.461s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[117.461s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[117.461s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[117.461s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_basics/share/br2_basics/package.xml
+[117.563s] Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_basics

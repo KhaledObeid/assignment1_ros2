@@ -1,0 +1,46 @@
+[0.199s] Invoking command in '/home/khaledob/bookros2_ws/src/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/t1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/t1
+[0.294s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.391s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.277s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.318s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.645s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.646s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.507s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.075s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.101s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.607s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[5.116s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.578s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.580s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.580s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/t1/include
+[5.580s] -- Configured cppcheck exclude dirs and/or files: 
+[5.582s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.582s] -- Configured cpplint exclude dirs and/or files: 
+[5.583s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.583s] -- Added test 'lint_cmake' to check CMake code style
+[5.584s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.585s] -- Added test 'uncrustify' to check C / C++ code style
+[5.586s] -- Configured uncrustify additional arguments: 
+[5.586s] -- Added test 'xmllint' to check XML markup files
+[5.665s] -- Configuring done
+[5.682s] -- Generating done
+[5.720s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/t1
+[5.866s] Invoked command in '/home/khaledob/bookros2_ws/src/build/t1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/t1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/t1
+[5.869s] Invoking command in '/home/khaledob/bookros2_ws/src/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7
+[6.433s] [35m[1mScanning dependencies of target bumpgo[0m
+[7.541s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t1/BumpGoNode.cpp.o[0m
+[7.713s] [ 66%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o[0m
+[8.224s] [01m[K/home/khaledob/bookros2_ws/src/t1/src/t1/BumpGoNode.cpp:16:10:[m[K [01;31m[Kfatal error: [m[Kbr2_fsm_bumpgo_cpp/BumpGoNode.hpp: No such file or directory
+[8.238s]    16 | #include [01;31m[K"br2_fsm_bumpgo_cpp/BumpGoNode.hpp"[m[K
+[8.239s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[8.239s] compilation terminated.
+[8.239s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t1/BumpGoNode.cpp.o] Error 1
+[8.239s] make[2]: *** Waiting for unfinished jobs....
+[8.239s] [01m[K/home/khaledob/bookros2_ws/src/t1/src/bumpgo_main.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kbr2_fsm_bumpgo_cpp/BumpGoNode.hpp: No such file or directory
+[8.239s]     3 | #include [01;31m[K"br2_fsm_bumpgo_cpp/BumpGoNode.hpp"[m[K
+[8.240s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[8.240s] compilation terminated.
+[8.240s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:76: CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o] Error 1
+[8.240s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+[8.240s] make: *** [Makefile:141: all] Error 2
+[8.457s] Invoked command in '/home/khaledob/bookros2_ws/src/build/t1' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7

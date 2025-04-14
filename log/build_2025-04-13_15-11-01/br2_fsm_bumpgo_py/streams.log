@@ -1,0 +1,17 @@
+[3.740s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py': PYTHONPATH=/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/build --no-deps symlink_data
+[5.177s] running develop
+[5.922s] running egg_info
+[5.923s] writing br2_fsm_bumpgo_py.egg-info/PKG-INFO
+[5.924s] writing dependency_links to br2_fsm_bumpgo_py.egg-info/dependency_links.txt
+[5.949s] writing entry points to br2_fsm_bumpgo_py.egg-info/entry_points.txt
+[5.949s] writing requirements to br2_fsm_bumpgo_py.egg-info/requires.txt
+[5.950s] writing top-level names to br2_fsm_bumpgo_py.egg-info/top_level.txt
+[6.067s] reading manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[6.079s] writing manifest file 'br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[6.307s] running build_ext
+[6.307s] Creating /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages/br2-fsm-bumpgo-py.egg-link (link to .)
+[6.335s] Installing bump_go_main script to /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+[6.344s] 
+[6.344s] Installed /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py
+[6.344s] running symlink_data
+[6.511s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py' returned '0': PYTHONPATH=/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_py/build --no-deps symlink_data

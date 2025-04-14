@@ -1,0 +1,11 @@
+[0.199s] Invoking command in '/home/khaledob/bookros2_ws/build/t2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2b -- -j7 -l7
+[0.338s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.452s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o[0m
+[3.143s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:[m[K In member function ‘[01m[Kvoid t2b::BumpGoNode::control_cycle()[m[K’:
+[3.144s] [01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:137:25:[m[K [01;31m[Kerror: [m[K‘[01m[KCLEAR_DISTANCE[m[K’ was not declared in this scope
+[3.144s]   137 |       if (forward_avg > [01;31m[KCLEAR_DISTANCE[m[K) {
+[3.145s]       |                         [01;31m[K^~~~~~~~~~~~~~[m[K
+[5.549s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o] Error 1
+[5.559s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+[5.567s] make: *** [Makefile:141: all] Error 2
+[5.692s] Invoked command in '/home/khaledob/bookros2_ws/build/t2b' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2b -- -j7 -l7

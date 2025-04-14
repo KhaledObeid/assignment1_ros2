@@ -1,0 +1,17 @@
+CMake Error at CMakeLists.txt:20 (find_package):
+  By not providing "Findrclpp.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "rclpp", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "rclpp" with any of
+  the following names:
+
+    rclppConfig.cmake
+    rclpp-config.cmake
+
+  Add the installation prefix of "rclpp" to CMAKE_PREFIX_PATH or set
+  "rclpp_DIR" to a directory containing one of the above files.  If "rclpp"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+

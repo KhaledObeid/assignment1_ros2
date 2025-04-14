@@ -1,0 +1,46 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/khaledob/bookros2_ws/src/build/pal_gripper_controller_configuration
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/current_limit_controllers.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/current_limit_controllers_left.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/current_limit_controllers_right.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/gripper_controller.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/joint_trajectory_controllers.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/config/pids.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/launch/current_limit_controllers.launch
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/launch/gripper_controller.launch
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/ament_index/resource_index/package_run_dependencies/pal_gripper_controller_configuration
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/ament_index/resource_index/parent_prefix_path/pal_gripper_controller_configuration
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/ament_index/resource_index/packages/pal_gripper_controller_configuration
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/cmake/pal_gripper_controller_configurationConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/cmake/pal_gripper_controller_configurationConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_controller_configuration/share/pal_gripper_controller_configuration/package.xml

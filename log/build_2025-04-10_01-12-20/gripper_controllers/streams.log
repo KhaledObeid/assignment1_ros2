@@ -1,0 +1,104 @@
+[0.073s] Invoking command in '/home/khaledob/bookros2_ws/build/gripper_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/gripper_controllers -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/gripper_controllers
+[0.229s] -- The C compiler identification is GNU 9.4.0
+[0.334s] -- The CXX compiler identification is GNU 9.4.0
+[0.342s] -- Check for working C compiler: /usr/bin/cc
+[0.505s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.507s] -- Detecting C compiler ABI info
+[0.685s] -- Detecting C compiler ABI info - done
+[0.702s] -- Detecting C compile features
+[0.702s] -- Detecting C compile features - done
+[0.706s] -- Check for working CXX compiler: /usr/bin/c++
+[0.886s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.887s] -- Detecting CXX compiler ABI info
+[1.069s] -- Detecting CXX compiler ABI info - done
+[1.093s] -- Detecting CXX compile features
+[1.094s] -- Detecting CXX compile features - done
+[1.101s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.146s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.146s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.471s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.501s] -- Found rclcpp_action: 2.4.3 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[1.561s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.572s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.760s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.812s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.957s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.175s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.186s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.190s] -- Looking for pthread.h
+[2.373s] -- Looking for pthread.h - found
+[2.374s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.519s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.519s] -- Looking for pthread_create in pthreads
+[2.661s] -- Looking for pthread_create in pthreads - not found
+[2.661s] -- Looking for pthread_create in pthread
+[2.876s] -- Looking for pthread_create in pthread - found
+[2.877s] -- Found Threads: TRUE  
+[3.094s] -- Found control_msgs: 2.5.1 (/opt/ros/foxy/share/control_msgs/cmake)
+[3.587s] -- Found control_toolbox: 2.2.0 (/opt/ros/foxy/share/control_toolbox/cmake)
+[3.650s] -- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake)
+[3.972s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[3.974s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.976s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[4.058s] -- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[4.169s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[4.175s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[4.251s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.253s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.253s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/gripper_controllers/include>
+[4.253s] -- Configured cppcheck exclude dirs and/or files: 
+[4.255s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.255s] -- Configured cpplint exclude dirs and/or files: 
+[4.256s] -- Added test 'lint_cmake' to check CMake code style
+[4.258s] -- Added test 'uncrustify' to check C / C++ code style
+[4.258s] -- Configured uncrustify additional arguments: 
+[4.259s] -- Added test 'xmllint' to check XML markup files
+[4.265s] -- Configuring done
+[4.322s] -- Generating done
+[4.347s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/gripper_controllers
+[4.365s] Invoked command in '/home/khaledob/bookros2_ws/build/gripper_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/gripper_controllers -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/gripper_controllers
+[4.368s] Invoking command in '/home/khaledob/bookros2_ws/build/gripper_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/gripper_controllers -- -j4 -l4
+[4.466s] [35m[1mScanning dependencies of target gripper_action_controller[0m
+[4.528s] [ 11%] [32mBuilding CXX object CMakeFiles/gripper_action_controller.dir/src/gripper_action_controller.cpp.o[0m
+[9.999s] [ 22%] [32m[1mLinking CXX shared library libgripper_action_controller.so[0m
+[10.635s] [ 22%] Built target gripper_action_controller
+[10.672s] [35m[1mScanning dependencies of target gmock_main[0m
+[10.708s] [ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[12.443s] [ 44%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[12.533s] [ 44%] Built target gmock_main
+[12.550s] [35m[1mScanning dependencies of target gmock[0m
+[12.582s] [ 55%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[16.397s] [ 66%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[18.132s] [ 77%] [32m[1mLinking CXX static library libgmock.a[0m
+[18.223s] [ 77%] Built target gmock
+[18.239s] [35m[1mScanning dependencies of target test_load_gripper_action_controllers[0m
+[18.298s] [ 88%] [32mBuilding CXX object CMakeFiles/test_load_gripper_action_controllers.dir/test/test_load_gripper_action_controllers.cpp.o[0m
+[21.505s] [100%] [32m[1mLinking CXX executable test_load_gripper_action_controllers[0m
+[22.054s] [100%] Built target test_load_gripper_action_controllers
+[22.098s] Invoked command in '/home/khaledob/bookros2_ws/build/gripper_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/gripper_controllers -- -j4 -l4
+[22.107s] Invoking command in '/home/khaledob/bookros2_ws/build/gripper_controllers': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/gripper_controllers
+[22.145s] -- Install configuration: ""
+[22.146s] -- Execute custom install script
+[22.146s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers//ros_control_plugins.xml
+[22.177s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/gripper_action_controller.hpp
+[22.191s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/gripper_action_controller_impl.hpp
+[22.203s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/hardware_interface_adapter.hpp
+[22.214s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/include/visibility_control.hpp
+[22.226s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/lib/libgripper_action_controller.so
+[22.238s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/package_run_dependencies/gripper_controllers
+[22.250s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/parent_prefix_path/gripper_controllers
+[22.261s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/ament_prefix_path.sh
+[22.273s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/ament_prefix_path.dsv
+[22.287s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/path.sh
+[22.299s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/environment/path.dsv
+[22.311s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.bash
+[22.323s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.sh
+[22.334s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.zsh
+[22.345s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/local_setup.dsv
+[22.357s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/package.dsv
+[22.369s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/packages/gripper_controllers
+[22.380s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/gripper_controllers
+[22.392s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/cmake/gripper_controllersConfig.cmake
+[22.404s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/cmake/gripper_controllersConfig-version.cmake
+[22.415s] -- Symlinking: /home/khaledob/bookros2_ws/install/gripper_controllers/share/gripper_controllers/package.xml
+[22.430s] Invoked command in '/home/khaledob/bookros2_ws/build/gripper_controllers' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/gripper_controllers

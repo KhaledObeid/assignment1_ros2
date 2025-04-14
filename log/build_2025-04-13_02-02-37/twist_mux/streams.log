@@ -1,0 +1,38 @@
+[0.608s] Invoking command in '/home/khaledob/bookros2_ws/build/twist_mux': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/twist_mux -- -j7 -l7
+[0.797s] [ 33%] Built target twist_marker
+[0.799s] [100%] Built target twist_mux
+[0.929s] Invoked command in '/home/khaledob/bookros2_ws/build/twist_mux' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/twist_mux -- -j7 -l7
+[0.972s] Invoking command in '/home/khaledob/bookros2_ws/build/twist_mux': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/twist_mux
+[1.198s] -- Install configuration: ""
+[1.199s] -- Execute custom install script
+[1.199s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/lib/twist_mux/twist_mux
+[1.200s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/lib/twist_mux/twist_marker
+[1.200s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/launch/twist_mux.launch
+[1.200s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/launch/twist_mux_launch.py
+[1.200s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/joystick.yaml
+[1.201s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/twist_mux_locks.yaml
+[1.201s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/config/twist_mux_topics.yaml
+[1.202s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/params_helpers.hpp
+[1.202s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/topic_handle.hpp
+[1.202s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux.hpp
+[1.203s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux_diagnostics.hpp
+[1.203s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/twist_mux_diagnostics_status.hpp
+[1.203s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/include/twist_mux/utils.hpp
+[1.214s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/package_run_dependencies/twist_mux
+[1.214s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/parent_prefix_path/twist_mux
+[1.215s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/ament_prefix_path.sh
+[1.215s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/ament_prefix_path.dsv
+[1.215s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/path.sh
+[1.215s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/environment/path.dsv
+[1.216s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.bash
+[1.216s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.sh
+[1.216s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.zsh
+[1.216s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/local_setup.dsv
+[1.217s] -- Symlinking: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/package.dsv
+[1.217s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/ament_index/resource_index/packages/twist_mux
+[1.217s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/twist_muxConfig.cmake
+[1.217s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/cmake/twist_muxConfig-version.cmake
+[1.218s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/twist_mux/share/twist_mux/package.xml
+[1.372s] Invoked command in '/home/khaledob/bookros2_ws/build/twist_mux' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/twist_mux

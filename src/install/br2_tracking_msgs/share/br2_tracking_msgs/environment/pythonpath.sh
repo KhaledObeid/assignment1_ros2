@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/br2_tracking_msgs/ament_cmake_environment_hooks/pythonpath.sh

@@ -1,0 +1,6 @@
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_navigation
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/br2_navigation
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_navigation -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_navigation -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_navigation': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_navigation
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_navigation

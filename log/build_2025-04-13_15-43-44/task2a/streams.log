@@ -1,0 +1,41 @@
+[0.157s] Invoking command in '/home/khaledob/bookros2_ws/build/task2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7
+[0.407s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.616s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.262s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.309s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.457s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.470s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.392s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.478s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.560s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.306s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[3.658s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.925s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.926s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.926s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task2a/include>
+[3.926s] -- Configured cppcheck exclude dirs and/or files: 
+[3.930s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.931s] -- Configured cpplint exclude dirs and/or files: 
+[3.931s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.934s] -- Added test 'lint_cmake' to check CMake code style
+[3.934s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[3.938s] -- Added test 'uncrustify' to check C / C++ code style
+[3.938s] -- Configured uncrustify additional arguments: 
+[3.939s] -- Added test 'xmllint' to check XML markup files
+[3.944s] -- Configuring done
+[3.970s] -- Generating done
+[3.983s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task2a
+[4.180s] [35m[1mScanning dependencies of target node[0m
+[4.328s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a_main.cpp.o[0m
+[12.502s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o[0m
+[17.953s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:[m[K In member function ‘[01m[Kvoid task2a::BumpGoNode2a::control_cycle()[m[K’:
+[17.962s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:63:47:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+[17.964s]    63 |         turn_duration_ = target_turn_angle_ / [01;31m[KSPEED_ANGULAR[m[K;
+[17.965s]       |                                               [01;31m[K^~~~~~~~~~~~~[m[K
+[17.965s] [01m[K/home/khaledob/bookros2_ws/src/task2a/src/task2a/BumpGoNode2a.cpp:79:45:[m[K [01;31m[Kerror: [m[K‘[01m[KSPEED_ANGULAR[m[K’ was not declared in this scope
+[17.965s]    79 |       out_vel.angular.z = turn_direction_ * [01;31m[KSPEED_ANGULAR[m[K;
+[17.965s]       |                                             [01;31m[K^~~~~~~~~~~~~[m[K
+[21.939s] make[2]: *** [CMakeFiles/node.dir/build.make:76: CMakeFiles/node.dir/src/task2a/BumpGoNode2a.cpp.o] Error 1
+[21.946s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/node.dir/all] Error 2
+[22.054s] make: *** [Makefile:141: all] Error 2
+[22.131s] Invoked command in '/home/khaledob/bookros2_ws/build/task2a' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2a -- -j7 -l7

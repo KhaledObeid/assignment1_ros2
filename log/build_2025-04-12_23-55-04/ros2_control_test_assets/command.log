@@ -1,0 +1,4 @@
+Invoking command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/ros2_control_test_assets -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/ros2_control_test_assets -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/ros2_control_test_assets
+Invoked command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/ros2_control_test_assets

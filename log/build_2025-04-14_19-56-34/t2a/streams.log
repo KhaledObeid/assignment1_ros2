@@ -1,0 +1,24 @@
+[0.416s] Invoking command in '/home/khaledob/bookros2_ws/build/t2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2a -- -j7 -l7
+[0.758s] [100%] Built target bumpgo
+[1.197s] Invoked command in '/home/khaledob/bookros2_ws/build/t2a' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2a -- -j7 -l7
+[1.233s] Invoking command in '/home/khaledob/bookros2_ws/build/t2a': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t2a
+[1.267s] -- Install configuration: ""
+[1.289s] -- Execute custom install script
+[1.291s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/lib/t2a/bumpgo
+[1.291s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/launch/bump_and_go.launch.py
+[1.296s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/package_run_dependencies/t2a
+[1.296s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/parent_prefix_path/t2a
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.sh
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.dsv
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.sh
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.dsv
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.bash
+[1.297s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.sh
+[1.298s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.zsh
+[1.299s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.dsv
+[1.299s] -- Symlinking: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.dsv
+[1.354s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/packages/t2a
+[1.354s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig.cmake
+[1.354s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig-version.cmake
+[1.354s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.xml
+[1.367s] Invoked command in '/home/khaledob/bookros2_ws/build/t2a' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t2a

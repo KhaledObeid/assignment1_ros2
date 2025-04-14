@@ -1,0 +1,60 @@
+[0.060s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/pal_gripper_description
+[2.148s] -- The C compiler identification is GNU 9.4.0
+[2.148s] -- The CXX compiler identification is GNU 9.4.0
+[2.148s] -- Check for working C compiler: /usr/bin/cc
+[2.149s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.158s] -- Detecting C compiler ABI info
+[2.158s] -- Detecting C compiler ABI info - done
+[2.160s] -- Detecting C compile features
+[2.160s] -- Detecting C compile features - done
+[2.160s] -- Check for working CXX compiler: /usr/bin/c++
+[2.170s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.170s] -- Detecting CXX compiler ABI info
+[2.170s] -- Detecting CXX compiler ABI info - done
+[2.207s] -- Detecting CXX compile features
+[2.208s] -- Detecting CXX compile features - done
+[2.212s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[2.289s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.290s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.091s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.163s] -- Found xacro: 2.0.7 (/opt/ros/foxy/share/xacro/cmake)
+[3.431s] -- Configuring done
+[3.439s] -- Generating done
+[3.439s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/pal_gripper_description
+[3.472s] Invoked command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/pal_gripper_description
+[3.478s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/pal_gripper_description -- -j7 -l7
+[3.686s] Invoked command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/pal_gripper_description -- -j7 -l7
+[3.689s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/pal_gripper_description
+[3.835s] -- Install configuration: ""
+[3.836s] -- Execute custom install script
+[3.837s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/gazebo/gazebo.urdf.xacro
+[3.837s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link.stl
+[3.846s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link_collision.stl
+[3.872s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link.stl
+[3.893s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link_collision.stl
+[3.914s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/robots/gripper_test.urdf.xacro
+[3.938s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/robots/upload.launch
+[3.975s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/robots/upload_gripper.launch
+[4.000s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/deg_to_rad.urdf.xacro
+[4.032s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.gazebo.xacro
+[4.053s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.ros2_control.xacro
+[4.071s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.transmission.xacro
+[4.096s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.urdf.xacro
+[4.125s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/urdf/materials.urdf.xacro
+[4.151s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/ament_index/resource_index/package_run_dependencies/pal_gripper_description
+[4.171s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/ament_index/resource_index/parent_prefix_path/pal_gripper_description
+[4.190s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.sh
+[4.210s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.dsv
+[4.239s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/environment/path.sh
+[4.271s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/environment/path.dsv
+[4.296s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/local_setup.bash
+[4.315s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/local_setup.sh
+[4.381s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/local_setup.zsh
+[4.482s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/local_setup.dsv
+[4.516s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/package.dsv
+[4.619s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/ament_index/resource_index/packages/pal_gripper_description
+[4.751s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.753s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig.cmake
+[4.782s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig-version.cmake
+[4.820s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pal_gripper_description/share/pal_gripper_description/package.xml
+[4.962s] Invoked command in '/home/khaledob/bookros2_ws/src/build/pal_gripper_description' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/urdf_test:/opt/ros/foxy PYTHONPATH=/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/pal_gripper_description

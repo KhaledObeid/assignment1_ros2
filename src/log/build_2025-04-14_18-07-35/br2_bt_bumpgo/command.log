@@ -1,0 +1,4 @@
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_bt_bumpgo

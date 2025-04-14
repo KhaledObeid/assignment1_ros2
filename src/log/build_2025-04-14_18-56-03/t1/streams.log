@@ -1,0 +1,27 @@
+[0.171s] Invoking command in '/home/khaledob/bookros2_ws/src/build/t1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/src/install/ros2controlcli:/home/khaledob/bookros2_ws/src/install/launch_pal:/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7
+[0.365s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.464s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t1/BumpGoNode.cpp.o[0m
+[9.382s] [ 66%] [32m[1mLinking CXX executable bumpgo[0m
+[9.772s] [100%] Built target bumpgo
+[9.794s] Invoked command in '/home/khaledob/bookros2_ws/src/build/t1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/src/install/ros2controlcli:/home/khaledob/bookros2_ws/src/install/launch_pal:/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7
+[9.816s] Invoking command in '/home/khaledob/bookros2_ws/src/build/t1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/src/install/ros2controlcli:/home/khaledob/bookros2_ws/src/install/launch_pal:/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/t1
+[9.832s] -- Install configuration: ""
+[9.832s] -- Execute custom install script
+[9.833s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/lib/t1/bumpgo
+[9.834s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/launch/bump_and_go.launch.py
+[9.834s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/package_run_dependencies/t1
+[9.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/parent_prefix_path/t1
+[9.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.sh
+[9.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.dsv
+[9.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.sh
+[9.837s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.dsv
+[9.839s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.bash
+[9.839s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.sh
+[9.840s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.zsh
+[9.840s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.dsv
+[9.840s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.dsv
+[9.857s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/packages/t1
+[9.857s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config.cmake
+[9.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config-version.cmake
+[9.859s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.xml
+[9.867s] Invoked command in '/home/khaledob/bookros2_ws/src/build/t1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/src/install/ros2controlcli:/home/khaledob/bookros2_ws/src/install/launch_pal:/home/khaledob/bookros2_ws/src/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/t1

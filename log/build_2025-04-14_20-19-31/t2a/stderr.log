@@ -1,0 +1,29 @@
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/t2a/BumpGoNode.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kt2b/BumpGoNode.hpp: No such file or directory
+    3 | #include [01;31m[K"t2b/BumpGoNode.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t2a/BumpGoNode.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:10:39:[m[K [01;31m[Kerror: [m[K‘[01m[Kt2a[m[K’ was not declared in this scope; did you mean ‘[01m[Kt2b[m[K’?
+   10 |   auto bumpgo_node = std::make_shared<[01;31m[Kt2a[m[K::BumpGoNode>();
+      |                                       [01;31m[K^~~[m[K
+      |                                       [32m[Kt2b[m[K
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:10:27:[m[K [01;31m[Kerror: [m[Kparse error in template argument list
+   10 |   auto bumpgo_node = std::[01;31m[Kmake_shared<t2a::BumpGoNode>[m[K();
+      |                           [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:10:56:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kmake_shared<<expression error> >()[m[K’
+   10 |   auto bumpgo_node = std::make_shared<t2a::BumpGoNode>([01;31m[K)[m[K;
+      |                                                        [01;31m[K^[m[K
+In file included from [01m[K/usr/include/c++/9/memory:81[m[K,
+                 from [01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/shared_ptr.h:714:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class ... _Args> std::shared_ptr<_Tp> std::make_shared(_Args&& ...)[m[K’
+  714 |     [01;36m[Kmake_shared[m[K(_Args&&... __args)
+      |     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/9/bits/shared_ptr.h:714:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/khaledob/bookros2_ws/src/t2a/src/bumpgo_main.cpp:10:56:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   10 |   auto bumpgo_node = std::make_shared<t2a::BumpGoNode>([01;31m[K)[m[K;
+      |                                                        [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/bumpgo.dir/build.make:76: CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

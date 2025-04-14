@@ -1,0 +1,41 @@
+[0.204s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_interface -- -j7 -l7
+[0.465s] [ 20%] Built target gmock
+[0.528s] [ 33%] Built target gmock_main
+[0.729s] [ 46%] Built target controller_interface
+[0.784s] [ 60%] Built target test_semantic_component_interface
+[0.784s] [ 73%] Built target test_imu_sensor
+[0.785s] [ 86%] Built target test_force_torque_sensor
+[0.817s] [100%] Built target test_controller_with_options
+[1.051s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_interface -- -j7 -l7
+[1.069s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_interface
+[1.116s] -- Install configuration: ""
+[1.117s] -- Execute custom install script
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/controller_interface/controller_interface.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/controller_interface/controller_state_names.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/controller_interface/helpers.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/controller_interface/visibility_control.h
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/semantic_components/force_torque_sensor.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/semantic_components/imu_sensor.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/include/semantic_components/semantic_component_interface.hpp
+[1.117s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/lib/libcontroller_interface.so
+[1.121s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/library_path.sh
+[1.121s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/library_path.dsv
+[1.121s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/ament_index/resource_index/package_run_dependencies/controller_interface
+[1.124s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/ament_index/resource_index/parent_prefix_path/controller_interface
+[1.124s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/ament_prefix_path.sh
+[1.140s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/ament_prefix_path.dsv
+[1.141s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/path.sh
+[1.145s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/environment/path.dsv
+[1.146s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/local_setup.bash
+[1.147s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/local_setup.sh
+[1.151s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/local_setup.zsh
+[1.152s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/local_setup.dsv
+[1.156s] -- Symlinking: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/package.dsv
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/ament_index/resource_index/packages/controller_interface
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake/controller_interfaceConfig.cmake
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake/controller_interfaceConfig-version.cmake
+[1.166s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/package.xml
+[1.599s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_interface

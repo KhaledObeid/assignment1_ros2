@@ -1,0 +1,34 @@
+[0.261s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pmb2_maps': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/pmb2_maps -- -j7 -l7
+[0.432s] Invoked command in '/home/khaledob/bookros2_ws/src/build/pmb2_maps' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/pmb2_maps -- -j7 -l7
+[0.434s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pmb2_maps': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/pmb2_maps
+[0.453s] -- Install configuration: ""
+[0.454s] -- Execute custom install script
+[0.457s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/config/map.pgm
+[0.458s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/config/map.yaml
+[0.458s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/config/mmap.yaml
+[0.458s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/map.pgm
+[0.459s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/map.yaml
+[0.459s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/mmap.yaml
+[0.460s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.bmp
+[0.460s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.bt
+[0.461s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.ot
+[0.462s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.pgm
+[0.462s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.yaml
+[0.464s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/mmap.yaml
+[0.464s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/configurations/small_office/transformation.yaml
+[0.465s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/ament_index/resource_index/package_run_dependencies/pmb2_maps
+[0.465s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/ament_index/resource_index/parent_prefix_path/pmb2_maps
+[0.468s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/environment/ament_prefix_path.sh
+[0.468s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/environment/ament_prefix_path.dsv
+[0.468s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/environment/path.sh
+[0.469s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/environment/path.dsv
+[0.470s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/local_setup.bash
+[0.470s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/local_setup.sh
+[0.471s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/local_setup.zsh
+[0.472s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/local_setup.dsv
+[0.472s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/package.dsv
+[0.492s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/ament_index/resource_index/packages/pmb2_maps
+[0.493s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/cmake/pmb2_mapsConfig.cmake
+[0.509s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/cmake/pmb2_mapsConfig-version.cmake
+[0.512s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/pmb2_maps/share/pmb2_maps/package.xml
+[0.824s] Invoked command in '/home/khaledob/bookros2_ws/src/build/pmb2_maps' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/pmb2_maps

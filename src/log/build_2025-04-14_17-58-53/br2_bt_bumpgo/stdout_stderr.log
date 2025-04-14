@@ -1,0 +1,16 @@
+[ 11%] Built target br2_forward_bt_node
+[ 22%] Built target gtest
+[ 33%] Built target gtest_main
+[ 44%] Built target bt_forward
+[ 55%] Built target bt_action_test
+[ 66%] Built target br2_is_obstacle_bt_node
+[ 72%] [32m[1mLinking CXX shared library libbr2_back_bt_node.so[0m
+[ 77%] Built target br2_back_bt_node
+[35m[1mScanning dependencies of target bt_bumpgo[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/bt_bumpgo.dir/src/bt_bumpgo_main.cpp.o[0m
+[ 88%] [32m[1mLinking CXX executable bt_bumpgo[0m
+[ 88%] Built target bt_bumpgo
+[35m[1mScanning dependencies of target br2_turn_bt_node[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/br2_turn_bt_node.dir/src/br2_bt_bumpgo/Turn.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libbr2_turn_bt_node.so[0m
+[100%] Built target br2_turn_bt_node

@@ -1,0 +1,58 @@
+[0.306s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_manager': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_manager -- -j7 -l7
+[0.852s] [  8%] Built target controller_manager
+[0.866s] [ 16%] Built target gmock_main
+[1.161s] [ 24%] Built target test_controller_failed_init
+[1.394s] [ 32%] Built target ros2_control_node
+[1.629s] [ 40%] Built target test_controller
+[1.859s] [ 48%] Built target test_controller_with_interfaces
+[2.080s] [ 60%] Built target gmock
+[2.378s] [ 68%] Built target test_release_interfaces
+[2.711s] [ 76%] Built target test_controller_manager_srvs
+[2.985s] [ 84%] Built target test_spawner_unspawner
+[3.211s] [ 92%] Built target test_load_controller
+[3.345s] [100%] Built target test_controller_manager
+[3.771s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_manager' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/controller_manager -- -j7 -l7
+[3.773s] Invoking command in '/home/khaledob/bookros2_ws/build/controller_manager': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_manager
+[3.835s] -- Install configuration: ""
+[3.835s] -- Execute custom install script
+[3.835s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/libcontroller_manager.so
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/controller_manager/ros2_control_node
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/include/controller_manager/controller_manager.hpp
+[3.836s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/include/controller_manager/controller_spec.hpp
+[3.837s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/include/controller_manager/visibility_control.h
+[3.837s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/controller_manager/spawner.py
+[3.838s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/controller_manager/unspawner.py
+[3.838s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/test/test_controller/test_controller.xml
+[3.838s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/libtest_controller.so
+[3.839s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/test/test_controller_failed_init/test_controller_failed_init.xml
+[3.864s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/libtest_controller_failed_init.so
+[3.865s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/test/test_controller_with_interfaces/test_controller_with_interfaces.xml
+[3.866s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/libtest_controller_with_interfaces.so
+[3.866s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/pythonpath.sh
+[3.866s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/pythonpath.dsv
+[3.872s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages/controller_manager/__init__.py
+[3.872s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages/controller_manager/controller_manager_services.py
+[3.872s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages/controller_manager/launch_utils.py
+[3.873s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/library_path.sh
+[3.873s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/library_path.dsv
+[3.874s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/ament_index/resource_index/package_run_dependencies/controller_manager
+[3.874s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/ament_index/resource_index/parent_prefix_path/controller_manager
+[3.874s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/ament_prefix_path.sh
+[3.951s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/ament_prefix_path.dsv
+[3.951s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/path.sh
+[3.951s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/environment/path.dsv
+[3.951s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/local_setup.bash
+[3.951s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/local_setup.sh
+[3.952s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/local_setup.zsh
+[3.952s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/local_setup.dsv
+[3.952s] -- Symlinking: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/package.dsv
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/ament_index/resource_index/packages/controller_manager
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/ament_index/resource_index/controller_interface__pluginlib__plugin/controller_manager
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_libraries-extras.cmake
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.953s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake
+[3.965s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake
+[3.975s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/package.xml
+[3.980s] Listing '/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages/controller_manager'...
+[4.070s] Invoked command in '/home/khaledob/bookros2_ws/build/controller_manager' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/controller_manager

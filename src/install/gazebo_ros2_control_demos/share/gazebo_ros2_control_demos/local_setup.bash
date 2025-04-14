@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/gazebo_ros2_control_demos/ament_cmake_environment_hooks/local_setup.bash

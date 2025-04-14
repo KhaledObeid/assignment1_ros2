@@ -1,0 +1,17 @@
+/home/khaledob/bookros2_ws/src/install/task2a/lib/task2a/node
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/launch/my_launch2a_file.py
+/home/khaledob/bookros2_ws/src/install/task2a/share/ament_index/resource_index/package_run_dependencies/task2a
+/home/khaledob/bookros2_ws/src/install/task2a/share/ament_index/resource_index/parent_prefix_path/task2a
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/environment/ament_prefix_path.sh
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/environment/ament_prefix_path.dsv
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/environment/path.sh
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/environment/path.dsv
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/local_setup.bash
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/local_setup.sh
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/local_setup.zsh
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/local_setup.dsv
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/package.dsv
+/home/khaledob/bookros2_ws/src/install/task2a/share/ament_index/resource_index/packages/task2a
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/cmake/task2aConfig.cmake
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/cmake/task2aConfig-version.cmake
+/home/khaledob/bookros2_ws/src/install/task2a/share/task2a/package.xml

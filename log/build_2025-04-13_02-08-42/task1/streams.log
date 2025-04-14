@@ -1,0 +1,19 @@
+[0.228s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.393s] [35m[1mScanning dependencies of target node[0m
+[0.482s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[4.867s] [ 66%] [32m[1mLinking CXX executable node[0m
+[5.569s] [100%] Built target node
+[5.821s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[5.822s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1
+[5.878s] -- Install configuration: ""
+[5.878s] -- Execute custom install script
+[5.878s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/lib/task1/node
+[5.924s] CMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[5.925s]   ament_cmake_symlink_install_directory() can't find
+[5.925s]   '/home/khaledob/bookros2_ws/src/task1/launch'
+[5.925s] Call Stack (most recent call first):
+[5.925s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:317 (ament_cmake_symlink_install_directory)
+[5.925s]   cmake_install.cmake:41 (include)
+[5.925s] 
+[5.925s] 
+[6.012s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1

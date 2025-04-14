@@ -1,0 +1,42 @@
+[0.330s] Invoking command in '/home/khaledob/bookros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package
+[0.501s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.544s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.848s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.894s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.229s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.273s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.798s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.868s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.367s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.736s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.761s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.795s] -- Looking for pthread.h
+[3.118s] -- Looking for pthread.h - found
+[3.118s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.383s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.383s] -- Looking for pthread_create in pthreads
+[3.651s] -- Looking for pthread_create in pthreads - not found
+[3.654s] -- Looking for pthread_create in pthread
+[4.021s] -- Looking for pthread_create in pthread - found
+[4.022s] -- Found Threads: TRUE  
+[4.445s] CMake Error at CMakeLists.txt:21 (find_package):
+[4.446s]   By not providing "Findstd_mgs.cmake" in CMAKE_MODULE_PATH this project has
+[4.446s]   asked CMake to find a package configuration file provided by "std_mgs", but
+[4.446s]   CMake did not find one.
+[4.446s] 
+[4.446s]   Could not find a package configuration file provided by "std_mgs" with any
+[4.446s]   of the following names:
+[4.446s] 
+[4.446s]     std_mgsConfig.cmake
+[4.446s]     std_mgs-config.cmake
+[4.446s] 
+[4.446s]   Add the installation prefix of "std_mgs" to CMAKE_PREFIX_PATH or set
+[4.446s]   "std_mgs_DIR" to a directory containing one of the above files.  If
+[4.446s]   "std_mgs" provides a separate development package or SDK, be sure it has
+[4.446s]   been installed.
+[4.446s] 
+[4.446s] 
+[4.446s] -- Configuring incomplete, errors occurred!
+[4.447s] See also "/home/khaledob/bookros2_ws/build/my_package/CMakeFiles/CMakeOutput.log".
+[4.447s] See also "/home/khaledob/bookros2_ws/build/my_package/CMakeFiles/CMakeError.log".
+[4.461s] Invoked command in '/home/khaledob/bookros2_ws/build/my_package' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/my_package

@@ -1,0 +1,11 @@
+CMake Error at CMakeLists.txt:23 (target_include_directories):
+  Cannot specify include directories for target "bumpgo" which is not built
+  by this project.
+
+
+CMake Error at /opt/ros/foxy/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:42 (message):
+  ament_target_dependencies() the first argument must be a valid target name
+Call Stack (most recent call first):
+  CMakeLists.txt:28 (ament_target_dependencies)
+
+

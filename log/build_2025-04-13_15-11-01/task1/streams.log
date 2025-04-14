@@ -1,0 +1,28 @@
+[0.302s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.516s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.723s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.645s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.791s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.023s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.027s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.652s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.878s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.880s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.448s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[4.322s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.849s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.850s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.850s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task1/include>
+[4.850s] -- Configured cppcheck exclude dirs and/or files: 
+[4.850s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.851s] -- Configured cpplint exclude dirs and/or files: 
+[4.851s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.871s] -- Added test 'lint_cmake' to check CMake code style
+[4.872s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.872s] -- Added test 'uncrustify' to check C / C++ code style
+[4.872s] -- Configured uncrustify additional arguments: 
+[4.872s] -- Added test 'xmllint' to check XML markup files
+[4.872s] -- Configuring done
+[4.984s] -- Generating done
+[5.018s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task1
+[5.337s] [100%] Built target node

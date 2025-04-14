@@ -1,0 +1,24 @@
+[0.206s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp -- -j7 -l7
+[0.760s] [100%] Built target bumpgo
+[2.190s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp -- -j7 -l7
+[2.191s] Invoking command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp
+[2.488s] -- Install configuration: ""
+[2.489s] -- Execute custom install script
+[2.489s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/lib/br2_fsm_bumpgo_cpp/bumpgo
+[2.496s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/launch/bump_and_go.launch.py
+[2.518s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/package_run_dependencies/br2_fsm_bumpgo_cpp
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/parent_prefix_path/br2_fsm_bumpgo_cpp
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/ament_prefix_path.sh
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/ament_prefix_path.dsv
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/path.sh
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/environment/path.dsv
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.bash
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.sh
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.zsh
+[2.519s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/local_setup.dsv
+[2.519s] -- Symlinking: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/package.dsv
+[2.520s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/ament_index/resource_index/packages/br2_fsm_bumpgo_cpp
+[2.520s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/cmake/br2_fsm_bumpgo_cppConfig.cmake
+[2.520s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/cmake/br2_fsm_bumpgo_cppConfig-version.cmake
+[2.520s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_cpp/share/br2_fsm_bumpgo_cpp/package.xml
+[3.235s] Invoked command in '/home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_fsm_bumpgo_cpp

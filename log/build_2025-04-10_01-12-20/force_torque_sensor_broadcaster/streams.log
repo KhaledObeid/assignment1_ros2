@@ -1,0 +1,99 @@
+[0.765s] Invoking command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/force_torque_sensor_broadcaster -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster
+[0.996s] -- The C compiler identification is GNU 9.4.0
+[1.086s] -- The CXX compiler identification is GNU 9.4.0
+[1.093s] -- Check for working C compiler: /usr/bin/cc
+[1.192s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.194s] -- Detecting C compiler ABI info
+[1.301s] -- Detecting C compiler ABI info - done
+[1.318s] -- Detecting C compile features
+[1.318s] -- Detecting C compile features - done
+[1.322s] -- Check for working CXX compiler: /usr/bin/c++
+[1.456s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.459s] -- Detecting CXX compiler ABI info
+[1.588s] -- Detecting CXX compiler ABI info - done
+[1.604s] -- Detecting CXX compile features
+[1.605s] -- Detecting CXX compile features - done
+[1.609s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.645s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.645s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.889s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.922s] -- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake)
+[1.972s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.982s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.117s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.159s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.273s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.080s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.083s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.085s] -- Looking for pthread.h
+[3.205s] -- Looking for pthread.h - found
+[3.205s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.316s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[3.316s] -- Looking for pthread_create in pthreads
+[3.408s] -- Looking for pthread_create in pthreads - not found
+[3.408s] -- Looking for pthread_create in pthread
+[4.446s] -- Looking for pthread_create in pthread - found
+[4.447s] -- Found Threads: TRUE  
+[4.447s] -- Found realtime_tools: 2.2.0 (/opt/ros/foxy/share/realtime_tools/cmake)
+[4.447s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[4.447s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[4.447s] -- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[4.447s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[4.447s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[4.447s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[4.551s] -- Configuring done
+[4.661s] -- Generating done
+[4.710s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster
+[4.732s] Invoked command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/force_torque_sensor_broadcaster -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster
+[4.733s] Invoking command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster -- -j4 -l4
+[4.803s] [35m[1mScanning dependencies of target gmock[0m
+[4.836s] [  9%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[9.381s] [ 18%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[11.986s] [ 27%] [32m[1mLinking CXX static library libgmock.a[0m
+[12.088s] [ 27%] Built target gmock
+[12.106s] [35m[1mScanning dependencies of target gmock_main[0m
+[12.136s] [ 36%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[13.878s] [ 45%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[13.942s] [ 45%] Built target gmock_main
+[13.966s] [35m[1mScanning dependencies of target force_torque_sensor_broadcaster[0m
+[14.040s] [ 54%] [32mBuilding CXX object CMakeFiles/force_torque_sensor_broadcaster.dir/src/force_torque_sensor_broadcaster.cpp.o[0m
+[19.299s] [ 63%] [32m[1mLinking CXX shared library libforce_torque_sensor_broadcaster.so[0m
+[19.691s] [ 63%] Built target force_torque_sensor_broadcaster
+[19.713s] [35m[1mScanning dependencies of target test_load_force_torque_sensor_broadcaster[0m
+[19.826s] [ 72%] [32mBuilding CXX object CMakeFiles/test_load_force_torque_sensor_broadcaster.dir/test/test_load_force_torque_sensor_broadcaster.cpp.o[0m
+[24.134s] [ 81%] [32m[1mLinking CXX executable test_load_force_torque_sensor_broadcaster[0m
+[25.395s] [ 81%] Built target test_load_force_torque_sensor_broadcaster
+[25.418s] [35m[1mScanning dependencies of target test_force_torque_sensor_broadcaster[0m
+[25.514s] [ 90%] [32mBuilding CXX object CMakeFiles/test_force_torque_sensor_broadcaster.dir/test/test_force_torque_sensor_broadcaster.cpp.o[0m
+[37.480s] [100%] [32m[1mLinking CXX executable test_force_torque_sensor_broadcaster[0m
+[38.580s] [100%] Built target test_force_torque_sensor_broadcaster
+[38.607s] Invoked command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster -- -j4 -l4
+[38.612s] Invoking command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster
+[38.630s] -- Install configuration: ""
+[38.631s] -- Execute custom install script
+[38.632s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster//force_torque_sensor_broadcaster.xml
+[38.644s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/lib/libforce_torque_sensor_broadcaster.so
+[38.670s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/include/force_torque_sensor_broadcaster/force_torque_sensor_broadcaster.hpp
+[38.696s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/include/force_torque_sensor_broadcaster/visibility_control.h
+[38.731s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/library_path.sh
+[38.745s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/library_path.dsv
+[38.758s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/ament_index/resource_index/package_run_dependencies/force_torque_sensor_broadcaster
+[38.784s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/ament_index/resource_index/parent_prefix_path/force_torque_sensor_broadcaster
+[38.799s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/ament_prefix_path.sh
+[38.814s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/ament_prefix_path.dsv
+[38.848s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/path.sh
+[38.867s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/environment/path.dsv
+[38.881s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/local_setup.bash
+[38.895s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/local_setup.sh
+[38.928s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/local_setup.zsh
+[38.942s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/local_setup.dsv
+[38.955s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/package.dsv
+[38.969s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/ament_index/resource_index/packages/force_torque_sensor_broadcaster
+[38.984s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/ament_index/resource_index/controller_interface__pluginlib__plugin/force_torque_sensor_broadcaster
+[38.999s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/cmake/ament_cmake_export_include_directories-extras.cmake
+[39.013s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/cmake/ament_cmake_export_libraries-extras.cmake
+[39.028s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/cmake/ament_cmake_export_dependencies-extras.cmake
+[39.043s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/cmake/force_torque_sensor_broadcasterConfig.cmake
+[39.057s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/cmake/force_torque_sensor_broadcasterConfig-version.cmake
+[39.083s] -- Symlinking: /home/khaledob/bookros2_ws/install/force_torque_sensor_broadcaster/share/force_torque_sensor_broadcaster/package.xml
+[39.102s] Invoked command in '/home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/force_torque_sensor_broadcaster

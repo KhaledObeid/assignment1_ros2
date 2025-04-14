@@ -1,0 +1,1 @@
+xacro;launch;launch_ros;launch_pal;joint_state_publisher_gui;pmb2_controller_configuration;ament_lint_auto;ament_lint_common;launch_testing_ament_cmake;urdf_test

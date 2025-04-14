@@ -1,0 +1,36 @@
+[ 14%] Built target gtest
+[ 42%] Built target br2_tracking
+[ 57%] Built target gtest_main
+[ 71%] Built target object_tracker
+[ 85%] Built target pid_test
+[100%] Built target object_detector
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/lib/libbr2_tracking.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/lib/br2_tracking/object_detector
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/lib/br2_tracking/object_tracker
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/include/include/br2_tracking/HeadController.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/include/include/br2_tracking/ObjectDetector.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/include/include/br2_tracking/PIDController.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/launch/tracking.launch.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/config/detector.yaml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/library_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/library_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/ament_index/resource_index/package_run_dependencies/br2_tracking
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/ament_index/resource_index/parent_prefix_path/br2_tracking
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/ament_index/resource_index/packages/br2_tracking
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/cmake/br2_trackingConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/cmake/br2_trackingConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tracking/share/br2_tracking/package.xml

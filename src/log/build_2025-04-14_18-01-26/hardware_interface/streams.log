@@ -1,0 +1,67 @@
+[0.469s] Invoking command in '/home/khaledob/bookros2_ws/src/build/hardware_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/hardware_interface -- -j7 -l7
+[0.663s] [  8%] Built target gmock
+[0.664s] [ 17%] Built target gmock_main
+[0.664s] [ 32%] Built target hardware_interface
+[0.763s] [ 44%] Built target test_components
+[0.764s] [ 58%] Built target test_hardware_components
+[0.764s] [ 64%] Built target fake_components
+[0.771s] [ 70%] Built target test_component_interfaces
+[0.773s] [ 76%] Built target test_generic_system
+[0.813s] [ 82%] Built target test_joint_handle
+[0.848s] [ 88%] Built target test_component_parser
+[0.857s] [ 94%] Built target test_macros
+[0.902s] [100%] Built target test_resource_manager
+[1.006s] Invoked command in '/home/khaledob/bookros2_ws/src/build/hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/hardware_interface -- -j7 -l7
+[1.019s] Invoking command in '/home/khaledob/bookros2_ws/src/build/hardware_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/hardware_interface
+[1.076s] -- Install configuration: ""
+[1.077s] -- Execute custom install script
+[1.077s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface//fake_components_plugin_description.xml
+[1.078s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/fake_components/generic_system.hpp
+[1.078s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/fake_components/visibility_control.h
+[1.079s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/actuator.hpp
+[1.079s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/actuator_interface.hpp
+[1.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/base_interface.hpp
+[1.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/component_parser.hpp
+[1.081s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/controller_info.hpp
+[1.081s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/handle.hpp
+[1.081s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/hardware_info.hpp
+[1.082s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/loaned_command_interface.hpp
+[1.084s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/loaned_state_interface.hpp
+[1.084s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/macros.hpp
+[1.084s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/resource_manager.hpp
+[1.084s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/sensor.hpp
+[1.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/sensor_interface.hpp
+[1.085s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/system.hpp
+[1.086s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/system_interface.hpp
+[1.087s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/types/hardware_interface_return_values.hpp
+[1.087s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/types/hardware_interface_status_values.hpp
+[1.087s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/types/hardware_interface_type_values.hpp
+[1.087s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/include/hardware_interface/visibility_control.h
+[1.088s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/lib/libfake_components.so
+[1.089s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/lib/libhardware_interface.so
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/lib/libtest_components.so
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/test/test_components/test_components.xml
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/lib/libtest_hardware_components.so
+[1.097s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/test/test_hardware_components/test_hardware_components.xml
+[1.098s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/library_path.sh
+[1.099s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/library_path.dsv
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/ament_index/resource_index/package_run_dependencies/hardware_interface
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/ament_index/resource_index/parent_prefix_path/hardware_interface
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/ament_prefix_path.sh
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/ament_prefix_path.dsv
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/path.sh
+[1.101s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/environment/path.dsv
+[1.102s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/local_setup.bash
+[1.102s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/local_setup.sh
+[1.103s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/local_setup.zsh
+[1.103s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/local_setup.dsv
+[1.103s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/package.dsv
+[1.129s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/ament_index/resource_index/packages/hardware_interface
+[1.147s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/hardware_interface
+[1.147s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.148s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.150s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.151s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig.cmake
+[1.151s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake
+[1.151s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/package.xml
+[1.190s] Invoked command in '/home/khaledob/bookros2_ws/src/build/hardware_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/hardware_interface

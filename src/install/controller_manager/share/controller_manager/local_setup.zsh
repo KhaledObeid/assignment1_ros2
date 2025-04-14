@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/build/controller_manager/ament_cmake_environment_hooks/local_setup.zsh

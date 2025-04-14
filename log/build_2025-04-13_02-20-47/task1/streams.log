@@ -1,0 +1,27 @@
+[0.135s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[0.330s] [35m[1mScanning dependencies of target node[0m
+[0.412s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task1_main.cpp.o[0m
+[5.401s] [ 66%] [32m[1mLinking CXX executable node[0m
+[6.082s] [100%] Built target node
+[6.174s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task1 -- -j7 -l7
+[6.181s] Invoking command in '/home/khaledob/bookros2_ws/build/task1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1
+[6.190s] -- Install configuration: ""
+[6.191s] -- Execute custom install script
+[6.191s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/task1/lib/task1/node
+[6.192s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/launch/my_launch_file
+[6.214s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/package_run_dependencies/task1
+[6.235s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/parent_prefix_path/task1
+[6.252s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.sh
+[6.268s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/ament_prefix_path.dsv
+[6.281s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.sh
+[6.306s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/environment/path.dsv
+[6.349s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.bash
+[6.397s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.sh
+[6.428s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.zsh
+[6.449s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/local_setup.dsv
+[6.480s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.dsv
+[6.517s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/ament_index/resource_index/packages/task1
+[6.566s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config.cmake
+[6.573s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/cmake/task1Config-version.cmake
+[6.581s] -- Symlinking: /home/khaledob/bookros2_ws/install/task1/share/task1/package.xml
+[6.599s] Invoked command in '/home/khaledob/bookros2_ws/build/task1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task1

@@ -1,0 +1,22 @@
+[0.168s] Invoking command in '/home/khaledob/bookros2_ws/src/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/pmb2_2dnav:/home/khaledob/bookros2_ws/src/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/pmb2_2dnav:/home/khaledob/bookros2_ws/src/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/pmb2_navigation
+[2.464s] -- The C compiler identification is GNU 9.4.0
+[3.859s] -- The CXX compiler identification is GNU 9.4.0
+[4.508s] -- Check for working C compiler: /usr/bin/cc
+[4.972s] -- Check for working C compiler: /usr/bin/cc -- works
+[4.977s] -- Detecting C compiler ABI info
+[7.332s] -- Detecting C compiler ABI info - done
+[7.357s] -- Detecting C compile features
+[7.358s] -- Detecting C compile features - done
+[7.364s] -- Check for working CXX compiler: /usr/bin/c++
+[9.526s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[9.528s] -- Detecting CXX compiler ABI info
+[10.372s] -- Detecting CXX compiler ABI info - done
+[10.400s] -- Detecting CXX compile features
+[10.402s] -- Detecting CXX compile features - done
+[10.927s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[11.074s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[11.075s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[11.641s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[11.896s] -- Configuring done
+[11.903s] -- Generating done
+[11.910s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/pmb2_navigation

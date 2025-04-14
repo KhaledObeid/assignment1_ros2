@@ -1,0 +1,59 @@
+[0.121s] Invoking command in '/home/khaledob/bookros2_ws/src/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/urdf_test -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/urdf_test
+[1.146s] -- The C compiler identification is GNU 9.4.0
+[1.378s] -- The CXX compiler identification is GNU 9.4.0
+[1.410s] -- Check for working C compiler: /usr/bin/cc
+[1.691s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.692s] -- Detecting C compiler ABI info
+[1.948s] -- Detecting C compiler ABI info - done
+[1.961s] -- Detecting C compile features
+[1.966s] -- Detecting C compile features - done
+[1.993s] -- Check for working CXX compiler: /usr/bin/c++
+[2.261s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.261s] -- Detecting CXX compiler ABI info
+[2.476s] -- Detecting CXX compiler ABI info - done
+[2.494s] -- Detecting CXX compile features
+[2.495s] -- Detecting CXX compile features - done
+[2.508s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[2.724s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.724s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.373s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.753s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[4.015s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.015s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.020s] -- Added test 'lint_cmake' to check CMake code style
+[4.030s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.039s] -- Added test 'xmllint' to check XML markup files
+[4.060s] -- Configuring done
+[4.065s] -- Generating done
+[4.068s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/urdf_test
+[4.163s] Invoked command in '/home/khaledob/bookros2_ws/src/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/urdf_test -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/urdf_test
+[4.179s] Invoking command in '/home/khaledob/bookros2_ws/src/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/urdf_test -- -j7 -l7
+[4.390s] Invoked command in '/home/khaledob/bookros2_ws/src/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/urdf_test -- -j7 -l7
+[4.398s] Invoking command in '/home/khaledob/bookros2_ws/src/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/urdf_test
+[4.530s] -- Install configuration: ""
+[4.530s] -- Execute custom install script
+[4.530s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/urdf_test/test_urdf.py
+[4.531s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/pythonpath.sh
+[4.531s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/pythonpath.dsv
+[4.531s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/__init__.py
+[4.545s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/description_test.py
+[4.567s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+[4.590s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+[4.629s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+[4.650s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+[4.675s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/path.sh
+[4.733s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/environment/path.dsv
+[4.762s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.bash
+[4.815s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.sh
+[4.861s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.zsh
+[4.948s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/local_setup.dsv
+[4.994s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/package.dsv
+[5.034s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+[5.089s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.090s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+[5.169s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+[5.195s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/urdf_test/share/urdf_test/package.xml
+[5.331s] Listing '/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test'...
+[5.332s] Compiling '/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/__init__.py'...
+[5.332s] Compiling '/home/khaledob/bookros2_ws/src/install/urdf_test/lib/python3.8/site-packages/urdf_test/description_test.py'...
+[5.390s] Invoked command in '/home/khaledob/bookros2_ws/src/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/urdf_test

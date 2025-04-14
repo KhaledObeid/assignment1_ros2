@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/lib/urdf_test/test_urdf.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/pythonpath.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/lib/python3.8/site-packages/urdf_test/__init__.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/lib/python3.8/site-packages/urdf_test/description_test.py
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/path.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/environment/path.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/local_setup.bash
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/local_setup.sh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/local_setup.zsh
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/package.dsv
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+-- Up-to-date symlink: /home/khaledob/bookros2_ws/install/urdf_test/share/urdf_test/package.xml
+Listing '/home/khaledob/bookros2_ws/install/urdf_test/lib/python3.8/site-packages/urdf_test'...

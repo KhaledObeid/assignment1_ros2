@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/build/tiago_2dnav_gazebo/ament_cmake_environment_hooks/local_setup.sh

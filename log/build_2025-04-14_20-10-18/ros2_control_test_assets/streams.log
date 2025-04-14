@@ -1,0 +1,24 @@
+[0.288s] Invoking command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/ros2_control_test_assets -- -j7 -l7
+[0.936s] Invoked command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/ros2_control_test_assets -- -j7 -l7
+[0.981s] Invoking command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/ros2_control_test_assets
+[1.067s] -- Install configuration: ""
+[1.069s] -- Execute custom install script
+[1.070s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/include/ros2_control_test_assets/components_urdfs.hpp
+[1.075s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/include/ros2_control_test_assets/descriptions.hpp
+[1.076s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/package_run_dependencies/ros2_control_test_assets
+[1.077s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/parent_prefix_path/ros2_control_test_assets
+[1.079s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.sh
+[1.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.dsv
+[1.080s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.sh
+[1.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.dsv
+[1.094s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.bash
+[1.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.sh
+[1.095s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.zsh
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.dsv
+[1.096s] -- Symlinking: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/package.dsv
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/packages/ros2_control_test_assets
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig.cmake
+[1.096s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig-version.cmake
+[1.097s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/package.xml
+[1.179s] Invoked command in '/home/khaledob/bookros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/ros2_control_test_assets

@@ -1,0 +1,110 @@
+[0.635s] Invoking command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/imu_sensor_broadcaster -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/imu_sensor_broadcaster
+[0.977s] -- The C compiler identification is GNU 9.4.0
+[1.138s] -- The CXX compiler identification is GNU 9.4.0
+[1.149s] -- Check for working C compiler: /usr/bin/cc
+[1.410s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.418s] -- Detecting C compiler ABI info
+[1.692s] -- Detecting C compiler ABI info - done
+[1.722s] -- Detecting C compile features
+[1.724s] -- Detecting C compile features - done
+[1.730s] -- Check for working CXX compiler: /usr/bin/c++
+[2.145s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.147s] -- Detecting CXX compiler ABI info
+[2.272s] -- Detecting CXX compiler ABI info - done
+[2.289s] -- Detecting CXX compile features
+[2.291s] -- Detecting CXX compile features - done
+[2.295s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.332s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.333s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.585s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.627s] -- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake)
+[2.695s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.710s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.845s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.901s] -- Found FastRTPS: /opt/ros/foxy/include  
+[3.031s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.946s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.948s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.951s] -- Looking for pthread.h
+[4.175s] -- Looking for pthread.h - found
+[4.176s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.399s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[5.400s] -- Looking for pthread_create in pthreads
+[5.496s] -- Looking for pthread_create in pthreads - not found
+[5.497s] -- Looking for pthread_create in pthread
+[5.624s] -- Looking for pthread_create in pthread - found
+[5.626s] -- Found Threads: TRUE  
+[6.045s] -- Found realtime_tools: 2.2.0 (/opt/ros/foxy/share/realtime_tools/cmake)
+[6.191s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[6.194s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[6.195s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[6.292s] -- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[6.395s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[6.445s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[6.446s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[6.805s] -- Added test 'copyright' to check source files copyright and LICENSE
+[6.808s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.809s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/imu_sensor_broadcaster/include
+[6.810s] -- Configured cppcheck exclude dirs and/or files: 
+[6.812s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[6.812s] -- Configured cpplint exclude dirs and/or files: 
+[6.814s] -- Added test 'lint_cmake' to check CMake code style
+[6.816s] -- Added test 'uncrustify' to check C / C++ code style
+[6.816s] -- Configured uncrustify additional arguments: 
+[6.817s] -- Added test 'xmllint' to check XML markup files
+[6.826s] -- Configuring done
+[6.934s] -- Generating done
+[6.984s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/imu_sensor_broadcaster
+[7.009s] Invoked command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/imu_sensor_broadcaster -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/imu_sensor_broadcaster
+[7.010s] Invoking command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/imu_sensor_broadcaster -- -j4 -l4
+[7.098s] [35m[1mScanning dependencies of target gmock[0m
+[7.142s] [  9%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[11.749s] [ 18%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[14.277s] [ 27%] [32m[1mLinking CXX static library libgmock.a[0m
+[14.395s] [ 27%] Built target gmock
+[14.415s] [35m[1mScanning dependencies of target gmock_main[0m
+[14.443s] [ 36%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[15.647s] [ 45%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[15.712s] [ 45%] Built target gmock_main
+[15.733s] [35m[1mScanning dependencies of target imu_sensor_broadcaster[0m
+[15.802s] [ 54%] [32mBuilding CXX object CMakeFiles/imu_sensor_broadcaster.dir/src/imu_sensor_broadcaster.cpp.o[0m
+[20.753s] [ 63%] [32m[1mLinking CXX shared library libimu_sensor_broadcaster.so[0m
+[21.083s] [ 63%] Built target imu_sensor_broadcaster
+[21.103s] [35m[1mScanning dependencies of target test_load_imu_sensor_broadcaster[0m
+[21.188s] [ 72%] [32mBuilding CXX object CMakeFiles/test_load_imu_sensor_broadcaster.dir/test/test_load_imu_sensor_broadcaster.cpp.o[0m
+[25.562s] [ 81%] [32m[1mLinking CXX executable test_load_imu_sensor_broadcaster[0m
+[26.816s] [ 81%] Built target test_load_imu_sensor_broadcaster
+[26.838s] [35m[1mScanning dependencies of target test_imu_sensor_broadcaster[0m
+[26.923s] [ 90%] [32mBuilding CXX object CMakeFiles/test_imu_sensor_broadcaster.dir/test/test_imu_sensor_broadcaster.cpp.o[0m
+[36.422s] [100%] [32m[1mLinking CXX executable test_imu_sensor_broadcaster[0m
+[37.575s] [100%] Built target test_imu_sensor_broadcaster
+[37.609s] Invoked command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/imu_sensor_broadcaster -- -j4 -l4
+[37.611s] Invoking command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/imu_sensor_broadcaster
+[37.629s] -- Install configuration: ""
+[37.630s] -- Execute custom install script
+[37.632s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster//imu_sensor_broadcaster.xml
+[37.647s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/lib/libimu_sensor_broadcaster.so
+[37.664s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/include/imu_sensor_broadcaster/imu_sensor_broadcaster.hpp
+[37.682s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/include/imu_sensor_broadcaster/visibility_control.h
+[37.702s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/library_path.sh
+[37.720s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/library_path.dsv
+[37.737s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/ament_index/resource_index/package_run_dependencies/imu_sensor_broadcaster
+[37.757s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/ament_index/resource_index/parent_prefix_path/imu_sensor_broadcaster
+[37.774s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/ament_prefix_path.sh
+[37.789s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/ament_prefix_path.dsv
+[37.805s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/path.sh
+[37.828s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/environment/path.dsv
+[37.843s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/local_setup.bash
+[37.858s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/local_setup.sh
+[37.874s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/local_setup.zsh
+[37.888s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/local_setup.dsv
+[37.905s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/package.dsv
+[37.924s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/ament_index/resource_index/packages/imu_sensor_broadcaster
+[37.939s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/ament_index/resource_index/controller_interface__pluginlib__plugin/imu_sensor_broadcaster
+[37.955s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/cmake/ament_cmake_export_include_directories-extras.cmake
+[37.970s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/cmake/ament_cmake_export_libraries-extras.cmake
+[37.987s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/cmake/ament_cmake_export_dependencies-extras.cmake
+[38.003s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/cmake/imu_sensor_broadcasterConfig.cmake
+[38.019s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/cmake/imu_sensor_broadcasterConfig-version.cmake
+[38.037s] -- Symlinking: /home/khaledob/bookros2_ws/install/imu_sensor_broadcaster/share/imu_sensor_broadcaster/package.xml
+[38.070s] Invoked command in '/home/khaledob/bookros2_ws/build/imu_sensor_broadcaster' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/imu_sensor_broadcaster

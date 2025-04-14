@@ -1,0 +1,3 @@
+make[2]: *** [tests/CMakeFiles/bt_action_test.dir/build.make:63: tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:376: tests/CMakeFiles/bt_action_test.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

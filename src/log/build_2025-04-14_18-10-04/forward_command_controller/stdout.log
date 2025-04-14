@@ -1,0 +1,32 @@
+[ 18%] Built target forward_command_controller
+[ 45%] Built target gmock
+[ 63%] Built target gmock_main
+[ 81%] Built target test_forward_command_controller
+[100%] Built target test_load_forward_command_controller
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller//forward_command_plugin.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/include/forward_command_controller/forward_command_controller.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/include/forward_command_controller/visibility_control.h
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/lib/libforward_command_controller.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/library_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/library_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/ament_index/resource_index/package_run_dependencies/forward_command_controller
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/ament_index/resource_index/parent_prefix_path/forward_command_controller
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/ament_index/resource_index/packages/forward_command_controller
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/forward_command_controller
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/cmake/forward_command_controllerConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/cmake/forward_command_controllerConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/forward_command_controller/share/forward_command_controller/package.xml

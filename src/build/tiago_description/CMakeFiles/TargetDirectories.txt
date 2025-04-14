@@ -1,0 +1,9 @@
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/install/strip.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/install/local.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/install.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/list_install_components.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/rebuild_cache.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/edit_cache.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/test.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/tiago_description_uninstall.dir
+/home/khaledob/bookros2_ws/src/build/tiago_description/CMakeFiles/uninstall.dir

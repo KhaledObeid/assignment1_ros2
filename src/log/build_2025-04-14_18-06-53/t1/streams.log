@@ -1,0 +1,18 @@
+[0.338s] Invoking command in '/home/khaledob/bookros2_ws/src/build/t1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7
+[0.464s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.583s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o[0m
+[0.583s] [ 66%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t1/BumpGoNode.cpp.o[0m
+[0.610s] [01m[K/home/khaledob/bookros2_ws/src/t1/src/t1/BumpGoNode.cpp:16:10:[m[K [01;31m[Kfatal error: [m[Kt1/BumpGoNode.hpp: No such file or directory
+[0.610s]    16 | #include [01;31m[K"t1/BumpGoNode.hpp"[m[K
+[0.610s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[0.610s] compilation terminated.
+[0.617s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t1/BumpGoNode.cpp.o] Error 1
+[0.617s] make[2]: *** Waiting for unfinished jobs....
+[0.674s] [01m[K/home/khaledob/bookros2_ws/src/t1/src/bumpgo_main.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kbr2_fsm_bumpgo_cpp/BumpGoNode.hpp: No such file or directory
+[0.674s]     3 | #include [01;31m[K"br2_fsm_bumpgo_cpp/BumpGoNode.hpp"[m[K
+[0.674s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.674s] compilation terminated.
+[0.674s] make[2]: *** [CMakeFiles/bumpgo.dir/build.make:76: CMakeFiles/bumpgo.dir/src/bumpgo_main.cpp.o] Error 1
+[0.674s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+[0.675s] make: *** [Makefile:141: all] Error 2
+[0.871s] Invoked command in '/home/khaledob/bookros2_ws/src/build/t1' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/t1 -- -j7 -l7

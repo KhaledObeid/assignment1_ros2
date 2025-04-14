@@ -1,0 +1,46 @@
+[ 10%] Built target br2_move_bt_node
+[ 20%] Built target br2_get_waypoint_bt_node
+[ 30%] Built target br2_battery_checker_bt_node
+[ 40%] Built target patrolling_main
+[ 50%] Built target br2_track_objects_bt_node
+[ 60%] Built target br2_recharge_bt_node
+[ 70%] Built target br2_patrol_bt_node
+[ 80%] Built target gtest_main
+[ 90%] Built target gtest
+[100%] Built target bt_action_test
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_recharge_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_patrol_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_move_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_get_waypoint_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_battery_checker_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/libbr2_track_objects_bt_node.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/lib/br2_bt_patrolling/patrolling_main
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/BatteryChecker.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/GetWaypoint.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/Move.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/Patrol.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/Recharge.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/TrackObjects.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTActionNode.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTLifecycleCtrlNode.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/behavior_tree_xml/patrolling.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/launch/patrolling.launch.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/ament_index/resource_index/package_run_dependencies/br2_bt_patrolling
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/ament_index/resource_index/parent_prefix_path/br2_bt_patrolling
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/ament_index/resource_index/packages/br2_bt_patrolling
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_bt_patrolling/share/br2_bt_patrolling/package.xml

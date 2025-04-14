@@ -1,0 +1,8 @@
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/task1_main.cpp:12:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kbumpgo_node[m[K’ was not declared in this scope
+   12 |   rclcpp::spin([01;31m[Kbumpgo_node[m[K);
+      |                [01;31m[K^~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/task1_node.dir/build.make:63: CMakeFiles/task1_node.dir/src/task1_main.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:105: CMakeFiles/task1_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

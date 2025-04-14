@@ -1,0 +1,40 @@
+[0.308s] Invoking command in '/home/khaledob/bookros2_ws/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/transmission_interface -- -j7 -l7
+[0.758s] [ 13%] Built target transmission_parser
+[0.911s] [ 26%] Built target gmock_main
+[1.030s] [ 46%] Built target gmock
+[1.317s] [ 60%] Built target test_differential_transmission
+[1.575s] [ 73%] Built target test_transmission_parser
+[1.740s] [ 86%] Built target test_four_bar_linkage_transmission
+[1.840s] [100%] Built target test_simple_transmission
+[2.279s] Invoked command in '/home/khaledob/bookros2_ws/build/transmission_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/transmission_interface -- -j7 -l7
+[2.356s] Invoking command in '/home/khaledob/bookros2_ws/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/transmission_interface
+[2.419s] -- Install configuration: ""
+[2.419s] -- Execute custom install script
+[2.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/accessor.hpp
+[2.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/differential_transmission.hpp
+[2.420s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/exception.hpp
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/four_bar_linkage_transmission.hpp
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/handle.hpp
+[2.421s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/simple_transmission.hpp
+[2.422s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/transmission.hpp
+[2.422s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/transmission_info.hpp
+[2.422s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/transmission_parser.hpp
+[2.423s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/include/transmission_interface/visibility_control.h
+[2.423s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/ament_index/resource_index/package_run_dependencies/transmission_interface
+[2.423s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/ament_index/resource_index/parent_prefix_path/transmission_interface
+[2.424s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/environment/ament_prefix_path.sh
+[2.424s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/environment/ament_prefix_path.dsv
+[2.425s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/environment/path.sh
+[2.438s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/environment/path.dsv
+[2.439s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/local_setup.bash
+[2.439s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/local_setup.sh
+[2.439s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/local_setup.zsh
+[2.439s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/local_setup.dsv
+[2.440s] -- Symlinking: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/package.dsv
+[2.499s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/ament_index/resource_index/packages/transmission_interface
+[2.499s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig.cmake
+[2.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake
+[2.500s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/transmission_interface/share/transmission_interface/package.xml
+[2.835s] Invoked command in '/home/khaledob/bookros2_ws/build/transmission_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/transmission_interface

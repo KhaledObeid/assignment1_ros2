@@ -1,0 +1,147 @@
+[0.000000] (-) TimerEvent: {}
+[0.017854] (-) JobUnselected: {'identifier': 'br2_basics'}
+[0.017976] (-) JobUnselected: {'identifier': 'br2_bt_bumpgo'}
+[0.018028] (-) JobUnselected: {'identifier': 'br2_bt_patrolling'}
+[0.018069] (-) JobUnselected: {'identifier': 'br2_fsm_bumpgo_cpp'}
+[0.018589] (-) JobUnselected: {'identifier': 'br2_fsm_bumpgo_py'}
+[0.040056] (-) JobUnselected: {'identifier': 'br2_navigation'}
+[0.040422] (-) JobUnselected: {'identifier': 'br2_tf2_detector'}
+[0.040904] (-) JobUnselected: {'identifier': 'br2_tiago'}
+[0.041368] (-) JobUnselected: {'identifier': 'br2_tracking'}
+[0.041443] (-) JobUnselected: {'identifier': 'br2_tracking_msgs'}
+[0.041483] (-) JobUnselected: {'identifier': 'br2_vff_avoidance'}
+[0.041518] (-) JobUnselected: {'identifier': 'controller_interface'}
+[0.041554] (-) JobUnselected: {'identifier': 'controller_manager'}
+[0.041585] (-) JobUnselected: {'identifier': 'controller_manager_msgs'}
+[0.041621] (-) JobUnselected: {'identifier': 'diff_drive_controller'}
+[0.041652] (-) JobUnselected: {'identifier': 'effort_controllers'}
+[0.042070] (-) JobUnselected: {'identifier': 'force_torque_sensor_broadcaster'}
+[0.042148] (-) JobUnselected: {'identifier': 'forward_command_controller'}
+[0.048740] (-) JobUnselected: {'identifier': 'gazebo_ros2_control'}
+[0.048868] (-) JobUnselected: {'identifier': 'gazebo_ros2_control_demos'}
+[0.048919] (-) JobUnselected: {'identifier': 'gripper_controllers'}
+[0.048955] (-) JobUnselected: {'identifier': 'groot'}
+[0.048986] (-) JobUnselected: {'identifier': 'hardware_interface'}
+[0.049020] (-) JobUnselected: {'identifier': 'hey5_description'}
+[0.049053] (-) JobUnselected: {'identifier': 'imu_sensor_broadcaster'}
+[0.049086] (-) JobUnselected: {'identifier': 'joint_state_broadcaster'}
+[0.059412] (-) JobUnselected: {'identifier': 'joint_state_controller'}
+[0.059751] (-) JobUnselected: {'identifier': 'joint_trajectory_controller'}
+[0.059819] (-) JobUnselected: {'identifier': 'launch_pal'}
+[0.059859] (-) JobUnselected: {'identifier': 'pal_gazebo_worlds'}
+[0.059906] (-) JobUnselected: {'identifier': 'pal_gripper'}
+[0.061462] (-) JobUnselected: {'identifier': 'pal_gripper_controller_configuration'}
+[0.061764] (-) JobUnselected: {'identifier': 'pal_gripper_description'}
+[0.061829] (-) JobUnselected: {'identifier': 'pmb2_2dnav'}
+[0.061925] (-) JobUnselected: {'identifier': 'pmb2_bringup'}
+[0.061986] (-) JobUnselected: {'identifier': 'pmb2_controller_configuration'}
+[0.066018] (-) JobUnselected: {'identifier': 'pmb2_description'}
+[0.066302] (-) JobUnselected: {'identifier': 'pmb2_maps'}
+[0.066350] (-) JobUnselected: {'identifier': 'pmb2_navigation'}
+[0.066578] (-) JobUnselected: {'identifier': 'pmb2_robot'}
+[0.067379] (-) JobUnselected: {'identifier': 'position_controllers'}
+[0.078382] (-) JobUnselected: {'identifier': 'ros2_control'}
+[0.079402] (-) JobUnselected: {'identifier': 'ros2_control_test_assets'}
+[0.088814] (-) JobUnselected: {'identifier': 'ros2_controllers'}
+[0.091251] (-) JobUnselected: {'identifier': 'ros2controlcli'}
+[0.091700] (-) JobUnselected: {'identifier': 'task1'}
+[0.091834] (-) JobUnselected: {'identifier': 'task2a'}
+[0.092023] (-) JobUnselected: {'identifier': 'task2b'}
+[0.092078] (-) JobUnselected: {'identifier': 'tiago_2dnav_gazebo'}
+[0.092173] (-) JobUnselected: {'identifier': 'tiago_bringup'}
+[0.093434] (-) JobUnselected: {'identifier': 'tiago_controller_configuration'}
+[0.093529] (-) JobUnselected: {'identifier': 'tiago_description'}
+[0.093582] (-) JobUnselected: {'identifier': 'tiago_description_calibration'}
+[0.093627] (-) JobUnselected: {'identifier': 'tiago_gazebo'}
+[0.094138] (-) JobUnselected: {'identifier': 'tiago_robot'}
+[0.094198] (-) JobUnselected: {'identifier': 'tiago_simulation'}
+[0.094241] (-) JobUnselected: {'identifier': 'transmission_interface'}
+[0.094586] (-) JobUnselected: {'identifier': 'twist_mux'}
+[0.094645] (-) JobUnselected: {'identifier': 'urdf_test'}
+[0.094693] (-) JobUnselected: {'identifier': 'velocity_controllers'}
+[0.094748] (t1) JobQueued: {'identifier': 't1', 'dependencies': OrderedDict()}
+[0.095811] (t1) JobStarted: {'identifier': 't1'}
+[0.107820] (-) TimerEvent: {}
+[0.109357] (t1) JobProgress: {'identifier': 't1', 'progress': 'cmake'}
+[0.109696] (t1) Command: {'cmd': ['/usr/bin/cmake', '/home/khaledob/bookros2_ws/src/t1', '-DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/t1'], 'cwd': '/home/khaledob/bookros2_ws/src/build/t1', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_GB:en'), ('USER', 'khaledob'), ('LC_TIME', 'ar_LB.UTF-8'), ('SSH_AGENT_PID', '1517'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/khaledob'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'ar_LB.UTF-8'), ('MANAGERPID', '1381'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '2089'), ('IM_CONFIG_PHASE', '1'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'khaledob'), ('JOURNAL_STREAM', '8:39291'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'khaledob'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/MCE550:@/tmp/.ICE-unix/1598,unix/MCE550:/tmp/.ICE-unix/1598'), ('INVOCATION_ID', '569664d7ff5147f6bf23d753cc16fade'), ('PAPERSIZE', 'a4'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'ar_LB.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('LANG', 'en_GB.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'ar_LB.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'ar_LB.UTF-8'), ('TERMINATOR_UUID', 'urn:uuid:6d8b984c-d4d7-45f0-b170-5d20808de207'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'ar_LB.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'ar_LB.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/khaledob/bookros2_ws/src/build/t1'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'ar_LB.UTF-8'), ('LC_PAPER', 'ar_LB.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[0.191157] (t1) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[0.207980] (-) TimerEvent: {}
+[0.273892] (t1) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[0.309105] (-) TimerEvent: {}
+[0.415782] (-) TimerEvent: {}
+[0.529016] (-) TimerEvent: {}
+[0.636944] (-) TimerEvent: {}
+[0.748918] (-) TimerEvent: {}
+[0.883481] (t1) StdoutLine: {'line': b'-- Override CMake install command with custom implementation using symlinks instead of copying resources\n'}
+[0.883813] (-) TimerEvent: {}
+[0.927023] (t1) StdoutLine: {'line': b'-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)\n'}
+[0.984350] (-) TimerEvent: {}
+[1.018678] (t1) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[1.028139] (t1) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)\n'}
+[1.089159] (-) TimerEvent: {}
+[1.195397] (-) TimerEvent: {}
+[1.297055] (-) TimerEvent: {}
+[1.376267] (t1) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[1.398077] (-) TimerEvent: {}
+[1.499047] (-) TimerEvent: {}
+[1.504048] (t1) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)\n'}
+[1.508527] (t1) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[1.599408] (-) TimerEvent: {}
+[1.724453] (-) TimerEvent: {}
+[1.826360] (-) TimerEvent: {}
+[1.891913] (t1) StdoutLine: {'line': b'-- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)\n'}
+[1.947034] (-) TimerEvent: {}
+[2.069712] (-) TimerEvent: {}
+[2.174671] (-) TimerEvent: {}
+[2.206052] (t1) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)\n'}
+[2.274842] (-) TimerEvent: {}
+[2.342292] (t1) StdoutLine: {'line': b"-- Added test 'copyright' to check source files copyright and LICENSE\n"}
+[2.344793] (t1) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[2.345540] (t1) StdoutLine: {'line': b'-- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/t1/include\n'}
+[2.345818] (t1) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[2.347891] (t1) StdoutLine: {'line': b"-- Added test 'cpplint' to check C / C++ code against the Google style\n"}
+[2.348325] (t1) StdoutLine: {'line': b'-- Configured cpplint exclude dirs and/or files: \n'}
+[2.348993] (t1) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[2.352085] (t1) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[2.354457] (t1) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257\n"}
+[2.354770] (t1) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[2.355361] (t1) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[2.356431] (t1) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[2.364300] (t1) StdoutLine: {'line': b'-- Configuring done\n'}
+[2.375283] (-) TimerEvent: {}
+[2.393435] (t1) StdoutLine: {'line': b'-- Generating done\n'}
+[2.418910] (t1) StdoutLine: {'line': b'-- Build files have been written to: /home/khaledob/bookros2_ws/src/build/t1\n'}
+[2.460999] (t1) CommandEnded: {'returncode': 0}
+[2.463349] (t1) JobProgress: {'identifier': 't1', 'progress': 'build'}
+[2.469776] (t1) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/khaledob/bookros2_ws/src/build/t1', '--', '-j7', '-l7'], 'cwd': '/home/khaledob/bookros2_ws/src/build/t1', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_GB:en'), ('USER', 'khaledob'), ('LC_TIME', 'ar_LB.UTF-8'), ('SSH_AGENT_PID', '1517'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/khaledob'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'ar_LB.UTF-8'), ('MANAGERPID', '1381'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '2089'), ('IM_CONFIG_PHASE', '1'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'khaledob'), ('JOURNAL_STREAM', '8:39291'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'khaledob'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/MCE550:@/tmp/.ICE-unix/1598,unix/MCE550:/tmp/.ICE-unix/1598'), ('INVOCATION_ID', '569664d7ff5147f6bf23d753cc16fade'), ('PAPERSIZE', 'a4'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'ar_LB.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('LANG', 'en_GB.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'ar_LB.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'ar_LB.UTF-8'), ('TERMINATOR_UUID', 'urn:uuid:6d8b984c-d4d7-45f0-b170-5d20808de207'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'ar_LB.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'ar_LB.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/khaledob/bookros2_ws/src/build/t1'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'ar_LB.UTF-8'), ('LC_PAPER', 'ar_LB.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[2.475514] (-) TimerEvent: {}
+[2.577820] (-) TimerEvent: {}
+[2.654254] (t1) StdoutLine: {'line': b'[100%] Built target bumpgo\n'}
+[2.679188] (-) TimerEvent: {}
+[2.709128] (t1) CommandEnded: {'returncode': 0}
+[2.710276] (t1) JobProgress: {'identifier': 't1', 'progress': 'install'}
+[2.746451] (t1) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/khaledob/bookros2_ws/src/build/t1'], 'cwd': '/home/khaledob/bookros2_ws/src/build/t1', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_GB:en'), ('USER', 'khaledob'), ('LC_TIME', 'ar_LB.UTF-8'), ('SSH_AGENT_PID', '1517'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/khaledob'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'ar_LB.UTF-8'), ('MANAGERPID', '1381'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '2089'), ('IM_CONFIG_PHASE', '1'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'khaledob'), ('JOURNAL_STREAM', '8:39291'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'khaledob'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/MCE550:@/tmp/.ICE-unix/1598,unix/MCE550:/tmp/.ICE-unix/1598'), ('INVOCATION_ID', '569664d7ff5147f6bf23d753cc16fade'), ('PAPERSIZE', 'a4'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'ar_LB.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('LANG', 'en_GB.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'ar_LB.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'ar_LB.UTF-8'), ('TERMINATOR_UUID', 'urn:uuid:6d8b984c-d4d7-45f0-b170-5d20808de207'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'ar_LB.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'ar_LB.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/khaledob/bookros2_ws/src/build/t1'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'ar_LB.UTF-8'), ('LC_PAPER', 'ar_LB.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[2.799309] (-) TimerEvent: {}
+[2.801529] (t1) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.803904] (t1) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[2.804308] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/lib/t1/bumpgo\n'}
+[2.806204] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/launch/bump_and_go.launch.py\n'}
+[2.806547] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/package_run_dependencies/t1\n'}
+[2.807235] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/parent_prefix_path/t1\n'}
+[2.808013] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.sh\n'}
+[2.808821] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/ament_prefix_path.dsv\n'}
+[2.809495] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.sh\n'}
+[2.810135] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/environment/path.dsv\n'}
+[2.810837] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.bash\n'}
+[2.811534] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.sh\n'}
+[2.812030] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.zsh\n'}
+[2.812901] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/local_setup.dsv\n'}
+[2.813427] (t1) StdoutLine: {'line': b'-- Symlinking: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.dsv\n'}
+[2.845129] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/ament_index/resource_index/packages/t1\n'}
+[2.847043] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config.cmake\n'}
+[2.847260] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/cmake/t1Config-version.cmake\n'}
+[2.847361] (t1) StdoutLine: {'line': b'-- Up-to-date symlink: /home/khaledob/bookros2_ws/src/install/t1/share/t1/package.xml\n'}
+[2.856896] (t1) CommandEnded: {'returncode': 0}
+[2.901606] (-) TimerEvent: {}
+[2.973319] (t1) JobEnded: {'identifier': 't1', 'rc': 0}
+[2.976135] (-) EventReactorShutdown: {}

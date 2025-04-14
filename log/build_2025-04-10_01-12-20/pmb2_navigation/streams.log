@@ -1,0 +1,44 @@
+[1.404s] Invoking command in '/home/khaledob/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/pmb2_navigation
+[1.485s] -- The C compiler identification is GNU 9.4.0
+[1.561s] -- The CXX compiler identification is GNU 9.4.0
+[1.569s] -- Check for working C compiler: /usr/bin/cc
+[1.683s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.683s] -- Detecting C compiler ABI info
+[1.806s] -- Detecting C compiler ABI info - done
+[1.806s] -- Detecting C compile features
+[1.806s] -- Detecting C compile features - done
+[1.806s] -- Check for working CXX compiler: /usr/bin/c++
+[1.926s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.927s] -- Detecting CXX compiler ABI info
+[2.061s] -- Detecting CXX compiler ABI info - done
+[2.062s] -- Detecting CXX compile features
+[2.062s] -- Detecting CXX compile features - done
+[2.062s] -- Found ament_cmake_auto: 0.9.12 (/opt/ros/foxy/share/ament_cmake_auto/cmake)
+[2.090s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.090s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.353s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.449s] -- Configuring done
+[2.452s] -- Generating done
+[2.455s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/pmb2_navigation
+[2.463s] Invoked command in '/home/khaledob/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/pmb2_navigation
+[2.464s] Invoking command in '/home/khaledob/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pmb2_navigation -- -j4 -l4
+[2.530s] Invoked command in '/home/khaledob/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pmb2_navigation -- -j4 -l4
+[2.532s] Invoking command in '/home/khaledob/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pmb2_navigation
+[2.549s] -- Install configuration: ""
+[2.549s] -- Execute custom install script
+[2.549s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/package_run_dependencies/pmb2_navigation
+[2.564s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/parent_prefix_path/pmb2_navigation
+[2.580s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.sh
+[2.594s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.dsv
+[2.609s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.sh
+[2.623s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.dsv
+[2.638s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.bash
+[2.653s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.sh
+[2.669s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.zsh
+[2.683s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.dsv
+[2.697s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/package.dsv
+[2.712s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/packages/pmb2_navigation
+[2.727s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig.cmake
+[2.741s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig-version.cmake
+[2.755s] -- Symlinking: /home/khaledob/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/package.xml
+[2.797s] Invoked command in '/home/khaledob/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/pmb2_2dnav:/home/khaledob/bookros2_ws/install/pmb2_maps:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pmb2_navigation

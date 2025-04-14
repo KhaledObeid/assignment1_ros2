@@ -1,0 +1,10 @@
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/install/strip.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/install/local.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/install.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/list_install_components.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/rebuild_cache.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/edit_cache.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/test.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/node.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/task2b_uninstall.dir
+/home/khaledob/bookros2_ws/build/task2b/CMakeFiles/uninstall.dir

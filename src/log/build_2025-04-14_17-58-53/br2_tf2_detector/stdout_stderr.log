@@ -1,0 +1,29 @@
+[ 50%] Built target br2_tf2_detector
+[ 62%] [32m[1mLinking CXX executable detector[0m
+[ 75%] Built target detector
+[35m[1mScanning dependencies of target detector_improved[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/detector_improved.dir/src/detector_improved_main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable detector_improved[0m
+[100%] Built target detector_improved
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/lib/libbr2_tf2_detector.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/lib/br2_tf2_detector/detector
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/lib/br2_tf2_detector/detector_improved
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_basic.launch.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_improved.launch.py
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/ament_index/resource_index/package_run_dependencies/br2_tf2_detector
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/ament_index/resource_index/parent_prefix_path/br2_tf2_detector
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/ament_index/resource_index/packages/br2_tf2_detector
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/br2_tf2_detector/share/br2_tf2_detector/package.xml

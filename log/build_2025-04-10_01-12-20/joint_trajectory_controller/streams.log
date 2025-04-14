@@ -1,0 +1,121 @@
+[0.038s] Invoking command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/joint_trajectory_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/joint_trajectory_controller
+[0.138s] -- The C compiler identification is GNU 9.4.0
+[0.224s] -- The CXX compiler identification is GNU 9.4.0
+[0.232s] -- Check for working C compiler: /usr/bin/cc
+[0.349s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.349s] -- Detecting C compiler ABI info
+[0.476s] -- Detecting C compiler ABI info - done
+[0.485s] -- Detecting C compile features
+[0.487s] -- Detecting C compile features - done
+[0.493s] -- Check for working CXX compiler: /usr/bin/c++
+[0.643s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.644s] -- Detecting CXX compiler ABI info
+[0.800s] -- Detecting CXX compiler ABI info - done
+[0.823s] -- Detecting CXX compile features
+[0.824s] -- Detecting CXX compile features - done
+[0.830s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.879s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.879s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.255s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.307s] -- Found angles: 1.12.6 (/opt/ros/foxy/share/angles/cmake)
+[1.311s] -- Found controller_interface: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_interface/share/controller_interface/cmake)
+[1.369s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.380s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.552s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.600s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.721s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.560s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.564s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.567s] -- Looking for pthread.h
+[2.694s] -- Looking for pthread.h - found
+[2.694s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.807s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.807s] -- Looking for pthread_create in pthreads
+[2.907s] -- Looking for pthread_create in pthreads - not found
+[2.916s] -- Looking for pthread_create in pthread
+[3.022s] -- Looking for pthread_create in pthread - found
+[3.023s] -- Found Threads: TRUE  
+[3.406s] -- Found realtime_tools: 2.2.0 (/opt/ros/foxy/share/realtime_tools/cmake)
+[3.547s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[3.557s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.560s] -- Found controller_manager: 0.7.1 (/home/khaledob/bookros2_ws/install/controller_manager/share/controller_manager/cmake)
+[3.656s] -- Found ros2_control_test_assets: 0.7.1 (/home/khaledob/bookros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[3.762s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.768s] -- Check if compiler accepts -pthread
+[3.878s] -- Check if compiler accepts -pthread - yes
+[4.100s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.105s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.106s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/joint_trajectory_controller/include
+[4.106s] -- Configured cppcheck exclude dirs and/or files: 
+[4.108s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.109s] -- Configured cpplint exclude dirs and/or files: 
+[4.111s] -- Added test 'lint_cmake' to check CMake code style
+[4.113s] -- Added test 'uncrustify' to check C / C++ code style
+[4.113s] -- Configured uncrustify additional arguments: 
+[4.114s] -- Added test 'xmllint' to check XML markup files
+[4.124s] -- Configuring done
+[4.279s] -- Generating done
+[4.357s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/joint_trajectory_controller
+[4.374s] Invoked command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/joint_trajectory_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/joint_trajectory_controller
+[4.383s] Invoking command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/joint_trajectory_controller -- -j4 -l4
+[5.396s] [35m[1mScanning dependencies of target joint_trajectory_controller[0m
+[5.474s] [  6%] [32mBuilding CXX object CMakeFiles/joint_trajectory_controller.dir/src/joint_trajectory_controller.cpp.o[0m
+[16.351s] [ 13%] [32mBuilding CXX object CMakeFiles/joint_trajectory_controller.dir/src/trajectory.cpp.o[0m
+[17.071s] [ 20%] [32m[1mLinking CXX shared library libjoint_trajectory_controller.so[0m
+[18.311s] [ 20%] Built target joint_trajectory_controller
+[18.329s] [35m[1mScanning dependencies of target gtest_main[0m
+[18.362s] [ 26%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[19.356s] [ 33%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[19.420s] [ 33%] Built target gtest_main
+[19.451s] [35m[1mScanning dependencies of target gtest[0m
+[19.491s] [ 40%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[24.247s] [ 46%] [32m[1mLinking CXX static library libgtest.a[0m
+[24.360s] [ 46%] Built target gtest
+[24.378s] [35m[1mScanning dependencies of target test_trajectory[0m
+[24.415s] [ 53%] [32mBuilding CXX object CMakeFiles/test_trajectory.dir/test/test_trajectory.cpp.o[0m
+[26.089s] [ 60%] [32m[1mLinking CXX executable test_trajectory[0m
+[26.836s] [ 60%] Built target test_trajectory
+[26.868s] [35m[1mScanning dependencies of target test_trajectory_actions[0m
+[26.951s] [ 66%] [32mBuilding CXX object CMakeFiles/test_trajectory_actions.dir/test/test_trajectory_actions.cpp.o[0m
+[37.617s] [ 73%] [32m[1mLinking CXX executable test_trajectory_actions[0m
+[38.831s] [ 73%] Built target test_trajectory_actions
+[38.849s] [35m[1mScanning dependencies of target test_load_joint_trajectory_controller[0m
+[38.939s] [ 80%] [32mBuilding CXX object CMakeFiles/test_load_joint_trajectory_controller.dir/test/test_load_joint_trajectory_controller.cpp.o[0m
+[46.578s] [ 86%] [32m[1mLinking CXX executable test_load_joint_trajectory_controller[0m
+[47.379s] [ 86%] Built target test_load_joint_trajectory_controller
+[47.408s] [35m[1mScanning dependencies of target test_trajectory_controller[0m
+[47.525s] [ 93%] [32mBuilding CXX object CMakeFiles/test_trajectory_controller.dir/test/test_trajectory_controller.cpp.o[0m
+[61.668s] [100%] [32m[1mLinking CXX executable test_trajectory_controller[0m
+[63.351s] [100%] Built target test_trajectory_controller
+[63.373s] Invoked command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/joint_trajectory_controller -- -j4 -l4
+[63.374s] Invoking command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/joint_trajectory_controller
+[63.387s] -- Install configuration: ""
+[63.387s] -- Execute custom install script
+[63.388s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller//joint_trajectory_plugin.xml
+[63.404s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/include/joint_trajectory_controller/joint_trajectory_controller.hpp
+[63.419s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/include/joint_trajectory_controller/tolerances.hpp
+[63.435s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/include/joint_trajectory_controller/trajectory.hpp
+[63.453s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/include/joint_trajectory_controller/visibility_control.h
+[63.467s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/lib/libjoint_trajectory_controller.so
+[63.483s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/library_path.sh
+[63.498s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/library_path.dsv
+[63.517s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/ament_index/resource_index/package_run_dependencies/joint_trajectory_controller
+[63.533s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/ament_index/resource_index/parent_prefix_path/joint_trajectory_controller
+[63.547s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/ament_prefix_path.sh
+[63.562s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/ament_prefix_path.dsv
+[63.578s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/path.sh
+[63.597s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/environment/path.dsv
+[63.613s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/local_setup.bash
+[63.629s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/local_setup.sh
+[63.644s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/local_setup.zsh
+[63.658s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/local_setup.dsv
+[63.674s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/package.dsv
+[63.689s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/ament_index/resource_index/packages/joint_trajectory_controller
+[63.705s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/joint_trajectory_controller
+[63.720s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[63.736s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+[63.750s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/cmake/ament_cmake_export_libraries-extras.cmake
+[63.766s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig.cmake
+[63.782s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig-version.cmake
+[63.797s] -- Symlinking: /home/khaledob/bookros2_ws/install/joint_trajectory_controller/share/joint_trajectory_controller/package.xml
+[63.833s] Invoked command in '/home/khaledob/bookros2_ws/build/joint_trajectory_controller' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/install/controller_manager:/home/khaledob/bookros2_ws/install/controller_interface:/home/khaledob/bookros2_ws/install/hardware_interface:/home/khaledob/bookros2_ws/install/ros2_control_test_assets:/home/khaledob/bookros2_ws/install/controller_manager_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/install/controller_manager/lib:/home/khaledob/bookros2_ws/install/controller_interface/lib:/home/khaledob/bookros2_ws/install/hardware_interface/lib:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/khaledob/bookros2_ws/install/controller_manager/lib/python3.8/site-packages:/home/khaledob/bookros2_ws/install/controller_manager_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/joint_trajectory_controller

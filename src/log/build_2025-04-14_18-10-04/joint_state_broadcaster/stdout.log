@@ -1,0 +1,32 @@
+[ 18%] Built target gmock_main
+[ 63%] Built target gmock
+[ 63%] Built target joint_state_broadcaster
+[ 81%] Built target test_joint_state_broadcaster
+[100%] Built target test_load_joint_state_broadcaster
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster//joint_state_plugin.xml
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/include/joint_state_broadcaster/joint_state_broadcaster.hpp
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/include/joint_state_broadcaster/visibility_control.h
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/lib/libjoint_state_broadcaster.so
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/library_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/library_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/ament_index/resource_index/package_run_dependencies/joint_state_broadcaster
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/ament_index/resource_index/parent_prefix_path/joint_state_broadcaster
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/ament_prefix_path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/ament_prefix_path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/path.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/environment/path.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/local_setup.bash
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/local_setup.sh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/local_setup.zsh
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/local_setup.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/package.dsv
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/ament_index/resource_index/packages/joint_state_broadcaster
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/ament_index/resource_index/controller_interface__pluginlib__plugin/joint_state_broadcaster
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/cmake/joint_state_broadcasterConfig.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/cmake/joint_state_broadcasterConfig-version.cmake
+-- Symlinking: /home/khaledob/bookros2_ws/src/install/joint_state_broadcaster/share/joint_state_broadcaster/package.xml

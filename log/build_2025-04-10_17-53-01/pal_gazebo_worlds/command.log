@@ -1,0 +1,4 @@
+Invoking command in '/home/khaledob/bookros2_ws/build/pal_gazebo_worlds': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pal_gazebo_worlds -- -j6 -l6
+Invoked command in '/home/khaledob/bookros2_ws/build/pal_gazebo_worlds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/pal_gazebo_worlds -- -j6 -l6
+Invoking command in '/home/khaledob/bookros2_ws/build/pal_gazebo_worlds': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pal_gazebo_worlds
+Invoked command in '/home/khaledob/bookros2_ws/build/pal_gazebo_worlds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/pal_gazebo_worlds

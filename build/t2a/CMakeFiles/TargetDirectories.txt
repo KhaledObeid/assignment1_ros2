@@ -1,0 +1,10 @@
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/install/strip.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/install/local.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/install.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/list_install_components.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/rebuild_cache.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/edit_cache.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/test.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/bumpgo.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/t2a_uninstall.dir
+/home/khaledob/bookros2_ws/build/t2a/CMakeFiles/uninstall.dir

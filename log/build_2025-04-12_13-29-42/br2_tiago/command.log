@@ -1,0 +1,6 @@
+Invoking command in '/home/khaledob/bookros2_ws/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_tiago -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/br2_tiago
+Invoked command in '/home/khaledob/bookros2_ws/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/khaledob/bookros2_ws/src/book_ros2/br2_tiago -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/install/br2_tiago
+Invoking command in '/home/khaledob/bookros2_ws/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tiago -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/br2_tiago -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/build/br2_tiago': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tiago
+Invoked command in '/home/khaledob/bookros2_ws/build/br2_tiago' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/br2_tiago

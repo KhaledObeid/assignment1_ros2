@@ -1,0 +1,107 @@
+[0.315s] Invoking command in '/home/khaledob/bookros2_ws/src/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/transmission_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/transmission_interface
+[0.956s] -- The C compiler identification is GNU 9.4.0
+[1.420s] -- The CXX compiler identification is GNU 9.4.0
+[1.502s] -- Check for working C compiler: /usr/bin/cc
+[2.063s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.063s] -- Detecting C compiler ABI info
+[2.667s] -- Detecting C compiler ABI info - done
+[2.750s] -- Detecting C compile features
+[2.751s] -- Detecting C compile features - done
+[2.757s] -- Check for working CXX compiler: /usr/bin/c++
+[3.561s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.565s] -- Detecting CXX compiler ABI info
+[4.333s] -- Detecting CXX compiler ABI info - done
+[4.370s] -- Detecting CXX compile features
+[4.371s] -- Detecting CXX compile features - done
+[4.376s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.961s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.988s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.191s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.434s] -- Found hardware_interface: 0.7.1 (/home/khaledob/bookros2_ws/src/install/hardware_interface/share/hardware_interface/cmake)
+[5.573s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.665s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[6.896s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[6.943s] -- Found FastRTPS: /opt/ros/foxy/include  
+[7.596s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[9.510s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[9.544s] -- Found ament_cmake_gmock: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[9.548s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[9.964s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[9.973s] -- Found ament_cmake_gtest: 0.9.12 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[10.032s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[10.167s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.171s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.172s] -- Configured cppcheck include dirs: /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/transmission_interface/include;/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/transmission_interface/hardware_interface
+[10.173s] -- Configured cppcheck exclude dirs and/or files: 
+[10.176s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.176s] -- Configured cpplint exclude dirs and/or files: 
+[10.179s] -- Added test 'lint_cmake' to check CMake code style
+[10.183s] -- Added test 'uncrustify' to check C / C++ code style
+[10.183s] -- Configured uncrustify additional arguments: 
+[10.185s] -- Added test 'xmllint' to check XML markup files
+[10.213s] -- Configuring done
+[10.432s] -- Generating done
+[10.543s] -- Build files have been written to: /home/khaledob/bookros2_ws/src/build/transmission_interface
+[10.604s] Invoked command in '/home/khaledob/bookros2_ws/src/build/transmission_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/transmission_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/khaledob/bookros2_ws/src/install/transmission_interface
+[10.608s] Invoking command in '/home/khaledob/bookros2_ws/src/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/transmission_interface -- -j7 -l7
+[14.501s] [35m[1mScanning dependencies of target transmission_parser[0m
+[14.501s] [  6%] [32mBuilding CXX object CMakeFiles/transmission_parser.dir/src/transmission_parser.cpp.o[0m
+[14.502s] [ 13%] [32m[1mLinking CXX shared library libtransmission_parser.so[0m
+[14.502s] [ 13%] Built target transmission_parser
+[14.502s] [35m[1mScanning dependencies of target gmock_main[0m
+[14.502s] [ 20%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[15.750s] [ 26%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[15.988s] [ 26%] Built target gmock_main
+[16.063s] [35m[1mScanning dependencies of target gmock[0m
+[16.149s] [ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/foxy/src/gtest_vendor/src/gtest-all.cc.o[0m
+[25.545s] [ 40%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[28.969s] [ 46%] [32m[1mLinking CXX static library libgmock.a[0m
+[29.185s] [ 46%] Built target gmock
+[29.215s] [35m[1mScanning dependencies of target test_differential_transmission[0m
+[29.333s] [ 53%] [32mBuilding CXX object CMakeFiles/test_differential_transmission.dir/test/differential_transmission_test.cpp.o[0m
+[33.648s] [ 60%] [32m[1mLinking CXX executable test_differential_transmission[0m
+[34.357s] [ 60%] Built target test_differential_transmission
+[34.382s] [35m[1mScanning dependencies of target test_transmission_parser[0m
+[34.446s] [ 66%] [32mBuilding CXX object CMakeFiles/test_transmission_parser.dir/test/test_transmission_parser.cpp.o[0m
+[36.686s] [ 73%] [32m[1mLinking CXX executable test_transmission_parser[0m
+[37.307s] [ 73%] Built target test_transmission_parser
+[37.334s] [35m[1mScanning dependencies of target test_four_bar_linkage_transmission[0m
+[37.526s] [ 80%] [32mBuilding CXX object CMakeFiles/test_four_bar_linkage_transmission.dir/test/four_bar_linkage_transmission_test.cpp.o[0m
+[42.272s] [ 86%] [32m[1mLinking CXX executable test_four_bar_linkage_transmission[0m
+[43.142s] [ 86%] Built target test_four_bar_linkage_transmission
+[43.168s] [35m[1mScanning dependencies of target test_simple_transmission[0m
+[43.245s] [ 93%] [32mBuilding CXX object CMakeFiles/test_simple_transmission.dir/test/simple_transmission_test.cpp.o[0m
+[48.578s] [100%] [32m[1mLinking CXX executable test_simple_transmission[0m
+[49.329s] [100%] Built target test_simple_transmission
+[49.405s] Invoked command in '/home/khaledob/bookros2_ws/src/build/transmission_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/transmission_interface -- -j7 -l7
+[49.422s] Invoking command in '/home/khaledob/bookros2_ws/src/build/transmission_interface': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/transmission_interface
+[49.587s] -- Install configuration: ""
+[49.588s] -- Execute custom install script
+[49.588s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/accessor.hpp
+[49.588s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/differential_transmission.hpp
+[49.588s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/exception.hpp
+[49.619s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/four_bar_linkage_transmission.hpp
+[49.668s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/handle.hpp
+[49.709s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/simple_transmission.hpp
+[49.784s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/transmission.hpp
+[49.828s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/transmission_info.hpp
+[49.870s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/transmission_parser.hpp
+[49.915s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/include/transmission_interface/visibility_control.h
+[49.983s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/ament_index/resource_index/package_run_dependencies/transmission_interface
+[50.052s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/ament_index/resource_index/parent_prefix_path/transmission_interface
+[50.110s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/environment/ament_prefix_path.sh
+[50.138s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/environment/ament_prefix_path.dsv
+[50.172s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/environment/path.sh
+[50.210s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/environment/path.dsv
+[50.248s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/local_setup.bash
+[50.284s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/local_setup.sh
+[50.311s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/local_setup.zsh
+[50.339s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/local_setup.dsv
+[50.388s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/package.dsv
+[50.429s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/ament_index/resource_index/packages/transmission_interface
+[50.472s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[50.503s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[50.529s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig.cmake
+[50.565s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/cmake/transmission_interfaceConfig-version.cmake
+[50.595s] -- Symlinking: /home/khaledob/bookros2_ws/src/install/transmission_interface/share/transmission_interface/package.xml
+[50.631s] Invoked command in '/home/khaledob/bookros2_ws/src/build/transmission_interface' returned '0': AMENT_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface:/home/khaledob/bookros2_ws/src/install/ros2_control_test_assets:/opt/ros/foxy LD_LIBRARY_PATH=/home/khaledob/bookros2_ws/src/install/hardware_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/transmission_interface

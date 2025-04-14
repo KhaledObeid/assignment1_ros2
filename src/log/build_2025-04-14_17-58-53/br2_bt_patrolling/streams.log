@@ -1,0 +1,22 @@
+[0.157s] Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_bt_patrolling -- -j7 -l7
+[0.355s] [ 10%] Built target br2_recharge_bt_node
+[0.422s] [ 20%] Built target br2_patrol_bt_node
+[0.470s] [ 30%] Built target gtest
+[0.537s] [ 40%] Built target gtest_main
+[0.612s] [ 50%] Built target br2_track_objects_bt_node
+[0.733s] [ 60%] Built target br2_get_waypoint_bt_node
+[0.856s] [ 65%] [32mBuilding CXX object tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o[0m
+[28.442s] [ 70%] [32m[1mLinking CXX executable bt_action_test[0m
+[29.517s] [ 70%] Built target bt_action_test
+[29.535s] [35m[1mScanning dependencies of target br2_move_bt_node[0m
+[29.536s] [35m[1mScanning dependencies of target patrolling_main[0m
+[29.591s] [ 75%] [32mBuilding CXX object CMakeFiles/patrolling_main.dir/src/patrolling_main.cpp.o[0m
+[29.679s] [ 80%] [32mBuilding CXX object CMakeFiles/br2_move_bt_node.dir/src/br2_bt_patrolling/Move.cpp.o[0m
+[37.189s] [ 85%] [32m[1mLinking CXX executable patrolling_main[0m
+[37.578s] [ 85%] Built target patrolling_main
+[37.627s] [35m[1mScanning dependencies of target br2_battery_checker_bt_node[0m
+[37.719s] [ 90%] [32mBuilding CXX object CMakeFiles/br2_battery_checker_bt_node.dir/src/br2_bt_patrolling/BatteryChecker.cpp.o[0m
+[39.795s] [ 95%] [32m[1mLinking CXX shared library libbr2_move_bt_node.so[0m
+[40.387s] [ 95%] Built target br2_move_bt_node
+[47.296s] [100%] [32m[1mLinking CXX shared library libbr2_battery_checker_bt_node.so[0m
+[47.859s] [100%] Built target br2_battery_checker_bt_node

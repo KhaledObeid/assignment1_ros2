@@ -1,0 +1,44 @@
+[0.164s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[0.264s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.369s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.915s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.932s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.034s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.039s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.389s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.509s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.520s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.810s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[2.027s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.328s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.328s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.328s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/khaledob/bookros2_ws/src/task2b/include>
+[2.328s] -- Configured cppcheck exclude dirs and/or files: 
+[2.335s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.335s] -- Configured cpplint exclude dirs and/or files: 
+[2.337s] -- Added test 'lint_cmake' to check CMake code style
+[2.343s] -- Added test 'uncrustify' to check C / C++ code style
+[2.343s] -- Configured uncrustify additional arguments: 
+[2.343s] -- Added test 'xmllint' to check XML markup files
+[2.358s] -- Configuring done
+[2.383s] -- Generating done
+[2.404s] -- Build files have been written to: /home/khaledob/bookros2_ws/build/task2b
+[2.469s] [35m[1mScanning dependencies of target node[0m
+[2.580s] [ 33%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2b_main.cpp.o[0m
+[2.614s] [ 66%] [32mBuilding CXX object CMakeFiles/node.dir/src/task2b/BumpGoNode2b.cpp.o[0m
+[10.417s] [100%] [32m[1mLinking CXX executable node[0m
+[10.745s] [100%] Built target node
+[10.763s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/task2b -- -j7 -l7
+[10.769s] Invoking command in '/home/khaledob/bookros2_ws/build/task2b': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2b
+[10.782s] -- Install configuration: ""
+[10.782s] -- Execute custom install script
+[10.783s] -- Symlinking: /home/khaledob/bookros2_ws/install/task2b/lib/task2b/node
+[10.806s] CMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[10.806s]   ament_cmake_symlink_install_directory() can't find
+[10.806s]   '/home/khaledob/bookros2_ws/src/task2b/launch'
+[10.806s] Call Stack (most recent call first):
+[10.806s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:317 (ament_cmake_symlink_install_directory)
+[10.806s]   cmake_install.cmake:41 (include)
+[10.806s] 
+[10.807s] 
+[10.812s] Invoked command in '/home/khaledob/bookros2_ws/build/task2b' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/task2b

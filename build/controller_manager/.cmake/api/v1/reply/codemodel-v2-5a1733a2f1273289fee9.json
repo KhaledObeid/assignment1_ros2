@@ -1,0 +1,253 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "gmock",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/opt/ros/foxy/src/gmock_vendor",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "gtest",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "/opt/ros/foxy/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "controller_manager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "gmock",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "controller_manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-controller_manager-29f624e8bf9b6ace8cb7.json",
+					"name" : "controller_manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "controller_manager_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-controller_manager_uninstall-9b8355c6abd57a261f39.json",
+					"name" : "controller_manager_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gmock::@0590522bda6a4df7f28a",
+					"jsonFile" : "target-gmock-4dd091f4542c78fddd03.json",
+					"name" : "gmock",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gmock_main::@0590522bda6a4df7f28a",
+					"jsonFile" : "target-gmock_main-c2fe3f346c617df277fc.json",
+					"name" : "gmock_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-b962e4c38fc9c78dc6ae.json",
+					"name" : "gtest",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-548e4707bab58b799cc5.json",
+					"name" : "gtest_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_control_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_control_node-16777243ba77d62a2020.json",
+					"name" : "ros2_control_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_controller-2b89ceb30fe509229e8b.json",
+					"name" : "test_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_controller_failed_init::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_controller_failed_init-0fa105b37cca8ee0e0c7.json",
+					"name" : "test_controller_failed_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_controller_manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_controller_manager-5e31ae7bcd8d30d93790.json",
+					"name" : "test_controller_manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_controller_manager_srvs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_controller_manager_srvs-723e0de8f09ebbd41dde.json",
+					"name" : "test_controller_manager_srvs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_controller_with_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_controller_with_interfaces-7a39b7747e5b44edf341.json",
+					"name" : "test_controller_with_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_load_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_load_controller-57f42bf96b3e49138868.json",
+					"name" : "test_load_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_release_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_release_interfaces-5df3472faee3d76f152b.json",
+					"name" : "test_release_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_spawner_unspawner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_spawner_unspawner-01d9e01bf6f7eb9aca82.json",
+					"name" : "test_spawner_unspawner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-44f67832924dbb5de3e2.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khaledob/bookros2_ws/build/controller_manager",
+		"source" : "/home/khaledob/bookros2_ws/src/ThirdParty/ros2_control/controller_manager"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

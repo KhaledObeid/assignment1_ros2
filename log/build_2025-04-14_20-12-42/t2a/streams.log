@@ -1,0 +1,27 @@
+[0.106s] Invoking command in '/home/khaledob/bookros2_ws/build/t2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2a -- -j7 -l7
+[0.316s] [35m[1mScanning dependencies of target bumpgo[0m
+[0.474s] [ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t2a/BumpGoNode.cpp.o[0m
+[16.524s] [ 66%] [32m[1mLinking CXX executable bumpgo[0m
+[17.266s] [100%] Built target bumpgo
+[17.303s] Invoked command in '/home/khaledob/bookros2_ws/build/t2a' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/build/t2a -- -j7 -l7
+[17.311s] Invoking command in '/home/khaledob/bookros2_ws/build/t2a': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t2a
+[17.336s] -- Install configuration: ""
+[17.337s] -- Execute custom install script
+[17.339s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/lib/t2a/bumpgo
+[17.339s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/launch/bump_and_go.launch.py
+[17.340s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/package_run_dependencies/t2a
+[17.340s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/parent_prefix_path/t2a
+[17.341s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.sh
+[17.342s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/ament_prefix_path.dsv
+[17.343s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.sh
+[17.343s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/environment/path.dsv
+[17.344s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.bash
+[17.345s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.sh
+[17.350s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.zsh
+[17.350s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/local_setup.dsv
+[17.350s] -- Symlinking: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.dsv
+[17.378s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/ament_index/resource_index/packages/t2a
+[17.381s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig.cmake
+[17.382s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/cmake/t2aConfig-version.cmake
+[17.383s] -- Up-to-date symlink: /home/khaledob/bookros2_ws/install/t2a/share/t2a/package.xml
+[17.391s] Invoked command in '/home/khaledob/bookros2_ws/build/t2a' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/khaledob/bookros2_ws/install/ros2controlcli:/home/khaledob/bookros2_ws/install/launch_pal:/home/khaledob/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/build/t2a

@@ -1,0 +1,7 @@
+[01m[K/home/khaledob/bookros2_ws/src/task1/src/BumpGoNode1.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Ktask1/BumpGoNode1.hpp: No such file or directory
+    2 | #include [01;31m[K"task1/BumpGoNode1.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/BumpGoNode1.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

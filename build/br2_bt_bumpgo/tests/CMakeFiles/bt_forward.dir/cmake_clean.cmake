@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/bt_forward.dir/bt_forward_main.cpp.o"
+  "bt_forward"
+  "bt_forward.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/bt_forward.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

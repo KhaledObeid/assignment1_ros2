@@ -1,0 +1,1 @@
+/home/khaledob/bookros2_ws/src/ThirdParty/ros2_controllers/joint_trajectory_controller/include/joint_trajectory_controller/trajectory.hpp

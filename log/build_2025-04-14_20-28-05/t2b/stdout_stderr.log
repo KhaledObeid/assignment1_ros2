@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target bumpgo[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o[0m
+[01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:[m[K In member function ‘[01m[Kvoid t2b::BumpGoNode::control_cycle()[m[K’:
+[01m[K/home/khaledob/bookros2_ws/src/t2b/src/t2b/BumpGoNode.cpp:137:25:[m[K [01;31m[Kerror: [m[K‘[01m[KCLEAR_DISTANCE[m[K’ was not declared in this scope
+  137 |       if (forward_avg > [01;31m[KCLEAR_DISTANCE[m[K) {
+      |                         [01;31m[K^~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/bumpgo.dir/build.make:63: CMakeFiles/bumpgo.dir/src/t2b/BumpGoNode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/bumpgo.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

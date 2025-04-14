@@ -1,0 +1,4 @@
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_tf2_detector -- -j7 -l7
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/khaledob/bookros2_ws/src/build/br2_tf2_detector -- -j7 -l7
+Invoking command in '/home/khaledob/bookros2_ws/src/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_tf2_detector
+Invoked command in '/home/khaledob/bookros2_ws/src/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/khaledob/bookros2_ws/src/build/br2_tf2_detector
